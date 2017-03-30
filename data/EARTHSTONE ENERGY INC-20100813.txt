@@ -1,0 +1,6993 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Rne3heMpt8k0aGg7ofzmWVuO5Jp2ne6wnewkSEhLrhyViqClW550Rvu0QHYoghzn
+ 1jAgy7yEgKn4IwWBS+ndgQ==
+
+0000010254-10-000011.txt : 20100813
+0000010254-10-000011.hdr.sgml : 20100813
+20100813121112
+ACCESSION NUMBER:		0000010254-10-000011
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20100630
+FILED AS OF DATE:		20100813
+DATE AS OF CHANGE:		20100813
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EARTHSTONE ENERGY INC
+		CENTRAL INDEX KEY:			0000010254
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				840592823
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-07914
+		FILM NUMBER:		101013946
+
+	BUSINESS ADDRESS:	
+		STREET 1:		633 SEVENTEENTH STREET
+		STREET 2:		SUITE 1645
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202-3625
+		BUSINESS PHONE:		303-296-3076
+
+	MAIL ADDRESS:	
+		STREET 1:		633 SEVENTEENTH STREET
+		STREET 2:		SUITE 1645
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202-3625
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BASIC EARTH SCIENCE SYSTEMS INC
+		DATE OF NAME CHANGE:	19920703
+
+
+10-Q
+1
+e10q_6-10.htm
+QUARTERLY FILING - JUNE 30, 2010
+
+e10q_6-10.htm
+
+
+
+
+
+
+
+
+
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+Washington,
+D.C. 20549
+
+FORM
+10-Q
+
+
+
+
+
+þ
+
+ 
+      
+
+QUARTERLY
+      REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+      1934
+
+
+
+For
+the Quarterly Period Ended June 30, 2010
+
+
+
+
+
+o
+
+ 
+      
+
+TRANSITION
+      REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+      1934
+
+
+
+Commission
+file number: 0-7914
+
+(Exact
+Name of Registrant as Specified in its Charter)
+
+
+
+
+
+Delaware
+(State
+      of Incorporation or Organization)
+
+
+84-0592823
+(I.R.S.
+      Employer Identification No.)
+
+ 
+      
+
+
+633 17th Street, Suite 1645, Denver,
+      Colorado
+(Address
+      of principal executive office)
+
+
+80202-3625
+(Zip
+      Code)
+
+ 
+      
+
+
+(303) 296-3076
+(Registrant’s
+      telephone number, including area code)
+
+ 
+      
+
+
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to
+be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+the filing requirements for the past 90 days.
+Yes þ  
+No o
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on
+its corporate Web site, if any, every Interactive Data File required to be
+submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this
+chapter) during the preceding 12 months (or for such shorter period that the
+registrant was required to submit and post such
+files).   Yes o  
+No o
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, a non-accelerated filer, or a smaller reporting company. See
+the definitions of “large accelerated filer,” “accelerated filer” and “smaller
+reporting company” in Rule 12b-2 of the Exchange Act.
+
+Large
+accelerated filer o                                                                                  Accelerated
+filer o
+Non-accelerated
+filer o (Do not
+check if a smaller reporting
+company)        Smaller reporting
+company þ
+
+Check
+whether the issuer is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).  
+Yes o No þ
+
+Shares of
+common stock outstanding on August 13, 2010: 17,081,132
+
+
+
+
+
+
+1
+
+
+
+
+
+Table of Contents
+
+
+EARTHSTONE ENERGY, INC.
+FORM
+10-Q
+INDEX
+
+
+
+
+ 
+      
+
+PART
+      I. FINANCIAL INFORMATION
+
+
+Page
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+Item 1.
+
+
+Financial Statements
+
+
+4
+
+
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+    Consolidated Balance Sheets:
+
+ 
+      
+
+ 
+      
+
+    June
+      30, 2010 (Unaudited) and March 31, 2010
+
+
+4
+
+
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+    Consolidated Statements of Operations:
+
+ 
+      
+
+ 
+      
+
+    Three
+      Months Ended June 30, 2010 and 2009 (Unaudited)
+
+
+6
+
+
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+    Consolidated Statements of Cash Flows:
+
+ 
+      
+
+ 
+      
+
+    Three
+      Months Ended June 30, 2010 and 2009 (Unaudited)
+
+
+7
+
+
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+    Notes to Unaudited Consolidated Financial
+      Statements:
+
+ 
+      
+
+ 
+      
+
+    June
+      30, 2010 (Unaudited)
+
+
+8
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+Item 2.
+
+
+Management’s Discussion and Analysis of Financial Condition
+      and Results of Operations
+
+
+12
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+Item 3.
+
+
+Quantitative and Qualitative Disclosures About Market
+      Risk
+
+
+16
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+Item 4.
+
+
+Controls and Procedures
+
+
+16
+
+
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+PART
+      II. OTHER INFORMATION
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+
+
+Item 1.
+
+
+Legal Proceedings
+
+
+17
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+Item
+      1A.
+
+
+Risk Factors
+
+
+17
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+Item 2.
+
+
+Unregistered Sales of Equity Securities and Use of
+      Proceeds
+
+
+17
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+Item 3.
+
+
+Defaults Upon Senior Securities
+
+
+17
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+Item 4.
+
+
+Submission of Matters to a Vote of Security
+      Holders
+
+
+17
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+Item 5.
+
+
+Other Information
+
+
+17
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+Item 6.
+
+
+Exhibits
+
+
+18
+
+
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+Signatures
+
+
+19
+
+
+
+ 
+
+
+
+
+
+
+2
+
+
+
+
+
+Table of Contents
+
+
+FORWARD-LOOKING
+STATEMENTS
+
+This
+Current Report on Form 10-Q, including information incorporated herein by
+reference, contains forward-looking statements as defined in the Private
+Securities Litigation Reform Act of 1995. The use of any statements containing
+the words "anticipate," "intend," "believe," "estimate," "project," "expect,"
+"plan," "should" or similar expressions are intended to identify such
+statements. Forward-looking statements relate to, among other
+things:
+ 
+•      our
+future financial position, including anticipated liquidity;
+•      our
+ability to satisfy obligations from cash generated from operations;
+•      amounts
+and nature of future capital expenditures;
+•      acquisitions
+and other business opportunities;
+•      operating
+costs and other expenses;
+•      wells
+expected to be drilled;
+•      asset
+retirement obligations; and
+•      estimates
+of proved oil and natural gas reserves, deferred tax liabilities, and depletion
+rates.
+•      our
+ability to meet additional acreage, seismic and/or drilling cost requirements
+arising from acquisition
+opportunities;
+  
+Factors
+that could cause actual results to differ materially from our expectations
+include, among others, such things as:
+
+•      oil
+and natural gas prices;
+•      our
+ability to replace oil and natural gas reserves;
+•      loss
+of senior management or technical personnel;
+•      inaccuracy
+in reserve estimates and expected production rates;
+•      exploitation,
+development and exploration results;
+•      the
+actual costs related to asset retirement obligations, and whether or not those
+retirements actually occur in
+the future;
+•      a
+lack of available capital and financing;
+•      the
+potential unavailability of drilling rigs and other field equipment and
+services;
+•      the
+existence of unanticipated liabilities or problems relating to acquired
+properties;
+•      general
+economic, market or business conditions;
+•      factors
+affecting the nature and timing of our capital expenditures, including the
+availability of service contractors
+and equipment,
+•      permitting
+issues, workovers, and weather;
+•      the
+impact and costs related to compliance with or changes in laws or regulations
+governing our oil and natural
+gas operations;
+•      environmental
+liabilities;
+•      acquisitions
+and other business opportunities (or the lack thereof) that may be presented to
+and pursued by
+us;
+•      competition
+for available properties and the effect of such competition on the price of
+those properties;
+•      risk
+factors consistent with comparable companies within our industry, especially
+companies  with similar
+market capitalization 
+               and/or
+employee census.
+•      other
+factors, many of which are beyond our control.
+
+Although
+we believe that the expectations reflected in such forward-looking statements
+are reasonable, those expectations may prove to be incorrect.  As with
+comparable companies within our industry, there are numerous factors that could
+cause actual results to differ materially from our expectations.  All
+forward-looking statements speak only as of the date made.  All
+subsequent written and oral forward-looking statements attributable to us, or
+persons acting on our behalf, are expressly qualified in their entirety by the
+cautionary statements.  Except as required by law, we undertake no
+obligation to update any forward-looking statement to reflect events or
+circumstances after the date on which it is made or to reflect the occurrence of
+anticipated or unanticipated events or circumstances.
+
+
+
+
+
+
+3
+
+
+
+
+
+Table of Contents
+
+
+ 
+PART I – FINANCIAL INFORMATION
+
+Item 1. Financial
+Statements
+
+Earthstone
+Energy, Inc.
+Consolidated
+Balance Sheets
+Page
+1 of 2
+
+
+
+ 
+      
+ 
+      
+
+June
+      30,
+
+ 
+      
+ 
+      
+
+March
+      31,
+
+ 
+      
+
+ 
+      
+ 
+      
+
+2010
+
+ 
+      
+ 
+      
+
+2010
+
+ 
+      
+
+ 
+      
+ 
+      
+
+(Unaudited)
+
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+Assets
+
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+Current
+      assets:
+
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+     Cash
+      and cash equivalents
+
+ 
+      
+
+$
+
+
+4,972,000
+
+ 
+      
+ 
+      
+
+$
+
+
+4,905,000
+
+ 
+      
+
+
+     Accounts
+      receivable:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+          Oil
+      and gas sales
+
+ 
+      
+ 
+      
+
+1,003,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,021,000
+
+ 
+      
+
+
+          Joint
+      interest and other receivables, net of $86,000 in
+allowance
+
+ 
+      
+ 
+      
+
+238,000
+
+ 
+      
+ 
+      
+ 
+      
+
+401,000
+
+ 
+      
+
+
+     Other
+      current assets
+
+ 
+      
+ 
+      
+
+593,000
+
+ 
+      
+ 
+      
+ 
+      
+
+732,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Total
+      current assets
+
+ 
+      
+ 
+      
+
+6,806,000
+
+ 
+      
+ 
+      
+ 
+      
+
+7,059,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Oil
+      and gas property, full cost method:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Proved
+      property
+
+ 
+      
+ 
+      
+
+34,268,000
+
+ 
+      
+ 
+      
+ 
+      
+
+33,915,000
+
+ 
+      
+
+
+     Unproved
+      property
+
+ 
+      
+ 
+      
+
+2,195,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,555,000
+
+ 
+      
+
+
+     Accumulated
+      depletion and impairment
+
+ 
+      
+ 
+      
+
+(23,832,000
+
+
+)
+
+ 
+      
+ 
+      
+
+(23,582,000
+
+
+)
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Net
+      oil and gas property
+
+ 
+      
+ 
+      
+
+12,631,000
+
+ 
+      
+ 
+      
+ 
+      
+
+11,888,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Support
+      equipment and other non-current assets, net of $362,000
+      and $374,000
+      
+         
+      in accumulated depreciation, respectively
+
+ 
+      
+ 
+      
+
+443,000
+
+ 
+      
+ 
+      
+ 
+      
+
+451,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Total
+      non-current assets
+
+ 
+      
+ 
+      
+
+13,074,000
+
+ 
+      
+ 
+      
+ 
+      
+
+12,339,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Total
+      assets
+
+ 
+      
+
+$
+
+
+19,880,000
+
+ 
+      
+ 
+      
+
+$
+
+
+19,398,000
+
+ 
+      
+
+
+
+See
+accompanying notes to unaudited consolidated financial
+statements.
+
+
+
+
+
+
+4
+
+
+
+
+
+Table of Contents
+
+
+
+Earthstone
+Energy, Inc.
+Consolidated
+Balance Sheets
+Page
+2 of 2
+
+
+
+ 
+      
+ 
+      
+
+June
+      30,
+
+ 
+      
+ 
+      
+
+March
+      31,
+
+ 
+      
+
+ 
+      
+ 
+      
+
+2010
+
+ 
+      
+ 
+      
+
+2010
+
+ 
+      
+
+ 
+      
+ 
+      
+
+(Unaudited)
+
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+Liabilities
+      and Shareholders' Equity
+
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+Current
+      liabilities:
+
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+     Accounts
+      payable
+
+ 
+      
+
+$
+
+
+330,000
+
+ 
+      
+ 
+      
+
+$
+
+
+161,000
+
+ 
+      
+
+
+     Accrued
+      liabilities
+
+ 
+      
+ 
+      
+
+1,788,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,836,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Total
+      current liabilities
+
+ 
+      
+ 
+      
+
+2,118,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,997,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Long-term
+      liabilities:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Deferred
+      tax liability
+
+ 
+      
+ 
+      
+
+2,218,000
+
+ 
+      
+ 
+      
+ 
+      
+
+2,217,000
+
+ 
+      
+
+
+     Asset
+      retirement obligation
+
+ 
+      
+ 
+      
+
+1,687,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,674,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Total
+      long-term liabilities
+
+ 
+      
+ 
+      
+
+3,905,000
+
+ 
+      
+ 
+      
+ 
+      
+
+3,891,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Total
+      liabilities
+
+ 
+      
+ 
+      
+
+6,023,000
+
+ 
+      
+ 
+      
+ 
+      
+
+5,888,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Shareholders’
+      Equity:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Preferred
+      stock, $.001 par value, 3,000,000 authorized and none issued or
+      outstanding
+
+ 
+      
+ 
+      
+
+—
+
+ 
+      
+ 
+      
+ 
+      
+
+—
+
+ 
+      
+
+
+     Common
+      stock, $.001 par value, 32,000,000 shares authorized and 17,791,000
+      and 17,704,000 shares issued and
+              
+      outstanding, respectively
+
+ 
+      
+ 
+      
+
+18,000
+
+ 
+      
+ 
+      
+ 
+      
+
+18,000
+
+ 
+      
+
+
+     Additional
+      paid-in capital
+
+ 
+      
+ 
+      
+
+22,965,000
+
+ 
+      
+ 
+      
+ 
+      
+
+22,945,000
+
+ 
+      
+
+
+     Treasury
+      stock (694,000 and 646,000 shares respectively); at cost
+
+ 
+      
+ 
+      
+
+(302,000
+
+
+)
+
+ 
+      
+ 
+      
+
+(251,000
+
+
+)
+
+
+
+     Accumulated
+      deficit
+
+ 
+      
+ 
+      
+
+(8,824,000
+
+
+)
+
+ 
+      
+ 
+      
+
+(9,202,000
+
+
+)
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Total
+      shareholders’ equity
+
+ 
+      
+ 
+      
+
+13,857,000
+
+ 
+      
+ 
+      
+ 
+      
+
+13,510,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Total
+      liabilities and shareholders’ equity
+
+ 
+      
+
+$
+
+
+19,880,000
+
+ 
+      
+ 
+      
+
+$
+
+
+19,398,000
+
+ 
+      
+
+
+
+See
+accompanying notes to unaudited consolidated financial
+statements.
+
+
+
+
+
+
+5
+
+
+
+
+
+Table of Contents
+
+
+
+Earthstone Energy, Inc.
+Consolidated
+Statements of Operations
+(Unaudited)
+  
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+Three
+      Months Ended
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+
+June
+      30,
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+
+2010
+
+ 
+      
+ 
+      
+ 
+      
+
+2009
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Revenues:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Oil
+      and gas sales
+
+ 
+      
+
+$
+
+
+1,763,000
+
+ 
+      
+ 
+      
+
+$
+
+
+1,460,000
+
+ 
+      
+
+
+     Well
+      service and water disposal revenue
+
+ 
+      
+ 
+      
+
+1,000
+
+ 
+      
+ 
+      
+ 
+      
+
+16,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Total
+      revenues
+
+ 
+      
+ 
+      
+
+1,764,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,476,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Expenses:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Oil
+      and gas production
+
+ 
+      
+ 
+      
+
+501,000
+
+ 
+      
+ 
+      
+ 
+      
+
+468,000
+
+ 
+      
+
+
+     Production
+      tax
+
+ 
+      
+ 
+      
+
+126,000
+
+ 
+      
+ 
+      
+ 
+      
+
+120,000
+
+ 
+      
+
+
+     Well
+      servicing expenses
+
+ 
+      
+ 
+      
+
+3,000
+
+ 
+      
+ 
+      
+ 
+      
+
+15,000
+
+ 
+      
+
+
+     Depreciation
+      and depletion
+
+ 
+      
+ 
+      
+
+259,000
+
+ 
+      
+ 
+      
+ 
+      
+
+238,000
+
+ 
+      
+
+
+     Accretion
+      of asset retirement obligation
+
+ 
+      
+ 
+      
+
+40,000
+
+ 
+      
+ 
+      
+ 
+      
+
+42,000
+
+ 
+      
+
+
+     Asset
+      retirement expense
+
+ 
+      
+ 
+      
+
+5,000
+
+ 
+      
+ 
+      
+ 
+      
+
+4,000
+
+ 
+      
+
+
+     General
+      and administrative
+
+ 
+      
+ 
+      
+
+386,000
+
+ 
+      
+ 
+      
+ 
+      
+
+335,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Total
+      expenses
+
+ 
+      
+ 
+      
+
+1,320,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,222,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Income
+      from operations
+
+ 
+      
+ 
+      
+
+444,000
+
+ 
+      
+ 
+      
+ 
+      
+
+254,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Other
+      Income (Expense):
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Interest
+      and other income
+
+ 
+      
+ 
+      
+
+3,000
+
+ 
+      
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+
+
+     Interest
+      and other expenses
+
+ 
+      
+ 
+      
+
+ ―
+
+ 
+      
+ 
+      
+ 
+      
+
+(15,000)
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Total
+      other income (expense)
+
+ 
+      
+ 
+      
+
+3,000
+
+ 
+      
+ 
+      
+ 
+      
+
+(15,000)
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Income
+      before income taxes
+
+ 
+      
+ 
+      
+
+447,000
+
+ 
+      
+ 
+      
+ 
+      
+
+239,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Current
+      income tax expense (benefit)
+
+ 
+      
+ 
+      
+
+68,000
+
+ 
+      
+ 
+      
+ 
+      
+
+(58,000)
+
+ 
+      
+
+
+Deferred
+      income taxes
+
+ 
+      
+ 
+      
+
+           1,000
+
+ 
+      
+ 
+      
+ 
+      
+
+48,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Total
+      income tax expense (benefit)
+
+ 
+      
+ 
+      
+
+69,000
+
+ 
+      
+ 
+      
+ 
+      
+
+(10,000)
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Net
+      income
+
+ 
+      
+
+$
+
+
+378,000
+
+ 
+      
+ 
+      
+
+$
+
+
+249,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Per
+      share amounts:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Basic
+
+ 
+      
+
+$
+
+
+0.02
+
+ 
+      
+ 
+      
+
+$
+
+
+0.01
+
+ 
+      
+
+
+     Diluted
+
+ 
+      
+
+$
+
+
+0.02
+
+ 
+      
+ 
+      
+
+$
+
+
+0.01
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Weighted
+      average common shares outstanding:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Basic
+
+ 
+      
+ 
+      
+
+16,867,674
+
+ 
+      
+ 
+      
+ 
+      
+
+17,024,579
+
+ 
+      
+
+
+     Diluted
+
+ 
+      
+ 
+      
+
+16,867,674
+
+ 
+      
+ 
+      
+ 
+      
+
+17,024,579
+
+ 
+      
+
+
+
+See
+accompanying notes to unaudited consolidated financial
+statements.
+
+
+
+
+
+
+6
+
+
+
+
+
+Table of Contents
+
+
+ 
+Earthstone Energy, Inc.
+Consolidated
+Statements of Cash Flows
+(Unaudited)
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+Three
+      Months Ended
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+
+June
+      30,
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+
+2010
+
+ 
+      
+ 
+      
+ 
+      
+
+2009
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Cash
+      flows from operating activities:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Net
+      income
+
+ 
+      
+
+$
+
+
+  378,000
+
+ 
+      
+ 
+      
+
+$
+
+
+249,000
+
+ 
+      
+
+
+Adjustments
+      to reconcile net income to net cash provided by operating
+      activities:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Depreciation
+      and depletion
+
+ 
+      
+ 
+      
+
+      259,000
+
+ 
+      
+ 
+      
+ 
+      
+
+238,000
+
+ 
+      
+
+
+     Deferred
+      tax liability
+
+ 
+      
+ 
+      
+
+             1,000
+
+ 
+      
+ 
+      
+ 
+      
+
+48,000
+
+ 
+      
+
+
+     Accretion
+      of asset retirement obligation
+
+ 
+      
+ 
+      
+
+       40,000
+
+ 
+      
+ 
+      
+ 
+      
+
+42,000
+
+ 
+      
+
+
+     Share
+      based compensation
+
+ 
+      
+ 
+      
+
+           20,000
+
+ 
+      
+ 
+      
+ 
+      
+
+12,000
+
+ 
+      
+
+
+Change
+      in:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Accounts
+      receivable, net
+
+ 
+      
+ 
+      
+
+            181,000
+
+ 
+      
+ 
+      
+ 
+      
+
+(470,000)
+
+ 
+      
+
+
+     Other
+      current assets
+
+ 
+      
+ 
+      
+
+        139,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,000
+
+ 
+      
+
+
+     Accounts
+      payable and accrued liabilities
+
+ 
+      
+ 
+      
+
+          175,000
+
+ 
+      
+ 
+      
+ 
+      
+
+341,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Net
+      cash provided by operating activities
+
+ 
+      
+ 
+      
+
+     1,193,000
+
+ 
+      
+ 
+      
+ 
+      
+
+461,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Cash
+      flows from investing activities:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Oil
+      and gas property
+
+ 
+      
+ 
+      
+
+     (1,074,000)
+
+ 
+      
+ 
+      
+ 
+      
+
+(333,000)
+
+ 
+      
+
+
+     Support
+      equipment
+
+ 
+      
+ 
+      
+
+            (1,000)
+
+ 
+      
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Net
+      cash used in investing activities
+
+ 
+      
+ 
+      
+
+        (1,075,000)
+
+ 
+      
+ 
+      
+ 
+      
+
+(333,000)
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Cash
+      flows from financing activities:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Purchase
+      of treasury shares
+
+ 
+      
+ 
+      
+
+          (51,000)
+
+ 
+      
+ 
+      
+ 
+      
+
+(162,000)
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Net
+      cash used in financing activities
+
+ 
+      
+ 
+      
+
+         (51,000)
+
+ 
+      
+ 
+      
+ 
+      
+
+(162,000)
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Cash
+      and cash equivalents:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Increase
+      (decrease) in cash and cash equivalents
+
+ 
+      
+ 
+      
+
+           67,000
+
+ 
+      
+ 
+      
+ 
+      
+
+(34,000)
+
+ 
+      
+
+
+     Balance,
+      beginning of year
+
+ 
+      
+ 
+      
+
+     4,905,000
+
+ 
+      
+ 
+      
+ 
+      
+
+4,088,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Balance,
+      end of period
+
+ 
+      
+
+$
+
+
+      4,972,000
+
+ 
+      
+ 
+      
+
+$
+
+
+4,054,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Supplemental
+      disclosure of cash flow information:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Cash
+      paid for interest
+
+ 
+      
+
+$
+
+
+―
+
+ 
+      
+ 
+      
+
+$
+
+
+10,000
+
+ 
+      
+
+
+     Cash
+      paid for income tax
+
+ 
+      
+
+$
+
+
+           90,000
+
+ 
+      
+ 
+      
+
+$
+
+
+―
+
+ 
+      
+
+
+Non-cash:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+    Increase
+      in oil and gas property due to asset retirement obligation
+
+ 
+      
+
+$
+
+
+        202,000
+
+ 
+      
+ 
+      
+
+$
+
+
+16,000
+
+ 
+      
+
+
+     Vested
+      shares issued as compensation
+
+ 
+      
+
+$
+
+
+―
+
+ 
+      
+ 
+      
+
+$
+
+
+48,000
+
+ 
+      
+
+
+     Additions
+      to oil and gas also included in accrued liabilities
+
+ 
+      
+
+$
+
+
+      633,000
+
+ 
+      
+ 
+      
+
+$
+
+
+87,000
+
+ 
+      
+
+
+
+See
+accompanying notes to unaudited consolidated financial
+statements.
+
+
+
+
+
+
+7
+
+
+
+
+
+Table of Contents
+
+
+Earthstone Energy, Inc.
+Notes
+to Unaudited Consolidated Financial Statements
+June
+30, 2010
+
+1.
+Presentation of Consolidated Financial Statements
+
+The
+accompanying interim financial statements of Earthstone Energy, Inc. (formerly
+Basic Earth Science Systems, Inc. sometimes referred to as “the Company” “we”
+“our” or “us”) are unaudited. However, in the opinion of management, the interim
+data includes any applicable adjustments necessary for a fair presentation
+according to generally accepted accounting principles (GAAP) of the financial
+and operational results for the interim period.
+
+At the
+directive of the Securities and Exchange Commission to use “plain English” in
+public filings, the Company will use such terms as “we”, “our”, “us” or “the
+Company” in place of Earthstone Energy, Inc.  When such terms are used
+in this manner throughout this document they are in reference only to the
+corporation, Earthstone Energy, Inc. and its subsidiaries, and are not used in
+reference to the board of directors, corporate officers, management, or any
+individual employee or group of employees.
+
+The
+financial statements included herein have been prepared by the Company pursuant
+to the rules and regulations of the Securities and Exchange Commission. Certain
+information and footnote disclosures normally included in financial statements
+prepared in accordance with GAAP have been condensed or omitted pursuant to such
+rules and regulations. We believe the disclosures made are adequate to make the
+information not misleading and suggest that these financial statements be read
+in conjunction with the financial statements and related notes thereto included
+in our Annual Report on Form 10-K for the year ended March 31, 2010 and
+Quarterly Reports on Form 10-Q for the quarters ended December 31, 2009,
+September 30, 2009 and June 30, 2009.
+
+For the
+period ended June 30, 2010, we determined that there were no subsequent events
+to recognize or disclose in these consolidated financial statements which would
+either impact the results reflected in this report or the Company’s results
+going forward.
+
+Organization and
+Nature of Operations. Earthstone Energy, Inc. was originally organized in
+July 1969 as Basic Earth Science Systems, Inc.  We are
+principally engaged in the acquisition, exploitation, development, operation and
+production of crude oil and natural gas. Our primary areas of operation are the
+Williston basin in North Dakota and Montana, south Texas and the
+Denver-Julesburg basin in Colorado.
+
+Principles of
+Consolidation. The consolidated financial statements include our accounts
+and those of our wholly owned subsidiaries. All significant intercompany
+accounts and transactions have been eliminated.  The Company does not
+have any off-balance sheet financing arrangements or any unconsolidated special
+purpose entities.
+
+2.
+Summary of Significant Accounting Policies and Recent Accounting
+Pronouncements
+
+Use of Estimates.
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires us to make estimates and assumptions
+that affect the actual amounts of assets and liabilities at the date of the
+financial statements and the actual amounts of revenues and expenses during the
+reporting period. We base these estimates on assumptions that we understand are
+reasonable under the circumstances. The estimated results that are produced by
+this effort will differ under different assumptions or conditions.  We
+understand that these estimates are necessary, and we caution that actual
+results could vary significantly from the estimated amounts for the current and
+future periods.
+
+
+
+
+
+
+8
+
+
+
+
+
+Table of Contents
+
+
+
+There are
+many factors, including global events, which may influence the production,
+processing, marketing, and valuation of crude oil and natural gas. A reduction
+in the valuation of oil and gas properties resulting from declining prices or
+production could adversely impact depletion rates and ceiling test limitations.
+We understand the following accounting policies and estimates are necessary in
+the preparation of our consolidated financial statements: the carrying value of
+our oil and gas property, the accounting for oil and gas reserves, the estimate
+of our asset retirement obligations, the estimate of our income tax assets and
+liabilities and estimates of accrued quantities and prices in our oil and gas
+receivable.
+
+Oil and Gas
+Reserves. Oil and gas reserves represent theoretical, estimated
+quantities of crude oil and natural gas which geological and engineering data
+estimate with reasonable certainty to be recoverable in future years from known
+reservoirs under existing economic and operating conditions. There are numerous
+uncertainties inherent in estimating oil and gas reserves and their values,
+including many factors beyond our control. Accordingly, reserve estimates are
+different from the future quantities of oil and gas that are ultimately
+recovered and the corresponding lifting costs associated with the recovery of
+these reserves. As of our year end, March 31, 2010, ninety-three percent of our
+reported oil and gas reserves are based on estimates prepared by Ryder Scott
+Company, L.P, a nationally recognized, independent petroleum engineering firm.
+The remaining seven percent of our oil and gas reserves were prepared by our
+technical in-house staff.
+
+Each
+quarter, we update reserve estimates by substituting the prices that were used
+by our independent petroleum engineers with average first-of-the-month prices
+for each of the three months of the quarter.  In conducting this
+“re-pricing” no changes are made to the decline rates, tax rates or lifting
+costs used by our independent petroleum engineers.  The determinations
+of depletion expense, as well as the results of ceiling tests and corresponding
+write-downs, if any, are highly dependent on these reserve and quarterly
+“re-pricing” estimates.
+
+Oil and Gas
+Sales. We derive revenue primarily from the sale of produced natural gas
+and crude oil. We report revenue on a gross basis for the amounts received
+before taking into account production taxes and transportation costs, which are
+reported as separate expenses. Revenue is recorded using the sales method, which
+occurs in the month production is delivered to the purchaser, at which time
+title changes hands. Payment is generally received between 30 and 90 days
+after the date of production. We make estimates of the amount of production
+delivered to purchasers and the prices we will receive. We use our knowledge of
+our properties, their historical performance, NYMEX and local spot market
+prices, and other factors as the basis for these estimates. Variances between
+estimates and the actual amounts received are recorded when payment is received,
+or when better information is available.
+
+Oil and Gas
+Property. We follow the full cost method of accounting for our oil and
+gas property. Accordingly, all costs associated with the acquisition,
+exploration and development of oil and gas properties are capitalized. These
+capitalized costs are subject to a ceiling test that limits such pooled costs to
+the aggregate of the present value of future net revenues attributable to proved
+oil and gas reserves discounted at 10 percent plus the lower of cost or
+fair value of unproved properties less any associated tax effects. If the full
+cost pool of capitalized oil and gas property costs exceeds the ceiling, we will
+record a ceiling test write-down to the extent of such excess. This write-down
+is a non-cash charge to earnings. If required, it reduces earnings and impacts
+stockholders’ equity in the period of occurrence. The write-down may not be
+reversed in future periods, even though higher oil and gas prices in the future
+may subsequently and significantly increase reserve estimates in future
+periods.  As of the balance sheet date, our capitalized costs did not
+exceed the ceiling test limit.
+
+Cash and Cash
+Equivalents. For purposes of the Consolidated Balance Sheets and
+Statements of Cash Flows, we consider all highly liquid investments with a
+maturity of ninety days or less when purchased to be cash equivalents. The
+carrying amount of cash equivalents approximates fair value because of the
+short-term maturity of those instruments. During the period and at the balance
+sheet date, balances of cash and cash equivalents exceeded the federally insured
+limit.
+
+
+
+
+
+
+9
+
+
+
+
+
+Table of Contents
+
+
+
+Support Equipment
+and Other. Support equipment (including such items as vehicles, office
+furniture and equipment and well servicing equipment) is stated at cost.
+Depreciation of support equipment and other property is computed using the
+straight-line method over periods ranging from five to seven years.
+
+Long-Lived
+Assets. We regularly evaluate all long-lived assets for possible
+impairment. Assets are reported at the lower of cost or their estimated
+recoverable amounts. During the periods ended June 30, 2010 and 2009 there was
+no impairment recorded for long-lived assets.
+
+Fair Value
+Measurements. Effective April 1, 2009, we adopted the provisions for
+nonfinancial assets and liabilities that are not required to be measured at fair
+value on a recurring basis, which include, among others, those assets measured
+at fair value for impairment assessment and asset retirement obligations
+initially measured at fair value. Fair value used in the initial recognition of
+asset retirement obligations is determined based on the present value of
+expected future dismantlement costs incorporating our estimate of inputs used by
+industry participants when valuing similar liabilities. Accordingly, the fair
+value is based on unobservable pricing inputs and therefore, is considered a
+level 3 value input in the fair value hierarchy.
+
+Asset Retirement
+Obligations. We have obligations related to the plugging and abandonment
+of our oil and gas wells. We estimate the future cost of these obligations,
+discount this cost to its present value, and record a corresponding asset and
+liability in our Consolidated Balance Sheets. The values ultimately derived are
+based on numerous and significant estimates, including the ultimate expected
+cost of the obligation, the expected future date of the required cash
+expenditures and inflation rates. The nature of these estimates requires us to
+make judgments based on historical experience and future expectations related to
+timing. We review the estimate of our future asset retirement obligations
+quarterly. These quarterly reviews may require revisions to these estimates
+based on such things as changes to cost estimates or the timing of future cash
+outlays. Any such changes that result in upward or downward revisions in the
+estimated obligation will result in an adjustment to the related capitalized
+asset and corresponding liability on a prospective basis.
+ 
+We
+recognize two components on our consolidated statement of operations; accretion
+of asset retirement obligations and asset retirement
+expense.  Accretion of asset retirement obligation reflects the
+periodic accretion of the present value of future plugging and abandonment
+costs.  Asset retirement expense reflects the actual current period
+gains and losses on plugging and abandonment costs relative to previously
+estimated future costs. We have closed gains and losses on asset
+retirements to the Consolidated Statement of Operations as a component of asset
+retirement expense.
+
+The
+information below reconciles the value of the asset retirement obligation for
+the period presented.  This includes a short term obligation of
+$160,000, which is carried within the accrued liabilities line item of the
+balance sheet. 
+
+
+
+
+ 
+      
+ 
+      
+
+Three
+      Months Ended
+
+ 
+      
+
+ 
+      
+ 
+      
+
+June
+      30,
+
+ 
+      
+
+ 
+      
+ 
+      
+
+2010
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Asset
+      retirement obligation – April 1, 2010
+
+ 
+      
+
+$
+
+
+1,774,000
+
+ 
+      
+
+
+     Liabilities
+      incurred
+
+ 
+      
+ 
+      
+
+16,000
+
+ 
+      
+
+
+     Liabilities
+      settled
+
+ 
+      
+ 
+      
+
+(169,000
+
+
+)
+
+
+
+     Revisions
+      to estimates
+
+ 
+      
+ 
+      
+
+186,000
+
+ 
+      
+
+
+     Accretion
+      expense
+
+ 
+      
+ 
+      
+
+40,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Asset
+      retirement obligation – June 30, 2010
+
+ 
+      
+
+$
+
+
+1,847,000
+
+ 
+      
+
+
+ 
+
+
+
+
+
+
+10
+
+
+
+
+
+Table of Contents
+
+
+
+Commitments.  We
+currently office in a 4,000 square foot office space located in downtown Denver,
+Colorado, and are committed to a total of $281,000 plus maintenance fees for the
+five-year lease term ending April 1, 2013.  We have no off
+balance sheet transactions or arrangements.
+
+Income Taxes.
+We account for income taxes with deferred tax liabilities and assets
+which are determined based on the temporary differences between the financial
+statements and tax bases of assets and liabilities, using enacted tax rates in
+effect for the year in which the differences are expected to
+reverse.
+
+Projections
+of future income taxes and their timing require significant estimates with
+respect to future operating results. Accordingly, the net deferred tax liability
+is continually re-evaluated and numerous estimates are revised over time. As
+such, the net deferred tax liability may change significantly as more
+information and data is gathered with respect to such events as changes in
+commodity prices, their effect on the estimate of oil and gas reserves and the
+depletion of these long-lived reserves.
+
+We are
+subject to U.S. federal income tax and income tax from multiple state
+jurisdictions. The tax years remaining subject to examination by tax authorities
+are fiscal years 2007 through 2009. We recognize interest and penalties related
+to uncertain tax positions in income tax expense. As of June 30, 2010, we made
+no provisions for interest or penalties related to uncertain tax
+positions.
+
+Earnings Per
+Share. Our earnings per share (EPS) is computed by dividing net income by
+the weighted average number of common shares outstanding for the period. Diluted
+EPS is calculated by dividing net income by the diluted weighted average number
+of common shares. The diluted weighted average number of common shares is
+computed using the treasury stock method for common stock that may be issued for
+outstanding stock options.  As of the balance sheet date no dilutive
+securities were outstanding.
+ 
+Reclassifications.
+Certain prior year amounts were reclassified to conform to current year
+presentation. Such reclassifications had no effect on net income.
+
+Recent
+Accounting Pronouncements
+
+In
+January 2010, guidance for fair value measurements and disclosure was
+updated to require additional disclosures related to transfers in and out of
+level 1 and 2 fair value measurements and enhanced detail in the level 3
+reconciliation. The guidance was amended to clarify the level of disaggregation
+required for assets and liabilities and the disclosures required for inputs and
+valuation techniques used to measure the fair value of assets and liabilities
+that fall in either level 2 or level 3. The updated guidance was effective for
+the Company’s fiscal year beginning April 1, 2010, with the exception of
+the level 3 disaggregation which is effective for the Company’s fiscal year
+beginning April 1, 2011. The adoption had no impact on the Company’s
+consolidated financial position, results of operations or cash
+flows.
+
+In June
+2009, the FASB issued Accounting Standards Codification, “Accounting Standards
+Codification and the Hierarchy of Generally Accepted Accounting Principles”
+(Codification) which will become the source of authoritative U.S. generally
+accepted accounting principles (GAAP) recognized by the FASB to be applied by
+nongovernmental entities. Rules and interpretive releases of the Securities and
+Exchange Commission (SEC) under authority of federal securities laws are also
+sources of authoritative GAAP for SEC registrants. On the effective date of this
+Statement, the Codification will supersede all then-existing non-SEC accounting
+and reporting standards. All other non-grandfathered non-SEC accounting
+literature not included in the Codification will become non-authoritative. 
+This Statement is effective for financial statements issued for interim and
+annual periods ended after September 15, 2009.  The adoption of the
+Codification did not have a material impact on our consolidated financial
+statements or results of operations.
+
+
+
+
+
+
+11
+
+
+
+
+
+Table of Contents
+
+
+
+In
+December 2008, the SEC announced final approval of new requirements for
+reporting oil and gas reserves. Among the changes to the disclosure requirements
+is a broader definition of reserves, which allows reporting of probable and
+possible reserves, in addition to consideration of new technologies and
+non-traditional resources. In addition, oil and gas reserves will be reported
+using an average price based on the first-day-of-the-month price during the
+prior 12-month period, rather than year-end prices. The new rules are effective
+for years ending on or after December 31, 2009. The adoption of the new
+rules is considered a change in accounting principle inseparable from a change
+in accounting estimate. The Company does not believe that provisions of the new
+guidance, other than pricing, significantly impacted the reserve estimates or
+financial statements which also impact the amount recorded for depreciation,
+depletion and amortization and the ceiling test calculation for oil and gas
+properties. Under the new guidance, subsequent price increases cannot be
+considered in the ceiling test calculation. The Company does not believe that it
+is practicable to estimate the effect of applying the new rules on net loss or
+the amounts recorded for depreciation, depletion and amortization and ceiling
+impairment.
+
+Item 2.
+Management’s
+Discussion and Analysis of Financial Condition and Results of
+Operations
+ 
+The
+following discussion and analysis should be read in conjunction with
+“Management’s Discussion and Analysis of Financial Condition and Results of
+Operations” contained in our Annual Report on Form 10-K for the fiscal year
+ended March 31, 2010, as well as the financial statements and related notes and
+other information appearing elsewhere in this report.
+
+As a
+crude oil and natural gas producer, our revenue, cash flow from operations,
+other income and profitability, reserve values, access to capital and future
+rate of growth are substantially dependent upon the prevailing prices of crude
+oil and natural gas. Declines in commodity prices will materially and adversely
+affect our financial condition, liquidity, ability to obtain financing and
+operating results. Lower commodity prices may reduce the amount of crude oil and
+natural gas that we can produce economically. Prevailing prices for such
+commodities are subject to wide fluctuation in response to relatively minor
+changes in supply and demand and a variety of additional factors beyond our
+control, such as global, political and economic conditions. Historically, prices
+received for crude oil and natural gas production have been volatile and
+unpredictable, and such volatility is expected to continue. Most of our
+production is sold at market prices. Generally, if the commodity indexes fall,
+the price that we receive for our production will also decline. Therefore, the
+amount of revenue that we realize is to a large extent determined by factors
+beyond our control.
+ 
+Liquidity
+and Capital Resources
+
+Liquidity
+Outlook. Our primary source of funding is the net cash flow from the sale
+of our oil and gas production. The profitability and cash flow generated by our
+operations in any particular accounting period will be directly related to:
+(a) the volume of oil and gas produced and sold, (b) the average realized
+prices for oil and gas sold and (c) lifting costs. Assuming that oil prices
+do not decline from current levels, we believe the cash generated from
+operations, along with existing cash balances, will enable us to meet our
+existing and normal recurring obligations during the next year and
+beyond.
+
+Working Capital.
+At June 30, 2010, we had a working capital surplus of $4,688,000 (a
+current ratio of 3.21:1) compared to a working capital surplus at March 31, 2010
+of $5,062,000 (a current ratio of 3.53:1). The decrease in current ratio is
+largely a result of the timing between payments made for payables and cash
+received for revenue.
+
+Cash Flow.
+Net cash provided by operating activities increased 158.8% from $461,000
+in the three months ended June 30, 2009 (“2009”) to $1,193,000 in the three
+months ended June 30, 2010 (“2010”) primarily due to increased oil and gas
+commodity prices and resulting increase in oil and gas revenues, the timing and
+collection of receivables, and the timing and application of prepaid
+costs.  
+
+
+
+
+
+
+12
+
+
+
+
+
+Table of Contents
+
+
+
+Net cash
+used in investing activities increased 222.8% from $333,000 in the three months
+ended June 30, 2009 to $1,075,000 in the three months ended June 30, 2010. The
+difference relates primarily to significantly more expenditures made during 2010
+on DJ Basin wells in Colorado as well as a new Williston Basin well in North
+Dakota.
+
+Net cash
+used in financing activities decreased 68.5% from $162,000 in the three months
+ended June 30, 2010 to $51,000 in the three months ended June 30,
+2010.   Cash used in financing activities related to the stock
+buyback program adopted in October 2008.
+
+Credit
+Line. Our current banking relationship, established in March 2002,
+is with American National Bank (“the Bank”), located in Denver, Colorado.
+Subject to evaluation every six months, the line of credit amount was set at $20
+million with a concurrent borrowing base of $4 million. Effective
+December 31, 2008, the loan agreement was amended to extend the maturity
+date of the credit agreement to December 31, 2010.  We renewed
+the line with an interest rate of prime plus 0.25% or 6.5% whichever is
+higher.  During the year ended March 31, 2010 and for the three
+months ended June 30, 2010, we did not utilize our credit
+facility.  The loan contains several covenant
+restrictions.   At June 30, 2010, we were in compliance with all
+covenants.  This line may be used for purposes of borrowing funds to
+reduce payables, finance re-completion or drilling efforts, fund property
+acquisitions or pursue other opportunities that might arise.
+
+Capital
+Expenditures
+
+The
+amounts presented herein are presented on an accrual basis, and as such may not
+be consistent with the amounts presented on the Consolidated Statement of Cash
+Flows under investing activities for expenditures on oil and gas property, which
+are presented on a cash basis.
+
+During
+the quarter ended June 30, 2010, we spent approximately $791,000 on various
+projects.  This compares to $377,000 for the quarter ended June 30,
+2009. During the quarter ended June 30, 2010, approximately 81.6% of capital
+expenditures were dedicated to drilling and completions, and 17.2% on leasing
+property in the Williston Basin.  Of the drilling and completions, we
+spent approximately 71.4% on re-completing six of our DJ Basin wells in Colorado
+to the J-sand zone.  The remaining expenditures primarily consisted of
+the drilling of the Pederson 10-3H, a new Williston Basin well in North
+Dakota.  These projects were funded with cash flow from
+operations.
+ 
+At
+present cash levels, and with the extension of our available borrowing capacity,
+we expect to have sufficient funds available for our share of any additional
+acreage, seismic and/or drilling cost requirements that might arise from these
+opportunities.  We may alter or vary all or part of any planned
+capital expenditures for reasons including but not limited to: changes in
+circumstances, unforeseen opportunities, inability to negotiate favorable
+acquisition, farmout or joint venture terms, lack of cash flow and lack of
+additional funding.
+
+We
+currently have no capital expenditure commitments.  We are continually
+evaluating drilling and acquisition opportunities for possible participation.
+Typically, at any one time, several opportunities are in various stages of due
+diligence. Our policy is to not disclose the specifics of a project or prospect,
+nor to speculate on such ventures, until such time as those various
+opportunities are finalized and undertaken. We caution that the absence of news
+and/or press releases should not be interpreted as a lack of development or
+activity.
+
+Divestitures/Abandonments
+
+During
+the quarter ended June 30, 2010, we plugged two wells.
+
+
+
+
+
+
+13
+
+
+
+
+
+Table of Contents
+
+
+
+Results of Operations
+
+Overview.
+Net income for the three months ended June 30, 2010 was $378,000,
+compared to net income of $249,000 for the three months ended June 30,
+2009.  The following table shows selected financial information for
+the three months ended June 30 in the current and prior year. Certain prior year
+amounts may have been reclassified to conform to current year
+presentation.
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+Three
+      Months Ended
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+
+June
+      30,
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+
+2010
+
+ 
+      
+ 
+      
+ 
+      
+
+2009
+
+ 
+      
+
+
+Sales
+      volume
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Oil
+      (barrels)
+
+ 
+      
+ 
+      
+
+23,222
+
+ 
+      
+ 
+      
+ 
+      
+
+24,343
+
+ 
+      
+
+
+     Gas
+      (mcf) (1)
+
+ 
+      
+ 
+      
+
+23,964
+
+ 
+      
+ 
+      
+ 
+      
+
+35,186
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Revenue
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Oil
+
+ 
+      
+
+$
+
+
+1,577,000
+
+ 
+      
+ 
+      
+
+$
+
+
+1,270,000
+
+ 
+      
+
+
+     Gas
+
+ 
+      
+ 
+      
+
+186,000
+
+ 
+      
+ 
+      
+ 
+      
+
+190,000
+
+ 
+      
+
+
+Total
+      revenue (2)
+
+ 
+      
+ 
+      
+
+1,763,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,460,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Total
+      production expense (3)
+
+ 
+      
+ 
+      
+
+627,000
+
+ 
+      
+ 
+      
+ 
+      
+
+588,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Gross
+      profit
+
+ 
+      
+
+$
+
+
+1,136,000
+
+ 
+      
+ 
+      
+
+$
+
+
+872,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Depletion
+      expense
+
+ 
+      
+
+$
+
+
+250,000
+
+ 
+      
+ 
+      
+
+$
+
+
+230,000
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Average
+      sales price (4)
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Oil
+      (per barrel)
+
+ 
+      
+
+$
+
+
+67.91
+
+ 
+      
+ 
+      
+
+$
+
+
+52.17
+
+ 
+      
+
+
+     Gas
+      (per mcf)
+
+ 
+      
+
+$
+
+
+7.76
+
+ 
+      
+ 
+      
+
+$
+
+
+5.40
+
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+Average
+      per BOE
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+     Production
+      expense(3,4,5)
+
+ 
+      
+
+$
+
+
+23.04
+
+ 
+      
+ 
+      
+
+$
+
+
+19.47
+
+ 
+      
+
+
+     Gross
+      profit (4,5)
+
+ 
+      
+
+$
+
+
+41.74
+
+ 
+      
+ 
+      
+
+$
+
+
+28.87
+
+ 
+      
+
+
+     Depletion
+      expense (4,5)
+
+ 
+      
+
+$
+
+
+9.19
+
+ 
+      
+ 
+      
+
+$
+
+
+7.61
+
+ 
+      
+
+
+ 
+ 
+
+
+
+
+(1)
+
+
+Due
+      to the timing and accuracy of sales information received from a third
+      party operator as described in “Volumes and Prices”
+      below, sales volume amounts may not be indicative of actual production or
+      future performance.
+
+
+
+(2)
+
+
+Amount
+      does not include water service and disposal revenue.  For the
+      quarter ended June 30, 2010 this revenue amount is net of $1,000 in water
+      service and disposal revenue, which would otherwise total $1,764,000 in
+      revenue, compared to $16,000 in 2009 to total $1,476,000 for the same
+      period in 2009.
+
+
+
+(3)
+
+
+Overall
+      lifting cost (oil and gas production expenses and production
+      taxes)
+
+
+
+(4)
+
+
+Averages
+      calculated based upon non-rounded figures
+
+
+
+(5)
+
+
+Per
+      equivalent barrel (6 Mcf of gas is equivalent to 1 barrel of
+      oil)
+
+
+
+ 
+
+
+
+
+
+
+14
+
+
+
+
+
+Table of Contents
+
+
+
+Three
+Months Ended June 30, 2010 Compared to Three Months Ended June 30,
+2009
+
+Revenues.
+Oil and gas sales revenue increased $303,000 (20.8%) in 2010 from 2009 due to
+higher realized oil and gas prices. Oil sales revenue increased $307,000
+(24.2%), and gas sales revenue decreased $4,000 (2.1%) in 2010 from
+2009. 
+
+Volumes and
+Prices. Oil sales volume decreased 4.6%, from 24,343 barrels in 2009 to
+23,222 barrels in 2010 while there was an increase of 30.2% in the average price
+per barrel from $52.17 in 2009 to $67.91 in 2010. Gas sales volume
+decreased 31.9% from 35,186 thousand cubic feet (Mcf) in 2009 to 23,964 Mcf in
+2010, while the average price per Mcf increased 43.7%, from $5.40 in 2009 to
+$7.76 in 2010.  The decrease in gas sales volume is primarily due to
+normal decline in production related to the Antenna Federal property in Weld
+County, Colorado.  On an equivalent barrel of oil (BOE) basis,
+sales volume decreased 9.9% from 30,207 BOE in 2009 to 27,216 BOE in
+2010.
+
+Expenses.
+Oil and gas production expense increased $33,000 (7.1%) in 2010 over 2009,
+primarily due to routine lease operating expense increasing by $106,000 (31.3%)
+from $339,000 in 2009 to $445,000 in 2010, and workover expense decreasing
+$73,000 (56.6%) from $129,000 in 2009 to $56,000 in 2010.  Routine
+lease operating expense per BOE increased 45.7% from $11.22 in 2009 to $16.35 in
+2010 due to the recovering oil and gas prices and corresponding increases in
+operating costs, while workover expense per BOE decreased 51.8% from $4.27 in
+2009 to $2.06 in 2010 due to fewer workover operations in 2010.
+
+Production
+taxes, which are generally a percentage of sales revenue, increased $6,000
+(5.0%) in 2010 compared to 2009. Production taxes, as a percent of sales revenue
+decreased from 8.1% in 2009 to 7.1% in 2010.  The overall lifting cost
+(oil and gas production expense and production taxes) per BOE increased 18.4%
+from $19.47 in 2009 to $23.04 in 2010.
+ 
+Depreciation
+and depletion expense increased $21,000 (8.8%) in 2010 compared to 2009 as a
+result of volumes produced as described above coupled with the increase in our
+full cost pool, and more specifically, our depletable base during this past year
+as compared to 2009.    
+
+
+General
+and administrative (G&A) expense increased $51,000 (15.2%) in 2010 over
+2009.  This rise in G&A expense is comprised of $134,000 in
+increases and $83,000 in decreases in various expense categories.  Of
+the increases, $45,000 relates to the timing of expensing executive bonus which
+we now perform quarterly rather than annually, $22,000 in employee compensation
+expense, $21,000 in legal expense, $20,000 in other expenses including office,
+insurance and tax expenses, $15,000 in oil and gas incentive compensation
+expense, and $11,000 in shareholder related expenses including the timing of
+proxy statement costs and board of director compensation
+expense.  Decreases in G&A costs related to decreases of $83,000
+in professional fees including consulting and contractor expenses related to
+investor relations, accounting and Sarbanes-Oxley.  G&A expense
+per BOE increased 27.9% from $11.09 in 2009 to $14.18 in 2010. As a percent of
+total sales revenue, G&A expense decreased from 22.7% in 2009 to 21.9% in
+2010.
+ 
+
+Income
+Tax Expense (Benefit). For
+the three months ended June 30, 2010, we recorded an income tax expense of
+$69,000 as compared to an income tax benefit of $10,000 for the three months
+ended June 30, 2009.  Our effective income tax rate decreased from
+25.62% for the three months ended June 30, 2009 to 15.47% for the three months
+ended June 30, 2010.  Our effective income tax rate was lower for the
+three month period ended June 30, 2010 primarily due to an increase in estimated
+deductions for statutory depletion.
+
+
+
+
+
+
+15
+
+
+
+
+
+Table of Contents
+
+
+ 
+
+Item 3.
+Quantitative and Qualitative Disclosures About Market
+Risk
+ 
+As a
+“smaller reporting company,” we are not required to provide this
+information.
+ 
+Item 4.
+Controls and
+Procedures
+
+The
+Company maintains a system of disclosure controls and procedures, as defined in
+Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as
+amended (the “Exchange Act”), for the purpose of providing reasonable assurance
+that information required to be disclosed in its SEC reports is recorded,
+processed, summarized and reported within the time periods specified in the
+SEC’s rules and forms and that such information is accumulated and communicated
+to the Company’s management, including the Chief Executive Officer and the
+Principal Accounting Officer, as appropriate to allow timely decisions regarding
+required disclosures.
+
+For the
+quarter ended June 30, 2010, we evaluated under the supervision and with the
+participation of the Company’s Chief Executive Officer and Principal Accounting
+Officer, the effectiveness of the design and operation of the Company’s
+disclosure controls and procedures. Based upon that evaluation, we concluded
+that the Company’s disclosure controls and procedures are effective for the
+purposes discussed above.
+
+There
+have been no changes in the Company’s internal control over financial reporting
+that occurred during the Company’s quarter ended June 30, 2010 that have
+materially affected, or were reasonably likely to materially affect, the
+Company’s internal control over financial reporting.
+
+
+
+
+
+
+16
+
+
+
+
+
+Table of Contents
+
+
+PART II – OTHER INFORMATION
+
+Item 1. Legal
+Proceedings
+
+None.
+
+Item
+1A.  Risk Factors
+
+As a
+“smaller reporting company,” we are not required to provide this
+information.
+
+Item 2. Unregistered Sales of
+Equity Securities and Use of Proceeds
+
+Unregistered
+Sales of Equity Securities
+
+Not
+applicable.
+
+Purchases
+of Equity Securities
+ 
+The
+following table summarizes stock repurchase activity for the three months ended
+June 30, 2010:
+
+
+
+
+ 
+      
+ 
+      
+
+Total
+      Number of Shares Purchased (1)
+
+ 
+      
+ 
+      
+
+Average
+      Price Paid Per Share
+
+ 
+      
+ 
+      
+
+Number
+      of Shares Purchased as Part of a Publicly Announced Plan
+    (1)
+
+ 
+      
+ 
+      
+
+Maximum
+      Shares that May Yet be Purchased under the Plan (1)
+
+ 
+      
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+April
+      1, 2010 - April 30, 2010
+
+ 
+      
+ 
+      
+
+30,984
+
+ 
+      
+ 
+      
+
+$
+
+
+1.03
+
+ 
+      
+ 
+      
+ 
+      
+
+30,984
+
+ 
+      
+ 
+      
+ 
+      
+
+1,173,386
+
+ 
+      
+
+
+May
+      1, 2010 - May 31, 2010
+
+ 
+      
+ 
+      
+
+10,300
+
+ 
+      
+ 
+      
+
+$
+
+
+1.05
+
+ 
+      
+ 
+      
+ 
+      
+
+10,300
+
+ 
+      
+ 
+      
+ 
+      
+
+1,163,086
+
+ 
+      
+
+
+June
+      1, 2010 - June 30, 2010
+
+ 
+      
+ 
+      
+
+6,800
+
+ 
+      
+ 
+      
+
+$
+
+
+0.95
+
+ 
+      
+ 
+      
+ 
+      
+
+6,800
+
+ 
+      
+ 
+      
+ 
+      
+
+1,156,286
+
+ 
+      
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Total
+
+ 
+      
+ 
+      
+
+48,084
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+48,084
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+
+
+
+
+(1)
+
+
+On
+      October 22, 2008, the Company’s board of directors authorized a stock
+      buyback program for the Company to repurchase up to 500,000 shares of its
+      common stock for a period of up to 18 months. The program does not require
+      the Company to repurchase any specific number of shares, and the Company
+      may terminate the repurchase program at any time.  On November
+      13, 2009, the board of directors increased the number of shares authorized
+      for repurchase to 1,500,000.  On February 10, 2010, the board
+      extended the termination date of the program from April 22, 2010 to
+      October 22, 2011.  During the three months ended June 30, 2010,
+      48,084 shares were repurchased under the stock buyback program and
+      1,156,286 shares remain available for future
+  repurchase.
+
+
+
+ 
+Item 3.
+Defaults Upon Senior Securities
+
+None.
+
+Item 4. Submission of Matters to a
+Vote of Security Holders
+
+None.
+
+Item 5.
+Other
+Information
+
+None.
+
+
+
+
+
+
+17
+
+
+
+
+
+Table of Contents
+
+
+ 
+Item 6.
+Exhibits
+
+
+
+
+
+Exhibit
+      No.
+
+ 
+      
+
+Document
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+31.1
+
+ 
+      
+
+Certification
+      Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (Ray
+      Singleton, Chief Executive Officer).
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+31.2
+
+ 
+      
+
+Certification
+      Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (Joseph
+      Young, Principal Accounting Officer).
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+32.1
+
+ 
+      
+
+Certification
+      Pursuant to 18 U.S.C. §1350, as Adopted Pursuant to Section 906 of
+      the Sarbanes-Oxley Act of 2002 (Ray Singleton, Chief Executive
+      Officer).
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+32.2
+
+ 
+      
+
+Certification
+      Pursuant to 18 U.S.C. §1350, as Adopted Pursuant to Section 906 of
+      the Sarbanes-Oxley Act of 2002 (Joseph Young, Principal Accounting
+      Officer).
+
+
+
+ 
+
+
+
+
+
+
+18
+
+
+
+
+
+Table of Contents
+
+
+
+SIGNATURES
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report is
+signed by the following authorized persons on behalf of Earthstone Energy,
+Inc.
+
+
+
+
+
+EARTHSTONE
+      ENERGY, INC.
+ 
+
+ 
+      
+ 
+      
+
+
+By: /s/
+      Ray Singleton    
+
+ 
+      
+ 
+      
+
+
+Ray
+      Singleton 
+
+ 
+      
+ 
+      
+
+
+President
+      and Chief Executive Officer 
+
+ 
+      
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+
+
+By: /s/
+      Joseph Young    
+
+ 
+      
+ 
+      
+
+
+Joseph
+      Young
+
+ 
+      
+ 
+      
+
+
+Principal
+      Accounting Officer 
+
+ 
+      
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+
+
+Date:
+      August 13, 2010
+
+ 
+      
+ 
+      
+
+
+
+
+
+
+
+EX-31.1
+2
+ex_31-1.htm
+CERTIFICATION - SECTION 302 - CEO
+
+ex_31-1.htm
+
+
+
+
+
+
+
+
+Exhibit
+31.1
+ 
+CERTIFICATION
+OF CHIEF EXECUTIVE OFFICER
+ 
+I, Ray
+Singleton, hereby certify that:
+ 
+
+
+
+
+1.
+
+ 
+      
+
+I
+      have reviewed this Quarterly Report on Form 10-Q of Earthstone Energy,
+      Inc. (the “registrant”);
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+2.
+
+ 
+      
+
+Based
+      on my knowledge, this report does not contain any untrue statement of a
+      material fact or omit to state a material fact necessary to make the
+      statements made, in light of the circumstances under which such statements
+      were made, not misleading with respect to the period covered by this
+      report;
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+3.
+
+ 
+      
+
+Based
+      on my knowledge, the financial statements, and other financial information
+      included in this report, fairly present in all material respects the
+      financial condition, results of operations and cash flows of the
+      registrant as of, and for, the periods presented in this
+      report;
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+4.
+
+ 
+      
+
+The
+      registrant’s other certifying officer and I are responsible for
+      establishing and maintaining disclosure controls and procedures (as
+      defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+      control over financial reporting (as defined in Exchange Act Rules
+      13a-15(f) and 15d-15(f)) for the registrant and
+  have:
+
+
+
+ 
+
+
+
+ 
+      
+
+(a)
+
+ 
+      
+
+Designed
+      such disclosure controls and procedures, or caused such disclosure
+      controls and procedures to be designed under our supervision, to ensure
+      that material information relating to the registrant, including its
+      consolidated subsidiaries, is made known to us by others within those
+      entities, particularly during the period in which this report is being
+      prepared;
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+(b)
+
+ 
+      
+
+Designed
+      such internal controls over financial reporting, or caused such internal
+      control over financial reporting to be designed under our supervision, to
+      provide reasonable assurance regarding the reliability of financial
+      reporting and the preparation of financial statements for external
+      purposes in accordance with generally accepted accounting
+      principles;
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+(c)
+
+ 
+      
+
+Evaluated
+      the effectiveness of the registrant’s disclosure controls and procedures
+      and presented in this report our conclusions about the effectiveness of
+      the disclosure controls and procedures, as of the end of the period
+      covered by this annual report based on such evaluation;
+  and
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+(d)
+
+ 
+      
+
+Disclosed
+      in this report any change in the registrant’s internal control over
+      financial reporting that occurred during the registrant’s most recent
+      fiscal quarter (the registrant’s fourth fiscal quarter in the case of an
+      annual report) that has materially affected, or is reasonably likely to
+      materially affect, the registrant’s internal control over financial
+      reporting; and
+
+
+
+ 
+
+
+
+
+5.
+
+ 
+      
+
+The
+      registrant’s other certifying officers and I have disclosed, based on our
+      most recent evaluation of internal control over financial reporting, to
+      the registrant’s auditors and the audit committee of registrant’s board of
+      directors (or persons performing the equivalent
+  functions):
+
+
+
+ 
+
+
+
+ 
+      
+
+(a)
+
+ 
+      
+
+All
+      significant deficiencies and material weaknesses in the design or
+      operation of internal controls over financial reporting which are
+      reasonably likely to adversely affect the registrant’s ability to record,
+      process, summarize and report financial information;
+and
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+(b)
+
+ 
+      
+
+Any
+      fraud, whether or not material, that involves management or other
+      employees who have a significant role in the registrant’s internal control
+      over financial reporting.
+
+
+
+ 
+
+
+
+
+August
+      13, 2010
+
+ 
+      
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+
+
+By:
+      /s/ Ray
+      Singleton     
+
+ 
+      
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+
+
+Ray
+      Singleton
+
+ 
+      
+ 
+      
+
+
+President
+      and Chief Executive Officer
+
+ 
+      
+ 
+      
+
+
+
+
+
+EX-31.2
+3
+ex_31-2.htm
+CERTIFICATION - SECTION 302 - PAO
+
+ex_31-2.htm
+
+
+
+
+
+
+Exhibit 31.2
+ 
+CERTIFICATION
+OF PRINCIPAL ACCOUNTING OFFICER
+ 
+I, Joseph
+Young, hereby certify that:
+ 
+
+
+
+
+1.
+
+ 
+      
+
+I
+      have reviewed this Quarterly Report on Form 10-Q of Earthstone Energy,
+      Inc. (the “registrant”);
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+2.
+
+ 
+      
+
+Based
+      on my knowledge, this report does not contain any untrue statement of a
+      material fact or omit to state a material fact necessary to make the
+      statements made, in light of the circumstances under which such statements
+      were made, not misleading with respect to the period covered by this
+      report;
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+3.
+
+ 
+      
+
+Based
+      on my knowledge, the financial statements, and other financial information
+      included in this report, fairly present in all material respects the
+      financial condition, results of operations and cash flows of the
+      registrant as of, and for, the periods presented in this
+      report;
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+4.
+
+ 
+      
+
+The
+      registrant’s other certifying officer and I are responsible for
+      establishing and maintaining disclosure controls and procedures (as
+      defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+      control over financial reporting (as defined in Exchange Act Rules
+      13a-15(f) and 15d-15(f)) for the registrant and
+  have:
+
+
+
+ 
+
+
+
+ 
+      
+
+(a)
+
+ 
+      
+
+Designed
+      such disclosure controls and procedures, or caused such disclosure
+      controls and procedures to be designed under our supervision, to ensure
+      that material information relating to the registrant, including its
+      consolidated subsidiaries, is made known to us by others within those
+      entities, particularly during the period in which this report is being
+      prepared;
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+(b)
+
+ 
+      
+
+Designed
+      such internal controls over financial reporting, or caused such internal
+      control over financial reporting to be designed under our supervision, to
+      provide reasonable assurance regarding the reliability of financial
+      reporting and the preparation of financial statements for external
+      purposes in accordance with generally accepted accounting
+      principles;
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+(c)
+
+ 
+      
+
+Evaluated
+      the effectiveness of the registrant’s disclosure controls and procedures
+      and presented in this report our conclusions about the effectiveness of
+      the disclosure controls and procedures, as of the end of the period
+      covered by this annual report based on such evaluation;
+  and
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+(d)
+
+ 
+      
+
+Disclosed
+      in this report any change in the registrant’s internal control over
+      financial reporting that occurred during the registrant’s most recent
+      fiscal quarter (the registrant’s fourth fiscal quarter in the case of an
+      annual report) that has materially affected, or is reasonably likely to
+      materially affect, the registrant’s internal control over financial
+      reporting; and
+
+
+
+ 
+
+
+
+
+5.
+
+ 
+      
+
+The
+      registrant’s other certifying officers and I have disclosed, based on our
+      most recent evaluation of internal control over financial reporting, to
+      the registrant’s auditors and the audit committee of registrant’s board of
+      directors (or persons performing the equivalent
+  functions):
+
+
+
+ 
+
+
+
+ 
+      
+
+(a)
+
+ 
+      
+
+All
+      significant deficiencies and material weaknesses in the design or
+      operation of internal controls over financial reporting which are
+      reasonably likely to adversely affect the registrant’s ability to record,
+      process, summarize and report financial information;
+and
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+(b)
+
+ 
+      
+
+Any
+      fraud, whether or not material, that involves management or other
+      employees who have a significant role in the registrant’s internal control
+      over financial reporting.
+
+
+
+ 
+
+
+
+
+August
+      13, 2010
+
+ 
+      
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+
+
+By: /s/
+      Joseph Young     
+
+ 
+      
+ 
+      
+
+ 
+      
+ 
+      
+ 
+      
+
+
+Joseph
+      Young
+
+ 
+      
+ 
+      
+
+
+Principal
+      Accounting Officer
+
+ 
+      
+ 
+      
+
+
+ 
+
+
+
+EX-32.1
+4
+ex_32-1.htm
+CERTIFICATION - SECTION 906 - CEO
+
+ex_32-1.htm
+
+
+
+
+
+
+Exhibit
+32.1
+ 
+CERTIFICATION
+PURSUANT TO
+18
+U.S.C. §1350,
+AS
+ADOPTED PURSUANT TO
+SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002
+ 
+ 
+In
+connection with the Annual Report of Earthstone Energy, Inc. (the “Company”) on
+Form 10-Q for the period ended June 30, 2010 to be filed with the
+Securities and Exchange Commission on August 13, 2010 (the “Report”), I, Ray
+Singleton, as President and Chief Executive Officer of the Company, certify,
+pursuant to 18 U.S.C. §1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that:
+ 
+
+
+
+ 
+      
+
+(1)
+
+
+The
+      Report fully complies with the requirements of section 13(a) of the
+      Securities Exchange Act of 1934; and
+
+
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+(2)
+
+
+The
+      information contained in the Report fairly presents, in all material
+      respects, the financial condition and result of operations of the
+      Company.
+
+
+
+ 
+
+
+
+ 
+      
+ 
+      
+
+August
+      13, 2010
+
+
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+ 
+      
+
+By:
+      /s/ Ray
+      Singleton     
+
+
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+ 
+      
+
+Ray
+      Singleton, President and
+Chief
+      Executive Officer
+
+
+
+ 
+
+
+
+EX-32.2
+5
+ex_32-2.htm
+CERTIFICATION - SECTION 906 - PAO
+
+ex_32-2.htm
+
+
+
+
+
+
+Exhibit
+32.2
+ 
+CERTIFICATION
+PURSUANT TO
+18
+U.S.C. §1350,
+AS
+ADOPTED PURSUANT TO
+SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002
+ 
+ 
+In
+connection with the Annual Report of Earthstone Energy, Inc. (the “Company”) on
+Form 10-Q for the period ended June 30, 2010 to be filed with the Securities and
+Exchange Commission on August 13, 2010 (the “Report”), I, Joseph Young, as
+Principal Accounting Officer of the Company, certify, pursuant to 18 U.S.C.
+§1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002,
+that:
+ 
+
+
+
+ 
+      
+
+(1)
+
+
+The
+      Report fully complies with the requirements of section 13(a) of the
+      Securities Exchange Act of 1934; and
+
+
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+
+(2)
+
+
+The
+      information contained in the Report fairly presents, in all material
+      respects, the financial condition and result of operations of the
+      Company.
+
+
+
+ 
+
+
+
+ 
+      
+ 
+      
+
+August 13,
+      2010
+
+
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+ 
+      
+
+By:
+      /s/ Joseph Young    
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+ 
+      
+ 
+      
+
+Joseph
+      Young
+
+
+ 
+      
+ 
+      
+
+Princpal
+      Accounting Officer
+
+
+
+
+
+
+GRAPHIC
+6
+earthstoneenergylogo.jpg
+EARTHSTONE ENERGY LOGO
+
+begin 644 earthstoneenergylogo.jpg
+M_]C_X``02D9)1@`!`0$`8`!@``#_X0!F17AI9@``24DJ``@````$`!H!!0`!
+M````/@```!L!!0`!````1@```"@!`P`!`````@```#$!`@`0````3@``````
+M``!@`````0```&`````!````4&%I;G0N3D54('8S+C$P`/_;`$,``0$!`0$!
+M`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!
+M`0$!`0$!`0$!`0$!`?_;`$,!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!
+M`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`?_``!$(`(0!
+M0@,!(@`"$0$#$0'_Q``?```!!0$!`0$!`0```````````0(#!`4&!P@)"@O_
+MQ`"U$``"`0,#`@0#!04$!````7T!`@,`!!$%$B$Q008346$'(G$4,H&1H0@C
+M0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I*C0U-CH.$A8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJ
+MLK.TM;:WN+FZPL/$Q+CY.7FY^CIZO'R\_3U]O?X
+M^?K_Q``?`0`#`0$!`0$!`0$!`````````0(#!`4&!P@)"@O_Q`"U$0`"`0($
+M!`,$!P4$!``!`G7J"@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>HJ:JRL[2UMK>X
+MN;K"P\3%QL?(RKR\_3U]O?X^?K_V@`,`P$`
+M`A$#$0`_`/[^****`"BBB@`HHHH`**^*_P!HK_@H=^QY^RMJM]X9^,WQHT+1
+M/&FGVUK[E_#.?9G&$\'E>*J4II2A6J16'H3B]5*%;$
+M2I4YQL[WA*6FQ_2-17\6.N_\'!/[97B'QAX>O;+1?A1X#\%V/B/1[S6]!\,>
+M$;O5M6UCPY;:G;3ZMH]UK?B_6M>5)M1TU+FQ:^TK3M'N(?/\ZT-M.DZ
+M/JVGZ]I.EZ[I%U'>Z5K6G66K:9>PG=#=Z?J-M%>65U$W>.XMIHI4/=7!K/A7
+MCG(>,IYC#)9XJ?\`9KP_MY8F@L.JD<5[;V4Z,74E4E"]":DYPIN+Y?=?,5G?
+M#69\/QPDLQC1C]<57V:HU75Y'1]GSQJ245!2M5BXJ,III2UT-&BBBOL#P`HH
+MHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB
+M@`HHHH`****`"BBB@`HHHH`*Y#QW\0?`OPN\+ZGXV^(_C#PWX%\(Z-%YVJ>)
+M/%FLV&@Z-9)@[%FO]2GM[<33,/+M[=7:XN9BL-O%+*ZH?!?VV_VAKC]E3]EC
+MXR?'FPM-+U#6_`GAJ%_#.G:T+A]*OO%6O:QIOAGPS;ZC#:7-G>7%B=;UFQEO
+MK>TN[6XELX[A8[FV/[^/^`?]H_\`:U_:"_:Q\5MXM^.GQ(USQC<0S32:/H32
+MKI_A#PQ%,2#:^&?"M@(-%T>/RMD,US;VAU&_6-9=4OKZY+SO^8>('B9@N")4
+M)%4Q,L1'"8"A6]A4JJ+J5ZE50A4E3HT_=@K0J0YJDYVASQM"IJE_31^
+MUA_P`-#N!X6^'MNJ:#K(CEF.OC,3:OBF
+MUA:MY1J37+1;ZJA"E%_RWU/8O^"W_P#RDD^-_P#V`_A'_P"JD\%_YX_G7Y+U
+M^M'_``6__P"4DGQO_P"P'\(__52>"_;_`!^O8?DO7RO&_P#R67%?_919S_ZL
+M,0>UPW_R3V1_]BG+_P#U%I!TK_0@_P""4GQ>_P"%T?L"?LZ^(;BZ^TZQX8\'
+MGX8ZZ'?S+B&^^&5_=>#+,W;Y):XOM!TG1M7+,2[QZC$\A\QF`_SWZ_K;_P"#
+M&_B5HMO(^7:Q\(PRCCJ4O\2I8;$4XWW]JT
+MM6CYGQ)P/UGA[ZS&-YY?BZ%=M*[5*LWA9Q]'.M2D^W(NES^E6BBBO[%/Y_"B
+MBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`***
+M*`"BBB@`HHHH`****`"BBB@#\!/^#A_XG'PO^R5\.?AI:W'E7OQ2^+]A<7D.
+M['VGPWX#T+4]6OT*Y!<1^(=3\)3="JLBDX.VOXRJ_HR_X..?B,=7^/\`\`_A
+M7%/YD'@7X4:SXRFB5LI!J/Q%\4S:7+&Z]!,;#X>:;,(CAZ_G-K^(_%_
+M,/K_`![FZ4N:G@(8/+Z6M[>PPM.=:/E;%5L0K?/=L_H_@+"+"\,8!M6GBI8C
+M%U/-U:TXTWYWH4Z7Y;6"OT&_X)4?\I#/V5_^RC'_`-1[7*_/FOT&_P""5'_*
+M0S]E?_LHQ_\`4>UROD.%_P#DIN'?^Q[E'_JPPY[^"_\\?SK\EZZ^-_^2RXK_[*+.?_`%88@Y^&_P#DGLC_`.Q3E_\`ZBT@K]I?
+M^""_Q6/P^_;ST?PC<7/DZ=\9?AUXW\`R1R/MMSJFFVMM\0=(F()`^U%_!=UI
+MMH_+$ZI)`H_?FOQ:KW[]E3XHM\%/VEO@/\5S(M5D#;0^@V7B
+M"Q/B&W=LC$=WH;:A:RD\>7,V01Q7+PMF?]C\29'F;ERPP6:8*M6=[?[.J\(X
+MF+?13P\JD6^B=S?.L'_:&49E@K7EB,%B*=-;VJNG)T7;JXU5"275H_TLJ*0$
+M,`RD%2`000001D$$(O$'_``4.^,EQK&D:SI>E:38^!O#7A235M-OK"+4M%T7P3H*7FH:4
+M]Y#$E]IEQXCN-=>WO;,RVDVYFCE8E@/R=K^UCXA_'[3_`(D:CXN\&?'#X:_#
+M[X^_"J\\4Z_:%876IW36I\+^(4M)+_1;JUM7CBLK]$N;RSC
+MCC6SGMMB,/@;XC_\$J?V)/CH\^I_LZ_&3Q#^S-XQNMTL?PY^+D;^+?AW)6XNE'F99=7H4G2IQQF'F[4\40S+*Y2^;$X.O2IR7]H8?WH5905.I![JLWQ%G-E2I5
+M*C?_``H8C;DB[E5:5/A[)'4J4X)93E]W.<8I?[+2ZR:/':`2#D:-^
+MP!^W%K^TZ=^R/^T4$?&R74?A%XWT6%P>C+/K.C6$)0]G#[.^[%=S_P`.N_\`
+M@H)Y/G_\,I?%?9MW;?[+L?.QG&/L_P#:/VC=_L^5NQSC%>13X=X@JKFI9%G%
+M2/\`-3RS&S7WQH-'?+-LK@[3S+`0=]%+&8>+OZ.HG'M/T7QKHM[HNHWGAS5=5
+MC\;V&JV*7L:?;=*>]\6:GIMO>6S2VPGTRZM$'LDQ6)
+MIU:6*KY5@9XJE6A.G5IXKZM36(A.%11G&4:RFFI)/2[6I_,&&S;,J%&4
+M)T*>-Q*H3IRC.$J+JS=&491;C).FXNZ=@HHHKW#S0HHHH`****`"BBB@`HHH
+MH`****`"BBB@`HHI`RMD*P)4X8`@X/H<=#['F@!:***`"BBB@`HI%96&58,,
+MD94@C(ZC([CN*6@`HHHH`****`"BBB@`HHHH`*QO$UVXM9;:"Z@T?4
+MY;6:\N8K.TBN8[*=H)+J[F98;:W24(TUQ*RQPQAI'(52:V:^$/\`@IQXM_X0
+MO]@_]I'51+Y3ZAX(MO"28.&D_P"$Z\2:'X+EB4#EM\&O2AP,_NA(S?(K$21SEBTOBO.3UQ7\QXC@
+M3`5I.67YT\*GM0S7#5)*/DL;@(5O:+IS2P.'VO;4_*II+&98J[6]7+Z
+M\$Y>?U;%RI\GHL55]3Z+\(_%#XB>`G#>#O&GB/P\F[>UKIVJ7,5A*Q.D:[JQL+Z6XT'2+2_P#(
+M%IG["WQ(^/_`,+?A_\`"[]G
+MCXK^&/&WBCQ%_9OAWQ-XDUJVFT[1[\Z??7'VF[A7XA:X\T?DPRPA19SDM*OR
+M?*#7M"AC2X_"8QU>'<7/%2PM=4\37P.6N=*JZ4E"HZZQDZL5"34G
+M*',[1=HMI(^R/VD?VMOBI\+/BUXC\#>%XO#`T?2K;0IK674-)N+N_+:EH>G:
+MC<>;,-0BA5W'YRN_VY?V@KD'R=>T.PST-KX9T=]OL/MU
+MO>9QVSD^I(XK-_;:_;[_`&7O@+^T;XR^&_Q)_9CUWXD^--&L/"=UJ7BVWU_3
+M[&RU*#5_"ND:IIZ06MS,[K]@L;N#3Y-T$8:6V>1=P(9OF?3?^"I7_!/75W6#
+MQ5^R/\2-"MW(5[CPWJ.B:C+&I."X5?&?A20D`Y^67=Z9P*]?.\NXLKYKF;PW
+M'5'!4)X_%RP^#>-S;#_5J,J\W2P\I4,&X0=C!J$IQ3C:,FM3S2YE&33O))Z+Z#NOVP_VC;L
+MDO\`$BYB4GA;7P[X0M0H]`UOX?CK,3ZDGFJMM^UQ^T5:N'C^)NI.0KZAI7BWP]#'&KA6<25\14C;6ZH5<30Q3?E&BY+LCWJ&;?4+74Q.FFV]K!+ME_LTQL(%V;W&E^(_#.N:(=6A2/4M!:>#[+KEL6U?39+K3HI9/['=((KB>*X8RM&(@[%:_5
+M6OV3P]Q>:8KARE#.5CO[1P>+Q>$Q$LQC76,E::Q%)UGB$JLG&EB(0C*5[QA%
+M7=C\VXPP^!H9U4GEKPOU+$X?#XBBL$Z3PT4X.C-4U1_=QO4HSG)1M[TF[*X5
+M_(A^VWXK^/WQ[_X**?"GP]\+:9;^//%7AOPM87VB^
+M`=#.NW-['H4\RVD":I:ZW>7L]MIMQ.QQ7,\+QR2PPN3&G\^WPQ_97_X+
+M.0_$KX>S>/OB[\3X?`D7CCPG+XUE;]H^UU$1>$H]>L'\1R'3[;Q7-<7X31Q>
+M,;*"&6:ZQY$4;O(JG]DOV^?VK--_9#_9S\6?$:.:UD\=:NI\(_"[2;@)*=0\
+M;ZO;7'V*]EM7XGTWPW:17?B/5$32_`^CRM;WJ&=(%U_4=9M[^#S=$M)5_5O\`X)%?
+M'34?C?\`L:^%!XCUJ]U[QC\,_$7B+X=>)-2U6^GO]6OA97,?B#P]>7MS=R2W
+M=P3X:\0:5IXNIY)&N)M-N"7:1)`O\^'[%?CW]D+0OAK^U5X@_:=^)UW%\:/C
+M;X(\:?#CPE'=^#?'/BJZTB#Q/IDNIZIXWO-:TGP]JNGMK>O>+9M,9)6N_P"T
+M+*'0KZ2X(AUMU/U1_P`$$OC%_P`(_P#&/XM?!&_NMEC\1?!UCXRT*&5_D/B/
+MP%>26UY;6B$\7&H^'_$=Y>7)49D@\.Q;CB%:\C+,RJSSK#XNMB:&
+MA5C4>$47'ZM"I",GR3ER02NHM\\F]>9'I8[!0CEE;#TZ,XO+Y4JBK2IN'UAR
+MC>O.$G%+/B?J
+MFL37WAG6]2T'4;G2O"7A:\M+FSDN]+N;6YDLFO?%NFSS6[2&%YX+61U+Q1D?
+M!?PZ_P""]%AOA_
+M&YD;P]\//%/BL6ZG)$GC;Q+:Z,C;!_%+_P`('M'&2%';%?%?QT^-7_!23]FZ
+MR\/?LS_&CXH^+_AIH=]\/=`T_1/#ECJ/@T6$/PXDBN/"NFP1>)?`5K>WRZ?;
+M6ND76F7]M!JLFJ)#:RQ7L$CRJLV6:XC#O.,RGC*6-K8>A##T*;PE1TXTJTJ<
+M&G4FY1C#FDIJ*:G=IOE?*7@*-99=@88>>%IU:LJU6:Q$%.52E&H[JG'EN:[\,_'_Q
+M$\2:^=6\#:M;>)?"GAC58KCQOIEAKGBXZ9?:-XIN)K)Y(M5N-,U73;"/3#90
+M7MXX^8/VP_V=?VV?V)=(\#ZQ\5OVF9]>C^(&I:UINAV7@#XQ?%[5+Z-]`M;"
+MZU&ZOX_$6A>%8(K2-=3L8D>VN+N4S3JK0HGSU^^W_!,?_@GI9_L<>&M?\=^*
+M?%>@^.OBI\3-(TNUN-7\*M<3^$M`\'JZ:K;:/X;U*\@M+S6EUF[-IJFJ:S-9
+M6,%T++2;>QL8XK*6]U+\RO\`@X`\6F^^+'[//@!'+MX?^'WBOQ:;=WG
+MG:S\7$7UU/&TLD,`$TC)$N/Z7?A!X27P!\)?A=X$5!&O@KX=^"?"2QJ`!&/#
+MGAK3-'"`#@!19X&..*_CO^*O@CXK?M:?\%1?C/X6^"?B*V\._$6[^,/Q$@\*
+M^++O7]7\-V^BP_"6VU#3X=5C\0:!9W^KZ9(NG>$4CTNYL+5YOM4UG&'A5VFC
+MVS3`T\MP6!HX=8BI7QN-P?MJ?M9SG5=&G4`Q4L=
+MBL34K>QA1PV&Q+IR]G&$8*I.FE*I9>]R0IWN]59VW9_:K7\LO_!.CXG?$GXY
+M_P#!4;Q]KMY\0O'&K>"=,U/X^_$2#PS=>+-?N_#$6D:EJNH>'-"MTT.6_DTI
+M;'3F\8::=.@^S"&UE@M'MU22&(BKX\_8!_X*J_#OP/XR^('B/]KR=?#W@7PI
+MXB\8Z\;3]I/XY370T;PSI%YK6J&VAE\/012W`LK*?R8I)X8Y)=J/+&I+KK?\
+M&_\`X2:^^+7[0OQ`=&=O#_P]\+>$A);G6I4WG)+.?`D;RQI0C45E"VD>22?-HW)+>Z6-'"T,)E^
+M9UX8FCBN:C"BG3B_W;J2Y=7+K+GC:VUM3)_:Z_:C_:;_`&XOVRM0_8Q_9U\:
+M7/@+P3IOC#Q+\/;"TL/$%YX3M/%FH^"+;5I_&WBSQOX@TI)-6O=`M1H6M3Z9
+MH-HEU:2Z7I]G+#H]_KEWE^K^&/\`P1T_;2^%OQJ\`ZGH/[1.E^&/"TMV=2\7
+M?$KX<>*O%.G^)?#T.GM!-/IL7A[4[33#KUWKF]K33?-EOM&94NY?$5O;VZ0V
+M6I=C^U__`,$?OCE%\:/%?[0O[(/C>S;4-?\`%>J?$&'PC-XBN?`WCGPKXJUB
+M^N-5U'_A"O%B20:1<6;ZGQZMI>M>1%'#?<3I0CF,O[?HX^->OC4L'C*=62PBAS
+MQ]E1BX->SBTK/E;G:I2C*9U*I-X-/**F$=*EA6\3AYTX_67)1_>59*2?.
+MUHUS)1E)/6HG&)]1_ML_\$_OVZOCS\>O$/Q%^$W[1?A;P5\.3X=\):/HFE:S
+M\5/BIX3UC.@^'+&VUO5=8T;P/\/[KPQ;7NIZZ-5OF?3)C%+;RP2&&T8FSM_Q
+M$_9.^'G[8G[9'Q*\0_"_X6?M"^)-+UCPUX4U'QCJ&L>-/BS\4--\.OI6G:WH
+MN@M';76AV?B/47O;N[UVTELH9=+ACDM8KN66:%X5BD_LF_:2\7_\(!^SS\=?
+M'`E\F3PE\(/B1XAMW#;6^UZ3X/UB]LTC/'[V6ZAABA`Y:5T4/98L?V;H?PY\(64Q'W_`.V[_P`4ZSJD2MCCR_\`A'](=P#SYL9(
+MX%=>9Y9AY9UE]"$\0OK\\77Q?[^I\,8JI%0L_P!VKQFE;^ZNFO/@<=6CEF,K
+M2C1?U2.'I8?]S#XI24&YZ>^[.#UZIOT^J/@IHGQ2_P""4O[/'Q\^,'[77Q1L
+M?C#K7B/5?!NF?#;P_H/C_P`<>*_[3UJSLO$2Z?X:M+SQYX?T672+G5[S4;C4
+M-7N=/L+Z.UT#0[K4Y5NI+".R?\U/!OA__@H__P`%9]+$\?2>"O@_8:I/
+MIQ%UKVN^"_A#I-PJI.?#F@^'?#\.H:EXRUFRM)XFN=0U&UU:Y@$T,6L>(+(7
+M-I"WU'_P)M8CA_9B\&QR31Z!=R?$_Q-=Q`L(+S6-.7P7I6GR.OW&FTRRU
+M34UB/WD35IATDK]C?V!O#_A7PW^Q?^S-I_@Y;0:1C
+MV^O>+;B8Q\&\E\4ZCK#7N[YTNO-CCEN64(SE1A5DJN)
+MJUW&J_:U'[TJ:]KL[VY4HV*?
+M%&G7/ARZOKJ*VL!XP\/:G:V$=SH6J7\T.G+*W]N:3<75Q#8ZO#;&]M8KK]_/
+M^";_`.VO=?M9_LXZCXU\?+8V7Q%^%U_VTYK."/8_X*F>/_"O@+]AGXZ?\)//:";Q
+MEX?M_`?AC3KAD\_5?$_B/4+6&PBL(G.9KC2K>&\\1R;?F@L]%NKDM-IMIQLYS>9Y6Z^(ITUB:>+I4*-:$%"515)4XRB[+6RJ2;2]V\
+M59)IW_'75/VFOVAK_P`4ZOXXT_XP?%FR:3Q5-KL3V_CKQ8=.TR_U#4KO5]/M
+M?(.IM81H#!-]ELI(O)E@M)D2%X89%7^W7]E3]I#0/VC?V:O`7QXCFM;1M4\,
+M2R^-K.%AY>@>+/#DXT^]"^7=1D_S;_\
+M$P_V1M-_:C_9D_;C\.W]M;#6]=L?AOHOPWU:X55&C^._#$/C'Q783BX8$V]M
+M=ZA-H&F:L\>'.BWVHP\^?QY]^P+^UQJ7[.?PX_;*_9V\=W%QH:^)?A!\6=\\06$$27"R,'&H>$;&QA0W%\CCHUJ-""CB
+M,OK48M123G1KPIN3T7V6WO>WLI6^)(^F/^",_P`0/BG\:/VQ_BGXM\8>/?'.
+MN^'M)^&OC+Q*NAZSXKU[5-$M-;\4^-?#5MIT4>F7E_/I\7V;3KO6UM`D`\A8
+MML`50<>+_MC>)OV@OVAO^"G/Q(^!WP6^*7BSPU=ZSXQTCP#X7TN'Q]XK\-^%
+M--NO"?@#2H]=GNHM"FN%LH!>Z-K=_>RVNF3RM,TKO&\C.U?6G_!OMX0VV?[3
+M/CZ:+B:Y^&OA#3YR.GV:+Q=K6L1*V/XOM>A.PR?NH2!QG\KO"/A?]HO]IK]N
+M3XR^)?V6;_4;3XK7'CWXP?$[2-=T?Q;:^#=0T;PYJ7BN_P!+O;NQ\175]IXM
+M5>P\56NCB.*Z6:XM;YH`'C:2LYRJ_P!B9/2E]8K3QN8UL14A1E)UZM.E*5.4
+M8=7-Q:<>B=GT+BJ:S3,IKV-.&&P=*E&51)4JCLFKGWO\`
+M\.I?^"HO_1R&@?\`A_OC!_\`,I7])?P/\%ZY\.?@S\*/`/B?59-=\3^#?ASX
+M,\->)M;DO[S57UGQ'HWA[3[#7=5.I:BJ7U\-0U6"[NUNKM([B=9A)+'&[%%_
+MGV^$O[+/_!9:U^*GPTN?B-\7/B='\/;;Q_X.N/'3O^T;;:HB^#H/$.G2^)BV
+MF6WBJXN-07^Q4O0;&"":6ZSY"1.T@4_TMU]1D.&HTOK%6&$S'"2?)3<5Z<6E9)V4GUT70\+-J]2?L:/^"XGBK^P/V)AHJR;6\%SP)X^,]
+M5T[2_P"R[]+32-+M;OQCXECTBRUM1<6_A.-+JS?5+=KF4"YMT?R\[E".58[V
+MF(PV%A*@X3Q&+K0P^&I1J2C309R-A^4&Y[Y^(A=W%]KOQ%^&>FV2,1YJ7>I>#S
+M.F8X;V.4AQ^-QQG#M6LL+A^+>'*V*;Y8TEC_`&=.I-M)0I8JI3CAJDI-V@O:
+MKG=E&[:1^CNGFL*;K5(%0*"Q=]%>_10`268#
+M!K[B_:?_`."2?[0/P,T:?XA?#2[T[]HGX0FU_M2#Q9\/+9Y?$-EHSQ^?'J>J
+M^$+>ZU2:XT[[.?/;5?"VI^);".U1[V^DTZWY'Y4D$$@@@@D$$8((X((/((/4
+M5V5:&+R[$4W6I2HU82A5IN23A/DDI1G3G%N%2%TO>A*4?,RIU[;]@[]N2]M-,M[&SL-&^%?Q.UC4(M,@-OIBPM92^)KI
+M)+?PIXU\(QL-/\.:W?D:+K^A[?#VL"29[BT\2^3?&G_@AK^TIX5U.ZO?@?XB
+M\%_&CP=+Q92_O;=;^RUR:/PO!=8M_$/@GQ3XB\'Z_:$&UUOPMK>I:!J]L00V8-2TJYM+R+YE!^29+C_PYOP9_^>+7EQRS-(M2CE^81DFFI1PF)33TLTU3NGJK-=T>@\=@&FGC
+M,(T]&GB*+33Z-B[DD\4#Q`LD4."*_M=L9KBXLK.>ZM7L;J>UMYKFRDDAEDL[B2)'FM9);=Y
+M()7MY&:)I())(79"T;NA5C]_PO4S)T<32S&&,3IRI.A+%PK1;A.,U*,)UHIR
+M4'&+M=\JFMDSY#/88)5*%3!RPS4XU%56'G3:4HN+C*4:;:BY*;L[+FMY&1XN
+MU#4=)\)^)]4T>PN=4U;3?#VM:AI>F64+W%YJ.HV>FW-Q96%I!)/K7O
+MPHM/$IGT;4M4TO6;ZW2U\2:-JMG!+C7CB.13C53DFH<
+MUH\J=FKR;::9_-Q\(?CE_P`%L?$/Q8^&.@^//"WQ$T;P/K7Q!\&Z7XSU?4O@
+M)X"TS3]+\)W_`(BTZV\1ZC>ZBO@R%[&VLM'EO;B:ZCECD@CC:2-U=5-5?V[/
+M@C^UQ^WE^VIX2\"1?"7XF>#/V=O!6OQ^!/#_`(YUKPW?Z?X:M='>[BG^(7Q/
+M>:]1+:2?65L7B\.QL4_M/3-)\-6R1PW=_'_`/P\NM1?PWX;\3:UHDDM
+M_[FFGW3-_5Q16V)R+`5WAY4:5/!57IXB%7"T:-.;=/6,)VA[T
+M>91E9]8JV[,Z&:XNE[:-2I/$TZU*=*5.O5J3BE-).4?>TERIQTZ-G\T?_!0;
+M]F+]H7]H/_@I#X#U;1_@YX_USX1:5>?`[P5=>.[7P]>W'A*W\/?VS::YXJU"
+M750GV1=/T:;Q+K*ZI,6\NW:SNQ(#=6\
+M:?$SX:^)+G1KG0O#MB]]K6K^!O%L*_;FAMH`UQ>MH.O:;I%S!"JL+:RU36[K
+M*J)-W[1T4I9)AZE/,Z=2I4G_`&G556K)\MZ4H2:][6>EPCFE:
+M$\#.$(1^HP=."3E:I&249\^OVTK.UK7N?G=_P3"UCXWC]EOPS\/?V@/AYXW\
+M`^./A+[15N!I&FRGPK.D;-)$F@VMS<8
+M-_&6_+3_`(*&?LQ?M"_M"?\`!1SP)JNC?!SQ_KGPDTB7X(^";KQW:>'KVX\)
+MV_A[^VH=?\57[ZJ$-JMAHTWB?65U*7=L@EM+M7^:-Q7]+E%:8C*:>)P.&P%:
+MO5E3P\Z,O:6ASU8T$U"%33ELTUS-*[<4]VR*.82H8NMBZ=&FI5HU%R7ER4W5
+M:VQ'+)Y,4DNQY/*C>3RXE+R/L4MLC0_:%\-?MJ_$7XV?&[X/^._A[IMWX)^(>KZ;JWB_0+W2;>]\6^-/%^@
+M,UE:3W:)YUTVD7FOSNJY;R8I"V,\_P!+-%;XO+Z>+Q.!Q$YSB\#5G5A"/+RS
+ME-0MSW3?NN"<>5K=W,L/C)X>CBJ,(Q:Q4(TY2=^:$8N5^6SM[RDT[WV/DG]O
+M'3/'&N_L??M`>'?AQX:UOQ?XS\4^`+[PGHWASPY93:CK.ICQ5=V7A[4DL[.W
+M5IIA;Z3J=_=W.T?N[6WGE;"H37YK?\$H?@#^T=^SO^S'^TMK;_">7P]\%'
+MB6)/`'@OXIB^\(V>O-X5\)QRZ#(;_5YK'Q7\%_$'CO1M)U:["02_\(#JOAFT;38=#BC@@BT_
+M2-&U74/"ELD(ELK!9)[J6X^E?^"?_P"P3^TKX^_:;_X;;_;+LM1T#6[/6+GQ
+M?HGA[Q+#96/B_P`5^,YK!M-TG5M5\.V$<4?A#P_X4MS'+I6DW?\`HL%]9->-IZWEJ;](?M#V(N(3>);DJHG:V#^%PLZU/V56K1@U.5-I)QCMRJ22_F=K-/F2D?$_P#P46T3Q_XH_8P^
+M.?A/X7^%=>\:^-_%>@Z-X:TGPYX:L)]2U:^MM9\6:!9:ZT-I;*TKQ6OAZ75;
+MJX(4JL,+[L*21\I_\$8?V??B-\!_V??B.OQ7\#>(?A_XQ\7?%F[NTT3Q/ID^
+ME:K)X;T?PIX:M-*O6MKA5E^S3:E[?D?G;_`,%)?V(V_;4^#&G:+X;U#3]&^*GP\U.\\1_#S4=5+QZ7?M?V
+MD=KKWA/5;F..:6QL/$,-KI\R7\4,K6FJZ1I4DRFR^V*WX*?"+XG?\%9?V$],
+MN/A!H/P$K&^O7TGP[K_P`*-:^)OA/2[R\N'FO9/"'BGPDEQ`;2\NY)
+M+Q[#2_$ESH[WD]Q>I8K=W=W+/_7[17)C9/EC;HPN9SH4'A:M"CBL/S.R;;=K-W;L
+MU=I_R>VG[)G_``4I_P""D_Q"\.^(?VG#XB^&'PWT:>.=#C\%Z?X
+M)K^+P-\*E33]8U#7+^"-%75]7L;>*[2&WCU3Q.T=O:V[?KU^V=^SW>_#?_@F
+MYXL_9J_9C^'WB/Q)-'I7@KP?H'AWP[8S:SXBU"UD\=Z%K?B[7]26SA1KR_U:
+M"VUG4=:C.\EDW9)MM_DU_P1Q^`OC_`.`W[+_B73/BAX,UWP+XS\6?%OQ'XBGT/Q+ITVF:
+MO%HT'A[PIH>E236LZK,D$TVE:C<6Y8!66=G4?,2?RZ_X*J?\$[?C%?\`[36I
+M?%3]GWX3>+/'WA7XO6'_``E'B6T\%Z)_NN,6G>^EMFS\;O^"5GP5^*W
+M[-_[$_Q9?QC\/?%/AKXI:SXQ^(GC+2_"&JZ3%_%6O>'
+M[CPOJ>J7GPGL_$K3:)=ZGINKW-HEOXET75;6W:;4-(T^=[B"&.Y(MQ'YOE/(
+MC_VN45C6X?I5:67TH8O%4/[.ISA1J47"-1RJA56-G"56%12(_C%\*M`^(OA?XAZ+
+M\/M9^(O@S3?'6KZG\!O`FE:?IO@V\\1:=!XGOKO4X_!L$EA!;:(]]*]U%-'-
+M`%\R)UD537]*%%%>C@,%/!0J1GC,7C7.2DIXNHZDH)*W+"^R>[[LXL7BHXF4
+M)0PV'PRC%IQH04%)MWO*V[6R\@HHHKO.0*_D0_X.0?%/VOXY?LX^"?,S_P`(
+M_P#"?Q-XI\G/^K_X3#Q>^DF3;V\W_A!@N?XO)P_'Y'XVXGV'`F)I7M]>'%'VO$U*=K_`%?!XNMZ_\`Y7M\S\2J***_
+MC,_H0^V_V3?^"A/[4?[&VJV[_"7X@WEQX,-R)]5^%OBYKCQ%\.M65I/,N`-"
+MGN8I-"O+DX\_6/"UYH>L2[(TFOI8%:!_V1TCQ+_P3[_X*Q8BM3I_[%_[:VK*
+M,6-R]I)\._BIKL@R5MYD72M+\0ZAJ5P^/EC\-_$$W-PS?9O&MKI^9/YDZLL#7UK9?52OR2P[]ES2F6-S<2PZ!XTTH2ZI
+MX&\4I'N(ET+Q''!%;R3F)1/+I&H1Z?KUE$\;W^E6HD3=2^%?[7G[3WP2LX=+
+M^%OQT^)'A'1;?'V?P]:>)+R^\,VY!SFW\,ZLVH:!"S=&:+3D9QA7+``5[]^R
+M;_P6,^(WPV\*I\#_`-K/PE:?M7?L\WUO%I5UI7C..QU;Q[X>TE-JQQ:;J^NI
+M/9^++.P4&2RTGQ8WVZ"2*TATKQ5H=K:QQ#[._P"&+/\`@G=^VO$/$W[#O[46
+MB?"GQGJJ_:)/@1\5KB1;JTO9N6TW3M,UR^M?&UE!!*VRXOM)G^(^C^85BTZY
+M6!H@/W'(L^R7B%0J\/9I]4Q[2Y\FQ^(A@LSISTYHX6KSTZ&84KWSO?DJR
+MC9GQHO\`P5=_X*!HJJ/VB]8(4``MX(^%KM@?WG?P.SL?4LQ)[DT[_AZ__P`%
+M!/\`HXK5O_"%^%?_`,PM>B>-_P#@C)^WAX1N9HM(\`^$OB+:0LP74O!/Q"\,
+MQV\R#.UXK3QI=^#M78.`"%.FAQG!45XAJ'_!-+]NW379+G]FGX@R,I()T\:'
+MJR'']V32]8O(W'H49@>V:^CJ+B2DVIO.DUUY\:X_*46XOY-GE1_L2:3BLL=]
+M?APJ?3=-)KINCJ_^'K__``4$_P"CBM6_\(7X5_\`S"U_6_\`L0_%K7/CG^R=
+M\"OBEXHU/^V?%'B?P/:+XHU?R+2U;4_$NA7E[XI8@
+M#J2!7]4O_!*+P!\6OA5^R!X?^''QD\$ZYX"\2>$_&WC>VTS1?$$UG
+M4HO%%K?I'!//GM/`+"TY8582-2-:/,J"HJ)M;BM&.HZ-=V6H6X6;5?"=RRPW,8G$212^9"[QG]RZ_GUM?V%-;O9;SPS:6FH:)J6I2:?
+MJ#3Z5_:_@W5K^2QC6)3>QVTTI9X$KZ+.5[2G@L.J,<0Z^/HIT).,8U84:=7$
+MSC-S3CRVHKF4DTUH]SQLL:A/%575=!4L)4M6BI.5.56I2H1E%1:ES?O':S3Z
+M]+'V/_PYO_X)_P#_`$2/7?\`PZ'Q+_\`FIK[SLM=^$WP?M/AU\(V\5^$O!CC
+MPT=!^&_@_7/$^G6.M:MX?\-=?MC^,#X/\1Z1XC3POXP^+J:GX6U^3
+M2+V*^CTOQ#IL>B6SW^D7GSZKX?US6]8T*Z\-7%[83075OIOB>YT/1
+MM$UY(9X)[C0-3OK>*6.2XAD&:M@*+JT,JPN$Q%;$8;#0ITY4DJJJU81;G4HT
+MU90BYR2:E9IRLT];?^UU5"KF%?$4:5&M7E.OA1XM\:M)<16_AO0/'&@:EJ>H2VJ/)=1:3#;
+M7KKK$EM%%++.FE/>-%#%+-(%CC=E]XOKZRTRSNM1U*\M=/T^QMYKN^OKZXBM
+M+.SM+>-I;BZNKJ=XX+>W@B1I)IIG2.*-6=V502/Q%_X*4_L]?!+X8:'^R'J?
+MP5^%G@3X7_%*X_:V^$7A#P?KGP^\,:/X2U,V%Z-8N;BWOYM#M+*75(8=5L-!
+MN8I;_P"TW%M=JLD,\8NKM;FM_P`%-?BCK_C+]I;X!_LE?\('\5OB=\*9?"T_
+MQL^,GPS^#4+2>,?B=IEMJNN:7X:\,7+K?:;*GAC2]3\-27_B".*]A\RVU2*[
+MA9-6TO2KBUN>9UL-'%QQ-*E.K0J86G2]A*HJ=26+NH1ES1G4C[-IRJ2C&;=/
+M6$'+W&H8&E7EAW0J5(TZL:\ZGM5#GIQP]G.4;2C&7/>T$W%*?NRE;WC]/_"W
+M[8/[*_C?Q?#X"\(_M"_"#Q'XPN[K[#8:#I/CWP]>7FJ7Q8H++1S%?-!K%XS`
+MA+72Y;N=R&VQG:<>Q^,?'?@CX>:7!K?C[QAX8\$Z-=:G8Z+:ZMXLU[2_#VFW
+M.L:F[1Z=I4%[JUU:6TNHW\B.EG91R-ZKX;^+
+MGQN^,'P#L/&=[,KV^NZ'XCMO`SV'B_4;B(%9;?4M#\2^*+?4[H!EDM[NR9/E
+M;&,UFM>-+%RG2IU)4:5*I1G3AB*5*I4K5/9*A)8B$)*:FX>]%R4HSNU!Q:+_
+M`+/I2J891J3A&K4G"K&1/+F_P#'7B7PYX935M?\77MO-K6O
+M36VJ7EGXGNH-4N[BQN[_`$BV5[3R$C@77_9`_P""?_[/?@[X*>$M>^)7PX\&
+M_&CXL?$OPWI?C;XF_$+XHZ%IGQ"U?6?$GB^PAUO58+&[\4V^JK9:;:2W[6'L,(J3Q$IXCV+J.C3BHTU5JU(1C.I-MMPITXQG"R_>2<
+MI6NDFU]S:-\9/A%XBU7POH7A_P"*/P]US6_&^@S^*?!ND:1XR\/:EJ?BSPS:
+MOHS76M:);265Y'Z;HVKW&@:O?^#?$FC^)K/2]=LXK>XN]&U&YT:\O(;+5;:"ZM9K
+MC3[EX[J&*XA>2)5E0M^*7[*_P`\!_##_`(*Y?'SP[\-E>U^'OPL^!D6I:#X8
+M2\N;W3?`.O?$V[\$:QJ'AK15N)I_[/TZ635_$VL6VG1,D=FFK/:HH6+GNOV2
+M-=T3]E[]N#_@HG\%_%.H6WA[P%>V]K^U;X?N[M_LVDZ1X7N89-9\<7=N#Q]D
+MTZ/QAI>G2A%+0Q>%IE0.L1(RHYG6DZ/UBC1IPJ8[%8&I.%24XPJ8>G.49J4H
+MQO"I4HUHWDHM+V=TI-HNK@:257V-6=24,+A\7",H*,I1K3@I1:3?O0A5IRLF
+M[OFM=6O^NU[\1?`&F^-='^&^H>-_"5C\0_$&FW&LZ#X$N_$6D6_C#6M'M!=M
+M=:KI7AJ6[36+_3;8:??F>^M;.6VB%E=^9*OV>79V5?E'_P`$^?"^M_'+Q_\`
+M_@H5\1M-N;75OC7?7/@GX#Z+J:?Z1X,^`GA6_-CIS0PM\EK>>++_3HKB_>
+M)52YDTVYU>TD:V\2S^9^KE>A@Z\\315>4%"%64I4%KS2P][4JDT]I58KVB2V
+MA.*?O)G'B:4:%5TE+FE",55>EE6M>I"+5[JG)^S;>\HR:T:/R%_9ISX]_P""
+MK?[>'Q`3,UG\./A[\+/A)8RGYEMFU/3O#U]J5LC=`S:SX(U61U!RK%@P&:_0
+MKQ#^TS^SMX3T+6O$WB+XX_"C2=!\.>*-1\$:YJ=UX]\-?9],\:Z0D4FJ^#[O
+MR]2>2/Q5IL/_``2OFB\4:]^WS\=YI%%I\1/V
+MM?&UA;WLC#:=%\'B[UK3QYAZV]I8^.%C1A^[`5PN-I`\6_X)7_LL?";XS^`_
+MB)^U/\8O!&A?$O6/BE\9OB=JW@C1?'6EVOB7PMX6T:XUM(];U72_#6LQ7>B+
+MXC\1:Y;W%KJNLR6,UZNG:!H]E:3VZ1WBW'CX+$UXT\-3P].E.KF-;-,9*=64
+MHPI4XXJ\9M03E-#I8##J--1MK/W6[)_M)\-/BW\+_C+H#>*?A1X_\(_$/P_'QOS8SS/87RQ21RM9WJ07(ADBE,7ER(S0_$OXR?"?X,Z3!KGQ8^)
+M'@KX&_#7P8.H>$]!@6R\-V'B_6O#D&N
+M3RZ9I=L%M+&*&[_X3`0V=M%%!9M=W=K9PP6B1PIRW[!'PJ\$?MPZE\5/VX?V
+MCO#FD?%76O%?Q(\1^#/A%X-\;6=OXC\&_#+X;>%FMO[-T[2_"^I+/4MFGF.(JQH4H4:/URM6QM+6WE+%TU4I4K-\BDH\[
+MG/5*,+J+FO'%J;^$/$>F:U-I:8\XC=H%OH+^%_P`*
+MO#'@3QMXMT"U\-:OU45-.RYD^5M-)W2E[MUO%!1116QF%%%%`!1110`4444`%%%%
+M`!7\`/\`P6(\1GQ-_P`%'?VE;L.7BTW6_!GAR'G(3_A&_AKX-T6XC&.!MO+.
+MY)'&"QSDY)_O^KY6^)7[#G['OQ?UO5/$WQ(_9K^#OBCQ/KEP]YK7B>Z\#Z+9
+M^)=8O)`%DO-4\0:9;6.L:A>.JJKW5W>S7#!5!D(5&Q6'C!.C&%C&@Z:G%SKT*KDU4E%-6HVM=.[['^;Q17]_>L_\`!'+_`()O:VSO_%71E'7[D&F^.K:V0,(O]WF'#U5=/\`:\P@_NEEEO\`
+MR8_3H>)^02^+"YK!^=#"R7WQQK?_`)*C^$2BO[GI/^"#_P#P3R?&WP5\1HY-68O\`@A-_P3NC;+_#_P`>SC`^67XI>+@O4'?^?69_P#A-0_^
+M:C^%BCI7]Y-C_P`$0?\`@F[:$&;X(ZWJ)'_/]\6?BN`3ZE;'QC9*?H1CVKO-
+M*_X(^_\`!.#2"K6W[,7AZX9-JOC/XH:R&(&,M'JOC>\A.>X\O:3R16]/P$
+MXOD_WF8\/4UU_P!KS&S'&W'%>R6?_!1+]NZP54@_:W_:`95&%%W\3/$]^<8(P6O[^Y9@`>-Q
+M..",$#']QNA_\$X?V#?#Q1M/_9+^!)#QC&X^(H-4+GCDON)[
+MYR:]P\-_LX_L\^#BA\(_`;X,>%3%CRCX;^%W@?0S'CD;#IFAVI3!Y&W&.U?2
+M8'P5XMH*,'QJL%!))1P,\SFHI6TC'V^#5E;3;9;=/(Q/B+D55N7^KKQ,GUQ,
+M^/=
+MMX]6[U&QU/3/$=IXAL?#-WX[C2XDL=/FTK1KJ\M]//V:.758IF7?.6/[D6]M
+M;VD206L$-M!&H6.&WB2&*-0,!4CC5450.`%4`#@"IJ^_X5\-<=P[F^%S?&<8
+MYMG,L-&O%X2O"K3PM7V^'J4/WD:V/QDG[-U%5@TT^>G![73^6SSC##9M@*^`
+MP_#^!R^-9TFJ].4)UZ?LJT*ON.GAL.ESJ#A).ZY92W85^(7@_P#90_X*8_!?
+MXO\`[27Q"^"?C3]DFUTW]H'XLZ]\0K]/'-Y\1=7UB"PEUSQ#>^&M-8V?@*&W
+MM/[-TW798)K:&>\B6\&X^C?'52,84IQJJ,9QJP4XM0DIQT;2^))^J78_-?X8Z!_P5
+M.]-_;W^+'[5/B'4O"MQX)\0?!'PS\(_A]I=
+MC?ZK/XJL5MM1\.Z[XBN-;L+C1;;2K&VEUC2KW[`VGZWJ&K&ST34-/OIK6^L-1:__M34]'6"*>%K
+M=[IVD1.$_;%_9'^*_P`1_BI\*/VHOV9/'7ASP+^T3\'].OO#EM;^-H+R;P5X
+M[\$W\NH3S^&=>DT^UOKNT$;:QKD,92RECNH=:N!]JTJ\M-/U2T_1FBG5P&'K
+M*OSJ=\15I5I3C-QG"K0C3C2G2DK.FX>SC)6O>3E>ZDT%/%UJ3H\KC:C"I3C%
+MQ4HSA5E.52-2+NIJ?.XN_P!E1M9Q3/S(\->!/^"FOQ9\8^"[GXT_$WX)?L]_
+M#KPGXATOQ!KFC_L^6FO:_P"-OB`VDW*W(T'4M1\)_%>F:C?ZK
+M%XGU37O$FBZ7:^&9-!TZVT2[TJ[BT[4]%LIKN74=9TR2WMYKA[6.XD`CD^WJ
+M*E8"E[.5.I4Q%;GJT*TY5JTIRE+#U85:2Z0C!3IQYHPA%25^:[=P>+J:7JD>H6=_X=U:P^T9@DO\`2_$-II=_96\P:*[N;>*T
+ME1XYV1OSH^&_P3_X*O?"#PGI'P/\)_&3]E?Q)\.?#EE%X=\*?%GQIH'CV\^)
+M_AWPI8QK9Z3;Q^'[:W3PU?:AI%@D4.G66MMK\`C@AM;O7IX8U8?]O;%9$LM;L[
+M.YE%VEE=B.:WO(;;4-+OM,U.UMKZ'XZ_X8>_;7\0:/\`\(#\0/\`@I1X\U;X
+M9RVYTS4[;PO\'_"GA;X@ZSHK+Y$UC-\1$UV_\06MS=6Q>*YU"XN=8EGWN+N.
+M[21P>3&T:D\3[2Q:3CRN
+MZ?1A:D(T'">)P\8NJYRH8G#5*RB[1BJM&4*=1.;C>,HRE3344I2:?\9/V\OB,_C+6?BE:7/Q8T+X9VGQ6USR6N_'OB'P:/$>H?$'7X6MC):I
+M8ZIJ^MZ/J&FVEI/<6UEI4^G6L=S=1Q1W#^HZC>K)%:Q7SKI]C;PVNGPV>#^RU^R(_
+MP&\0?$'XJ?$7XG:U\=OV@?BNVGP>-_BOX@T:R\/E=#TE(UTOPIX6\.V-S>VO
+MASP_:F*"2>SM+HQ7DMGI^(+2VTZQL[;F_LVI+!X7+)T'[/VL<5BL2JD?9P;Q
+M$\15H47[3ZQ.I)OV"G.FH^QG*;FYKE-OKL%B*^/C52J7WU]9^&/#6A^#?#>@>$?#&FVVC>&_"^C:9X?T'2;
+M-/+M=,T?1[.'3]-L+=,DK#:V=O#!&"2VU`6)8DF_J7]H?V=J']D_9CJGV*Z_
+MLW[:[QV?]H>1)]C^UR113R);?:?+\]XX)G6+>R12,`ANT5]"DDK)625DEHDD
+MK))+166W8\B[;N]6W=MZW>[OWOU/SF_9!_9*^*/[-W[%/C#X&:GK?@R_^,?B
+M6'XM:LNN:1JFMS^$#XL\8V-WIWAFZNM7O/#MAK?V:W@M]#;5[E?#TEQ;M'=+
+M:6]\(83-[E^Q1\!M:_9F_9@^%/P3\276B7_B3P9IFM#Q!?>';B\N]%NM8U[Q
+M1KGB6]ET^ZU#3M)OKBW676#$DMUIUI*PCP80`"?J>BN6A@J&']A[-27U;#/"
+MTKRO:E*5.4N;363E2@W+R?'+[5-0GL?`&A?V[;^$]/
+M\1C4]$T>.UUN"QUN6.\LM/DU6PABLI9;AW"C&$JU*="=:=*M2J491:;47HXIFD`OVU-,^"/QAB^)GQH^'&O\`[07CBU\1:C\-+CP_X4DL/AO\)-9N
+MO#YT[P_HUE(M"L-4AM=3>YUK0;J[@F:Z-S#KXEE-SZ7^RSX1^.O@;
+MX(^$?#G[2/C_`$SXE_%VT.K3>)/%&D1*ME)%>:M>76DZ:ET-+T1M3?2],EM;
+M*749-(L9+B2)E,
+
+
+-----END PRIVACY-ENHANCED MESSAGE-----

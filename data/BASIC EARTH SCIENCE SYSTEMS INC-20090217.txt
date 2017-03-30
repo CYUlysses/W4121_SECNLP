@@ -1,0 +1,11740 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ R5yZeqFaZqUZ8rxPKB+jLFuS7wJu02fLGt+QHZtYPJjFyLeh0o2bfO1LLTLHJPvy
+ GUZ5R7Nsv8B6+KHOA7XoeQ==
+
+0001144439-09-000005.txt : 20090217
+0001144439-09-000005.hdr.sgml : 20090216
+20090217165020
+ACCESSION NUMBER:		0001144439-09-000005
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		8
+CONFORMED PERIOD OF REPORT:	20090213
+FILED AS OF DATE:		20090217
+DATE AS OF CHANGE:		20090217
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BASIC EARTH SCIENCE SYSTEMS INC
+		CENTRAL INDEX KEY:			0000010254
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				840592823
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0204
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-07914
+		FILM NUMBER:		09614888
+
+	BUSINESS ADDRESS:	
+		STREET 1:		633 SEVENTEENTH STREET
+		STREET 2:		SUITE 1645
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202-3625
+		BUSINESS PHONE:		303-296-3076
+
+	MAIL ADDRESS:	
+		STREET 1:		633 SEVENTEENTH STREET
+		STREET 2:		SUITE 1645
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202-3625
+
+
+10-Q
+1
+e10q_12-08.htm
+QUARTERLY FILING - DECEMBER 31, 2008
+
+e10q_12-08.htm
+
+
+
+
+
+
+
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+Washington,
+D.C. 20549
+
+FORM
+10-Q
+
+
+
+
+
+þ
+
+ 
+      
+
+QUARTERLY
+      REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+      1934
+
+
+
+
+For
+the Quarterly Period Ended December 31, 2008
+
+
+
+
+
+o
+
+ 
+      
+
+TRANSITION
+      REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+      1934
+
+
+
+
+Commission
+file number: 0-7914
+
+BASIC
+EARTH SCIENCE SYSTEMS, INC.
+
+633
+Seventeenth St, Suite 1645
+Denver,
+Colorado 80202-3625
+Telephone
+(303) 296-3076
+
+
+
+
+
+Incorporated
+      in Delaware
+
+ 
+      
+
+IRS
+      ID# 84-0592823
+
+
+
+
+
+Check
+whether the issuer (1) filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months (or
+for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to the filing requirements for the past
+90 days.     Yes þ  
+No o
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, a non-accelerated filer, or a smaller reporting company. See
+the definitions of “large accelerated filer,” “accelerated filer” and “smaller
+reporting company” in Rule 12b-2 of the Exchange Act.
+
+Large
+accelerated filer o                                                                                       Accelerated
+filer o
+Non-accelerated
+filer o (Do not
+check if a smaller reporting
+company)        Smaller reporting
+company þ
+
+Check
+whether the issuer is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).  
+Yes o No þ
+
+Shares of
+common stock outstanding on February 17, 2009: 17,505,727
+
+
+
+
+
+
+1
+
+
+
+
+
+Table of Contents 
+
+
+BASIC EARTH SCIENCE SYSTEMS, INC.
+FORM
+10-Q
+INDEX
+
+
+
+
+ 
+      
+
+PART
+      I. FINANCIAL INFORMATION
+
+
+Page
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 1.
+
+
+Financial
+      Statements
+
+
+4
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+    Consolidated Balance
+      Sheets:
+
+ 
+      
+
+
+ 
+      
+
+    December
+      31, 2008 (Unaudited) and March 31, 2008
+
+
+4
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+    Consolidated Statements of
+      Operations:
+
+ 
+      
+
+
+ 
+      
+
+    Three
+      and Nine Months Ended December 31, 2008 and 2007
+    (Unaudited)
+
+
+6
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+    Consolidated Statements of Cash
+      Flows:
+
+ 
+      
+
+
+ 
+      
+
+    Nine
+      Months Ended December 31, 2008 and 2007 (Unaudited)
+
+
+7
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+    Notes to Unaudited Consolidated
+      Financial Statements:
+
+ 
+      
+
+
+ 
+      
+
+    December
+      31, 2008 (Unaudited)
+
+
+8
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 2.
+
+
+Management’s Discussion and
+      Analysis of Financial Condition and
+      Results of Operations
+
+
+13
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 3.
+
+
+Quantitative and Qualitative
+      Disclosures About Market Risk
+
+
+18
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 4.
+
+
+Controls and
+      Procedures
+
+
+18
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+PART
+      II. OTHER INFORMATION
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 1.
+
+
+Legal
+      Proceedings
+
+
+19
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 2.
+
+
+Unregistered Sales of Equity
+      Securities and Use of Proceeds
+
+
+19
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 3.
+
+
+Defaults Upon Senior
+      Securities
+
+
+19
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 4.
+
+
+Submission of Matters to a Vote
+      of Security Holders
+
+
+19
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 5.
+
+
+Other
+      Information
+
+
+20
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 6.
+
+
+Exhibits
+
+
+21
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+Signatures
+
+
+22
+
+
+
+
+ 
+
+
+
+
+
+
+2
+
+
+
+
+
+Table of Contents 
+
+
+FORWARD-LOOKING
+STATEMENTS
+
+                   This
+Current Report on Form 10-Q, including information incorporated herein by
+reference, contains forward-looking statements as defined in the Private
+Securities Litigation Reform Act of 1995. The use of any statements containing
+the words "anticipate," "intend," "believe," "estimate," "project," "expect,"
+"plan," "should" or similar expressions are intended to identify such
+statements. Forward-looking statements relate to, among other
+things:
+
+•      our future
+financial position, including anticipated liquidity;
+•      amounts
+and nature of future capital expenditures;
+•      acquisitions
+and other business opportunities;
+•      operating
+costs and other expenses;
+•      wells
+expected to be drilled;
+•      asset
+retirement obligations; and
+•      estimates
+of proved oil and natural gas reserves, deferred tax assets, and depletion
+rates.
+  
+                   Factors
+that could cause actual results to differ materially from our expectations
+include, among others, such things as:
+
+•      oil and
+natural gas prices;
+•      our
+ability to replace oil and natural gas reserves;
+•      loss of
+senior management or technical personnel;
+•      inaccuracy
+in reserve estimates and expected production rates;
+•      exploitation,
+development and exploration results, including from enhanced
+recovery
+activities;
+•      costs
+related to asset retirement obligations;
+•      a
+lack of available capital and financing;
+•      the
+potential unavailability of drilling rigs and other field equipment and
+services;
+•      the
+existence of unanticipated liabilities or problems relating to acquired
+properties;
+•      general
+economic, market or business conditions;
+
+
+
+
+ 
+      
+
+
+•
+
+
+factors
+      affecting the nature and timing of our capital expenditures, including the
+      availability of service contractors and equipment, permitting issues,
+      workovers, and weather;
+
+
+
+
+
+
+
+
+ 
+      
+
+
+•
+
+
+the
+      impact and costs related to compliance with or changes in laws or
+      regulations governing our oil and natural gas
+  operations;
+
+
+
+
+
+
+
+
+ 
+      
+
+
+•
+
+
+environmental
+      liabilities;
+
+
+
+
+
+
+
+
+ 
+      
+
+
+•
+
+
+acquisitions
+      and other business opportunities (or the lack thereof) that may be
+      presented to and pursued by us;
+
+
+
+
+
+
+
+
+ 
+      
+
+
+•
+
+
+competition
+      for available properties and the effect of such competition on the price
+      of those properties;
+
+
+
+
+•      risk
+factors discussed in this report; and
+•      other
+factors, many of which are beyond our control.
+
+Although we believe that the
+expectations reflected in such forward-looking statements are reasonable, those
+expectations may prove to be incorrect.  Disclosure of important
+factors that could cause actual results to differ materially from our
+expectations, or cautionary statements, are included in our Annual Report on
+Form 10-K for the fiscal year ended March 31, 2008, under the heading "Risk
+Factors", and elsewhere in this report, including, without limitation, in
+conjunction with the forward-looking statements.  All forward-looking
+statements speak only as of the date made.  All subsequent written and
+oral forward-looking statements attributable to us, or persons acting on our
+behalf, are expressly qualified in their entirety by the cautionary
+statements.  Except as required by law, we undertake no obligation to
+update any forward-looking statement to reflect events or circumstances after
+the date on which it is made or to reflect the occurrence of anticipated or
+unanticipated events or circumstances.
+
+
+
+
+
+
+3
+
+
+
+
+
+Table of Contents 
+
+
+PART I – FINANCIAL INFORMATION
+
+Item 1. Financial
+Statements
+
+Basic
+Earth Science Systems, Inc.
+Consolidated
+Balance Sheets
+Page
+1 of 2
+
+
+
+
+ 
+      
+ 
+      
+
+December
+      31,
+
+ 
+      
+ 
+      
+
+March
+      31,
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+2008
+
+ 
+      
+ 
+      
+
+2008
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+(Unaudited)
+
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+Assets
+
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+Current
+      assets:
+
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+     Cash
+      and cash equivalents
+
+ 
+      
+
+$
+
+
+6,313,000
+
+ 
+      
+ 
+      
+
+$
+
+
+5,571,000
+
+ 
+      
+
+
+
+     Accounts
+      receivable:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+          Oil
+      and gas sales
+
+ 
+      
+ 
+      
+
+1,401,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,110,000
+
+ 
+      
+
+
+
+          Joint
+      interest and other receivables, net of $71,000 and $50,000 in
+      allowance
+
+ 
+      
+ 
+      
+
+60,000
+
+ 
+      
+ 
+      
+ 
+      
+
+236,000
+
+ 
+      
+
+
+
+     Other
+      current assets
+
+ 
+      
+ 
+      
+
+269,000
+
+ 
+      
+ 
+      
+ 
+      
+
+280,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      current assets
+
+ 
+      
+ 
+      
+
+8,043,000
+
+ 
+      
+ 
+      
+ 
+      
+
+7,197,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Oil
+      and gas property, full cost method:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Proved
+      property
+
+ 
+      
+ 
+      
+
+31,826,000
+
+ 
+      
+ 
+      
+ 
+      
+
+29,050,000
+
+ 
+      
+
+
+
+     Unproved
+      property
+
+ 
+      
+ 
+      
+
+1,270,000
+
+ 
+      
+ 
+      
+ 
+      
+
+2,515,000
+
+ 
+      
+
+
+
+     Accumulated
+      depletion and impairment
+
+ 
+      
+ 
+      
+
+(22,159,000
+
+
+)
+
+ 
+      
+ 
+      
+
+(18,515,000
+
+
+)
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Net
+      oil and gas property
+
+ 
+      
+ 
+      
+
+10,937,000
+
+ 
+      
+ 
+      
+ 
+      
+
+13,050,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Support
+      equipment and other non-current assets, net of $331,000 and $299,000 in
+      accumulated depreciation, respectively
+
+ 
+      
+ 
+      
+
+437,000
+
+ 
+      
+ 
+      
+ 
+      
+
+443,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      non-current assets
+
+ 
+      
+ 
+      
+
+11,374,000
+
+ 
+      
+ 
+      
+ 
+      
+
+13,493,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      assets
+
+ 
+      
+
+$
+
+
+19,417,000
+
+ 
+      
+ 
+      
+
+$
+
+
+20,690,000
+
+ 
+      
+
+
+
+
+See
+accompanying notes to unaudited consolidated financial
+statements.
+
+
+
+
+
+
+4
+
+
+
+
+
+Table of Contents 
+
+
+Basic
+Earth Science Systems, Inc.
+Consolidated
+Balance Sheets
+Page
+2 of 2
+
+
+
+
+ 
+      
+ 
+      
+
+December
+      31,
+
+ 
+      
+ 
+      
+
+March
+      31,
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+2008
+
+ 
+      
+ 
+      
+
+2008
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+(Unaudited)
+
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+Liabilities
+      and Shareholders' Equity
+
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+Current
+      liabilities:
+
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+     Accounts
+      payable
+
+ 
+      
+
+$
+
+
+455,000
+
+ 
+      
+ 
+      
+
+$
+
+
+1,443,000
+
+ 
+      
+
+
+
+     Accrued
+      liabilities
+
+ 
+      
+ 
+      
+
+1,827,000
+
+ 
+      
+ 
+      
+ 
+      
+
+2,586,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      current liabilities
+
+ 
+      
+ 
+      
+
+2,282,000
+
+ 
+      
+ 
+      
+ 
+      
+
+4,029,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Long-term
+      liabilities:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Deferred
+      tax liability
+
+ 
+      
+ 
+      
+
+2,507,000
+
+ 
+      
+ 
+      
+ 
+      
+
+2,800,000
+
+ 
+      
+
+
+
+     Asset
+      retirement obligation
+
+ 
+      
+ 
+      
+
+1,879,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,877,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      long-term liabilities
+
+ 
+      
+ 
+      
+
+4,386,000
+
+ 
+      
+ 
+      
+ 
+      
+
+4,677,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      liabilities
+
+ 
+      
+ 
+      
+
+6,668,000
+
+ 
+      
+ 
+      
+ 
+      
+
+8,706,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Shareholders’
+      Equity:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Preferred
+      stock, $.001 par value, 3,000,000 authorized, and none issued or
+      outstanding
+
+ 
+      
+ 
+      
+
+—
+
+ 
+      
+ 
+      
+ 
+      
+
+—
+
+ 
+      
+
+
+
+     Common
+      stock, $.001 par value, 32,000,000 shares authorized, and 17,480,727
+      shares issued and outstanding
+
+ 
+      
+ 
+      
+
+17,000
+
+ 
+      
+ 
+      
+ 
+      
+
+17,000
+
+ 
+      
+
+
+
+     Additional
+      paid-in capital
+
+ 
+      
+ 
+      
+
+22,822,000
+
+ 
+      
+ 
+      
+ 
+      
+
+22,798,000
+
+ 
+      
+
+
+
+     Treasury
+      stock (350,265 shares); at cost
+
+ 
+      
+ 
+      
+
+(38,000
+
+
+)
+
+ 
+      
+ 
+      
+
+(23,000
+
+
+)
+
+
+
+
+     Accumulated
+      deficit
+
+ 
+      
+ 
+      
+
+(10,052,000
+
+
+)
+
+ 
+      
+ 
+      
+
+(10,808,000
+
+
+)
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      shareholders’ equity
+
+ 
+      
+ 
+      
+
+12,749,000
+
+ 
+      
+ 
+      
+ 
+      
+
+11,984,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      liabilities and shareholders’ equity
+
+ 
+      
+
+$
+
+
+19,417,000
+
+ 
+      
+ 
+      
+
+$
+
+
+20,690,000
+
+ 
+      
+
+
+
+
+See
+accompanying notes to unaudited consolidated financial
+statements.
+
+
+
+
+
+
+5
+
+
+
+
+
+Table of Contents 
+
+
+Basic Earth Science Systems, Inc.
+Consolidated
+Statements of Operations
+(Unaudited)
+
+
+
+
+ 
+      
+ 
+      
+
+Nine
+      Months Ended
+
+ 
+      
+ 
+      
+
+Three
+      Months Ended
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+December
+      31,
+
+ 
+      
+ 
+      
+
+December
+      31,
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+2008
+
+ 
+      
+ 
+      
+
+2007
+
+ 
+      
+ 
+      
+
+2008
+
+ 
+      
+ 
+      
+
+2007
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+ 
+      
+ 
+      
+
+(As
+      restated)
+
+ 
+      
+ 
+      
+ 
+ 
+      
+ 
+      
+
+(As
+      restated)
+
+ 
+      
+
+
+
+Revenues:
+
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+     Oil
+      and gas sales
+
+ 
+      
+
+$
+
+
+8,173,000
+
+ 
+      
+ 
+      
+
+$
+
+
+5,472,000
+
+ 
+      
+ 
+      
+
+$
+
+
+2,164,000
+
+ 
+      
+ 
+      
+
+$
+
+
+2,080,000
+
+ 
+      
+
+
+
+     Well
+      service and water disposal revenue
+
+ 
+      
+ 
+      
+
+86,000
+
+ 
+      
+ 
+      
+ 
+      
+
+17,000
+
+ 
+      
+ 
+      
+ 
+      
+
+41,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      revenues
+
+ 
+      
+ 
+      
+
+8,259,000
+
+ 
+      
+ 
+      
+ 
+      
+
+5,489,000
+
+ 
+      
+ 
+      
+ 
+      
+
+2,205,000
+
+ 
+      
+ 
+      
+ 
+      
+
+2,081,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Expenses:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Oil
+      and gas production
+
+ 
+      
+ 
+      
+
+1,913,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,518,000
+
+ 
+      
+ 
+      
+ 
+      
+
+753,000
+
+ 
+      
+ 
+      
+ 
+      
+
+561,000
+
+ 
+      
+
+
+
+     Production
+      tax
+
+ 
+      
+ 
+      
+
+618,000
+
+ 
+      
+ 
+      
+ 
+      
+
+463,000
+
+ 
+      
+ 
+      
+ 
+      
+
+120,000
+
+ 
+      
+ 
+      
+ 
+      
+
+180,000
+
+ 
+      
+
+
+
+     Well
+      servicing expenses
+
+ 
+      
+ 
+      
+
+28,000
+
+ 
+      
+ 
+      
+ 
+      
+
+18,000
+
+ 
+      
+ 
+      
+ 
+      
+
+6,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,000
+
+ 
+      
+
+
+
+     Depreciation
+      and depletion
+
+ 
+      
+ 
+      
+
+976,000
+
+ 
+      
+ 
+      
+ 
+      
+
+531,000
+
+ 
+      
+ 
+      
+ 
+      
+
+558,000
+
+ 
+      
+ 
+      
+ 
+      
+
+175,000
+
+ 
+      
+
+
+
+     Accretion
+      of asset retirement obligation
+
+ 
+      
+ 
+      
+
+54,000
+
+ 
+      
+ 
+      
+ 
+      
+
+85,000
+
+ 
+      
+ 
+      
+ 
+      
+
+18,000
+
+ 
+      
+ 
+      
+ 
+      
+
+37,000
+
+ 
+      
+
+
+
+     Asset
+      retirement expense
+
+ 
+      
+ 
+      
+
+164,000
+
+ 
+      
+ 
+      
+ 
+      
+
+47,000
+
+ 
+      
+ 
+      
+ 
+      
+
+35,000
+
+ 
+      
+ 
+      
+ 
+      
+
+28,000
+
+ 
+      
+
+
+
+     Impairment
+      of oil and gas properties
+
+ 
+      
+ 
+      
+
+2,694,000
+
+ 
+      
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+ 
+      
+ 
+      
+
+2,694,000
+
+ 
+      
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+
+
+
+     General
+      and administrative
+
+ 
+      
+ 
+      
+
+932,000
+
+ 
+      
+ 
+      
+ 
+      
+
+518,000
+
+ 
+      
+ 
+      
+ 
+      
+
+374,000
+
+ 
+      
+ 
+      
+ 
+      
+
+195,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      expenses
+
+ 
+      
+ 
+      
+
+7,379,000
+
+ 
+      
+ 
+      
+ 
+      
+
+3,180,000
+
+ 
+      
+ 
+      
+ 
+      
+
+4,558,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,177,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Income
+      (loss) from operations
+
+ 
+      
+ 
+      
+
+880,000
+
+ 
+      
+ 
+      
+ 
+      
+
+2,309,000
+
+ 
+      
+ 
+      
+ 
+      
+
+(2,353,000
+
+
+)
+
+ 
+      
+ 
+      
+
+904,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Other
+      Income (Expense):
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Interest
+      and other income
+
+ 
+      
+ 
+      
+
+54,000
+
+ 
+      
+ 
+      
+ 
+      
+
+116,000
+
+ 
+      
+ 
+      
+ 
+      
+
+12,000
+
+ 
+      
+ 
+      
+ 
+      
+
+41,000
+
+ 
+      
+
+
+
+     Interest
+      and other expenses
+
+ 
+      
+ 
+      
+
+(27,000
+
+
+)
+
+ 
+      
+ 
+      
+
+(12,000
+
+
+)
+
+ 
+      
+ 
+      
+
+(11,000
+
+
+)
+
+ 
+      
+ 
+      
+
+(4,000
+
+
+)
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      other income
+
+ 
+      
+ 
+      
+
+27,000
+
+ 
+      
+ 
+      
+ 
+      
+
+104,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,000
+
+ 
+      
+ 
+      
+ 
+      
+
+37,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Income
+      (loss) before income taxes
+
+ 
+      
+ 
+      
+
+907,000
+
+ 
+      
+ 
+      
+ 
+      
+
+2,413,000
+
+ 
+      
+ 
+      
+ 
+      
+
+(2,352,000
+
+
+)
+
+ 
+      
+ 
+      
+
+941,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Current
+      income tax expense
+
+ 
+      
+ 
+      
+
+444,000
+
+ 
+      
+ 
+      
+ 
+      
+
+125,000
+
+ 
+      
+ 
+      
+ 
+      
+
+76,000
+
+ 
+      
+ 
+      
+ 
+      
+
+25,000
+
+ 
+      
+
+
+
+Provision
+      for deferred income taxes
+
+ 
+      
+ 
+      
+
+(293,000
+
+
+)
+
+ 
+      
+ 
+      
+
+1,134,000
+
+ 
+      
+ 
+      
+ 
+      
+
+(858,000
+
+
+)
+
+ 
+      
+ 
+      
+
+479,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      income taxes
+
+ 
+      
+ 
+      
+
+151,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,259,000
+
+ 
+      
+ 
+      
+ 
+      
+
+(782,000
+
+
+)
+
+ 
+      
+ 
+      
+
+504,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Net
+      income (loss)
+
+ 
+      
+
+$
+
+
+756,000
+
+ 
+      
+ 
+      
+
+$
+
+
+1,154,000
+
+ 
+      
+ 
+      
+
+$
+
+
+(1,570,000
+
+
+)
+
+ 
+      
+
+$
+
+
+437,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Per
+      share amounts:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Basic
+
+ 
+      
+
+$
+
+
+0.04
+
+ 
+      
+ 
+      
+
+$
+
+
+0.07
+
+ 
+      
+ 
+      
+
+$
+
+
+(0.09
+
+
+)
+
+ 
+      
+
+$
+
+
+0.03
+
+ 
+      
+
+
+
+     Diluted
+
+ 
+      
+
+$
+
+
+0.04
+
+ 
+      
+ 
+      
+
+$
+
+
+0.07
+
+ 
+      
+ 
+      
+
+$
+
+
+(0.09
+
+
+)
+
+ 
+      
+
+$
+
+
+0.03
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Weighted
+      average common shares outstanding:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Basic
+
+ 
+      
+ 
+      
+
+17,468,613
+
+ 
+      
+ 
+      
+ 
+      
+
+16,993,676
+
+ 
+      
+ 
+      
+ 
+      
+
+17,474,638
+
+ 
+      
+ 
+      
+ 
+      
+
+17,051,709
+
+ 
+      
+
+
+
+     Diluted
+
+ 
+      
+ 
+      
+
+17,490,641
+
+ 
+      
+ 
+      
+ 
+      
+
+17,133,559
+
+ 
+      
+ 
+      
+ 
+      
+
+17,474,638
+
+ 
+      
+ 
+      
+ 
+      
+
+17,135,650
+
+ 
+      
+
+
+
+ 
+See
+accompanying notes to unaudited consolidated financial
+statements.
+
+
+
+
+
+
+6
+
+
+
+
+
+Table of Contents 
+
+
+Basic Earth Science Systems, Inc.
+Consolidated
+Statements of Cash Flows
+(Unaudited)
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+Nine
+      Months Ended
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+December
+      31,
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+2008
+
+ 
+      
+ 
+      
+ 
+      
+
+2007
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+(As
+      restated)
+
+ 
+      
+
+
+
+Cash
+      flows from operating activities:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Net
+      income
+
+ 
+      
+
+$
+
+
+756,000
+
+ 
+      
+ 
+      
+
+$
+
+
+1,154,000
+
+ 
+      
+
+
+
+Adjustments
+      to reconcile net income to net cash provided by operating
+      activities:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Depreciation
+      and depletion
+
+ 
+      
+ 
+      
+
+976,000
+
+ 
+      
+ 
+      
+ 
+      
+
+531,000
+
+ 
+      
+
+
+
+     Deferred
+      tax liability
+
+ 
+      
+ 
+      
+
+(293,000)
+
+ 
+      
+ 
+      
+ 
+      
+
+1,134,000
+
+ 
+      
+
+
+
+     Accretion
+      of asset retirement obligation
+
+ 
+      
+ 
+      
+
+54,000
+
+ 
+      
+ 
+      
+ 
+      
+
+85,000
+
+ 
+      
+
+
+
+     Share
+      based compensation
+
+ 
+      
+ 
+      
+
+24,000
+
+ 
+      
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+
+
+
+     Impairment
+      of Oil and Gas Properties
+
+ 
+      
+ 
+      
+
+2,694,000
+
+ 
+      
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+
+
+
+Change
+      in:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Accounts
+      receivable, net
+
+ 
+      
+ 
+      
+
+(115,000)
+
+ 
+      
+ 
+      
+ 
+      
+
+(229,000)
+
+ 
+      
+
+
+
+     Other
+      assets
+
+ 
+      
+ 
+      
+
+(17,000)
+
+ 
+      
+ 
+      
+ 
+      
+
+91,000
+
+ 
+      
+
+
+
+     Accounts
+      payable and accrued liabilities
+
+ 
+      
+ 
+      
+
+265,000
+
+ 
+      
+ 
+      
+ 
+      
+
+(124,000)
+
+ 
+      
+
+
+
+     Other
+
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+ 
+      
+ 
+      
+
+7,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Net
+      cash provided by operating activities
+
+ 
+      
+ 
+      
+
+4,344,000
+
+ 
+      
+ 
+      
+ 
+      
+
+2,649,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Cash
+      flows from investing activities:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Oil
+      and gas property
+
+ 
+      
+ 
+      
+
+(3,587,000)
+
+ 
+      
+ 
+      
+ 
+      
+
+(250,000)
+
+ 
+      
+
+
+
+     Support
+      equipment
+
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+ 
+      
+ 
+      
+
+(16,000)
+
+ 
+      
+
+
+
+     Proceeds
+      from sale of oil and gas property and equipment
+
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+ 
+      
+ 
+      
+
+14,000
+
+ 
+      
+
+
+
+     Other
+
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+ 
+      
+ 
+      
+
+(52,000)
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Net
+      cash used in investing activities
+
+ 
+      
+ 
+      
+
+(3,587,000)
+
+ 
+      
+ 
+      
+ 
+      
+
+(304,000)
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Cash
+      flows from financing activities:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Proceeds
+      from exercise of common stock options
+
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+ 
+      
+ 
+      
+
+14,000
+
+ 
+      
+
+
+
+     Purchase
+      of treasury shares
+
+ 
+      
+ 
+      
+
+(15,000)
+
+ 
+      
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Net
+      cash provided by (used in) financing activities
+
+ 
+      
+ 
+      
+
+(15,000)
+
+ 
+      
+ 
+      
+ 
+      
+
+14,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Cash
+      and cash equivalents:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Increase
+      in cash and cash equivalents
+
+ 
+      
+ 
+      
+
+742,000
+
+ 
+      
+ 
+      
+ 
+      
+
+2,359,000
+
+ 
+      
+
+
+
+     Balance,
+      beginning of year
+
+ 
+      
+ 
+      
+
+5,571,000
+
+ 
+      
+ 
+      
+ 
+      
+
+2,523,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Balance,
+      end of period
+
+ 
+      
+
+$
+
+
+6,313,000
+
+ 
+      
+ 
+      
+
+$
+
+
+4,882,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Supplemental
+      disclosure of cash flow information:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Cash
+      paid for interest
+
+ 
+      
+
+$
+
+
+7,000
+
+ 
+      
+ 
+      
+
+$
+
+
+7,000
+
+ 
+      
+
+
+
+     Cash
+      paid for income tax
+
+ 
+      
+
+$
+
+
+487,000
+
+ 
+      
+ 
+      
+
+$
+
+
+―
+
+ 
+      
+
+
+
+Non-cash:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Increase
+      in oil and gas property due to asset retirement obligation
+
+ 
+      
+
+$
+
+
+33,000
+
+ 
+      
+ 
+      
+
+$
+
+
+―
+
+ 
+      
+
+
+
+     Additions
+      to oil and gas also included in accrued liabilities
+
+ 
+      
+
+$
+
+
+263,000
+
+ 
+      
+ 
+      
+
+$
+
+
+1,078,000
+
+ 
+      
+
+
+
+
+See
+accompanying notes to unaudited consolidated financial
+statements.
+
+
+
+
+
+
+7
+
+
+
+
+
+Table of Contents 
+
+
+Basic Earth Science Systems, Inc.
+Notes
+to Unaudited Consolidated Financial Statements
+December
+31, 2008
+
+The
+accompanying interim financial statements of Basic Earth Science Systems, Inc.
+(sometimes referred to as “the Company” “we” “our” or “us”) are unaudited.
+However, in the opinion of management, the interim data includes all
+adjustments, consisting of normal recurring adjustments, necessary for a fair
+presentation of the results for the interim period.
+
+At the
+directive of the Securities and Exchange Commission to use “plain English” in
+its public filings, the Company will use such terms as “we”, “our” and “us” in
+place of Basic Earth Science Systems, Inc. or “the Company.” When such terms are
+used in this manner throughout this document they are in reference only to the
+corporation, Basic Earth Science Systems, Inc. and its subsidiaries, and are not
+used in reference to the board of directors, corporate officers, management, or
+any individual employee or group of employees.
+
+The
+financial statements included herein have been prepared by the Company pursuant
+to the rules and regulations of the Securities and Exchange Commission. Certain
+information and footnote disclosures normally included in financial statements
+prepared in accordance with generally accepted accounting principles have been
+condensed or omitted pursuant to such rules and regulations. We believe the
+disclosures made are adequate to make the information not misleading and suggest
+that these financial statements be read in conjunction with the financial
+statements and notes hereto included in our Annual Report on Form 10-KSB for the
+year ended March 31, 2008.
+
+1.
+Presentation of Consolidated Financial Statements
+
+As
+discussed in our 2008 Annual Report on Form 10-KSB for the fiscal year ended
+March 31, 2008, we discovered during the preparation and review of our 2008
+income tax provision that errors occurred in calculating the GAAP cost basis of
+our oil and gas properties in determining tax liability and the estimated
+deferred tax asset for percentage depletion carryforward. These errors impacted
+our previously filed financial statements for fiscal years ended March 31, 2007
+and 2006 and our previously filed interim financial statements for those years
+and the first three quarters of 2008. For further information concerning the
+restatement and details concerning restated amounts, please refer to our
+previously filed Annual Report on Form 10-KSB for the fiscal year ended March
+31, 2008.
+
+The
+following table summarizes the impact of these corrections to our
+consolidated  statement of income for the fiscal quarter ended
+December 31, 2007, as previously presented in Footnote 13 – Quarterly Financial Data (Unaudited)
+of our Annual Report on Form 10-KSB for the fiscal year ended March 31,
+2007. There was no impact to our 2008 interim Net Cash provided by Operating
+Activities due to the correction of the above errors.
+
+
+
+
+
+Impact
+      to the Income Statement
+
+ 
+      
+
+Nine
+      Months Ended
+December 31,
+      2007
+
+ 
+      
+
+Three
+      Months Ended
+December
+      31, 2007
+
+ 
+      
+
+
+
+(Unaudited)
+
+ 
+      
+
+As
+      reported
+
+ 
+      
+ 
+      
+
+Adjustment
+
+ 
+      
+ 
+      
+
+As
+      restated
+
+ 
+      
+ 
+      
+
+As
+      reported
+
+ 
+      
+ 
+      
+
+Adjustment
+
+ 
+      
+ 
+      
+
+As
+      restated
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+Provision
+      for deferred income taxes
+
+ 
+      
+
+$
+
+
+759,000
+
+ 
+      
+ 
+      
+
+$
+
+
+375,000
+
+ 
+      
+ 
+      
+
+$
+
+
+1,134,000
+
+ 
+      
+ 
+      
+
+$
+
+
+354,000
+
+ 
+      
+ 
+      
+
+$
+
+
+125,000
+
+ 
+      
+ 
+      
+
+$
+
+
+479,000
+
+ 
+      
+
+
+
+Total
+      income taxes
+
+ 
+      
+ 
+      
+
+884,000
+
+ 
+      
+ 
+      
+ 
+      
+
+375,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,259,000
+
+ 
+      
+ 
+      
+ 
+      
+
+379,000
+
+ 
+      
+ 
+      
+ 
+      
+
+125,000
+
+ 
+      
+ 
+      
+ 
+      
+
+504,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Net
+      Income
+
+ 
+      
+
+$
+
+
+1,529,000
+
+ 
+      
+ 
+      
+
+$
+
+
+(375,000
+
+
+)
+
+ 
+      
+
+$
+
+
+1,154,000
+
+ 
+      
+ 
+      
+
+$
+
+
+562,000
+
+ 
+      
+ 
+      
+
+$
+
+
+(125,000
+
+
+)
+
+ 
+      
+
+$
+
+
+437,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Per
+      share amounts:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Basic
+
+ 
+      
+
+$
+
+
+0.09
+
+ 
+      
+ 
+      
+
+$
+
+
+(0.02
+
+
+)
+
+ 
+      
+
+$
+
+
+0.07
+
+ 
+      
+ 
+      
+
+$
+
+
+0.03
+
+ 
+      
+ 
+      
+
+$
+
+
+(0.00
+
+
+)
+
+ 
+      
+
+$
+
+
+0.03
+
+ 
+      
+
+
+
+Diluted
+
+ 
+      
+
+$
+
+
+0.09
+
+ 
+      
+ 
+      
+
+$
+
+
+(0.02
+
+
+)
+
+ 
+      
+
+$
+
+
+0.07
+
+ 
+      
+ 
+      
+
+$
+
+
+0.03
+
+ 
+      
+ 
+      
+
+$
+
+
+(0.00
+
+
+)
+
+ 
+      
+
+$
+
+
+0.03
+
+ 
+      
+
+
+
+ 
+
+
+
+
+
+
+8
+
+
+
+
+
+Table of Contents 
+
+
+
+2.
+Summary of Significant Accounting Policies and Recent Accounting
+Pronouncements
+
+Use of Estimates.
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires us to make estimates and assumptions
+that affect the actual amounts of assets and liabilities at the date of the
+financial statements and the actual amounts of revenues and expenses during the
+reporting period. We base these estimates on assumptions that we understand are
+reasonable under the circumstances. The estimated results that are produced by
+this effort will differ under different assumptions or conditions.  We
+understand that these estimates are necessary and that actual results could vary
+significantly from the estimated amounts for the current and future periods.
+There are many factors, including global events, which may influence the
+production, processing, marketing, and valuation of crude oil and natural gas. A
+reduction in the valuation of oil and gas properties resulting from declining
+prices or production could adversely impact depletion rates and ceiling test
+limitations. We understand the following accounting policies and estimates are
+necessary in the preparation of our consolidated financial statements: the
+carrying value of our oil and gas property, the accounting for oil and gas
+reserves, the estimate of our asset retirement obligations, the estimate of our
+income tax assets and liabilities and estimates of accrued quantities and prices
+in our oil and gas receivable.
+
+Cash and Cash
+Equivalents. For purposes of the Consolidated Balance Sheets and
+Statements of Cash Flows, we consider all highly liquid investments with a
+maturity of ninety days or less when purchased to be cash
+equivalents.
+
+Oil and Gas
+Reserves. Oil and gas reserves represent theoretical, estimated
+quantities of crude oil and natural gas which geological and engineering data
+estimate with reasonable certainty to be recoverable in future years from known
+reservoirs under existing economic and operating conditions. There are numerous
+uncertainties inherent in estimating oil and gas reserves and their values,
+including many factors beyond our control. Accordingly, reserve estimates are
+different from the quantities of oil and gas ultimately recovered and the
+corresponding lifting costs associated with the recovery of these reserves. At
+March 31, 2008, ninety-five percent of our reported oil and gas reserves are
+based on estimates prepared by Ryder Scott Company, L.P, a nationally
+recognized, independent petroleum engineering firm. The remaining five percent
+of our oil and gas reserves were prepared in-house.
+
+Each
+quarter, we update reserve estimates by substituting the prices we would have
+received at quarter-end for the year-end prices that were used by our
+independent petroleum engineers.  In conducting this “re-pricing” no
+changes are made to the decline rates, tax rates or lifting costs used by our
+independent petroleum engineers.  The determination of depletion
+expense, as well as ceiling test write-downs, are highly dependent on these
+reserve, and quarterly “re-pricing” estimates.
+
+Oil and Gas
+Property. We utilize the full cost method of accounting for costs related
+to our oil and gas property. Capitalized costs included in the full cost pool
+are depleted on an aggregate basis over the estimated lives of the properties
+using the units-of-production method. These capitalized costs are subject to a
+ceiling test that limits such pooled costs to the aggregate of the present value
+of future net revenues attributable to proved oil and gas reserves discounted at
+10 percent plus the lower of cost or market value of unproved properties
+less any associated tax effects. If the full cost pool of capitalized oil and
+gas property costs exceeds the ceiling, we will record a ceiling test write-down
+to the extent of such excess. This write-down is a non-cash charge to earnings.
+If required, it reduces earnings and impacts shareholders’ equity in the period
+of occurrence. The write-down may not be reversed in future periods, even though
+higher oil and gas prices in the future may subsequently and significantly
+increase reserve estimates in future periods.
+
+As of
+December 31, 2008, we determined that our capitalized costs exceeded the ceiling
+test limit.  Accordingly, we recorded an impairment write down of
+$2,694,000 representing the excess of capitalized costs over the ceiling, as
+calculated in accordance with these full cost rules for both the quarter and
+nine months ended December 31, 2008.
+
+
+
+
+
+
+9
+
+
+
+
+
+Table of Contents 
+
+
+ 
+Asset Retirement
+Obligations. We have obligations related to the plugging and abandonment
+of our oil and gas wells, the removal of equipment and facilities, and returning
+the land to its original condition. SFAS No. 143, “Accounting for Asset
+Retirement Obligations” requires that we estimate the future cost of this
+obligation, discount this cost to its present value, and record a corresponding
+asset and liability in our Consolidated Balance Sheets. The values ultimately
+derived are based on many significant estimates, including the ultimate expected
+cost of the obligation, the expected future date of the required cash
+expenditures, and inflation rates. The nature of these estimates requires us to
+make judgments based on historical experience and future expectations related to
+timing. We review the estimate of our future asset retirement obligations
+quarterly. These quarterly reviews may require revisions to these estimates
+based on such things as changes to cost estimates or the timing of future cash
+outlays. Any such changes that result in upward or downward revisions in the
+estimated obligation will result in an adjustment to the related capitalized
+asset and corresponding liability on a prospective basis.
+ 
+We
+recognize two components on our consolidated statement of income; accretion of
+asset retirement obligations and asset retirement expense.  Accretion
+of asset retirement obligation reflects the periodic accretion of the present
+value of future plugging and abandonment costs.  Asset retirement
+expense reflects the actual current period gains and losses on plugging and
+abandonment costs relative to previously estimated future
+costs.  Since our initial adoption of FASB No. 143 we have closed
+gains and losses on asset retirements to the income statement as a component of
+asset retirement expense.
+
+The
+information below reconciles the value of the asset retirement obligation for
+the period presented.
+
+
+
+
+ 
+      
+ 
+      
+
+Nine
+      Months Ended
+December
+      31, 2008
+
+ 
+      
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Balance
+      beginning of period
+
+ 
+      
+
+$
+
+
+2,179,000
+
+ 
+      
+
+
+
+     Liabilities
+      incurred
+
+ 
+      
+ 
+      
+
+33,000
+
+ 
+      
+
+
+
+     Liabilities
+      settled
+
+ 
+      
+ 
+      
+
+(160,000
+
+
+)
+
+
+
+
+     Revisions
+      in estimated cash flows
+
+ 
+      
+ 
+      
+
+(3,000
+
+
+)
+
+
+
+
+     Accretion
+      expense
+
+ 
+      
+ 
+      
+
+54,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Balance
+      end of period
+
+ 
+      
+
+$
+
+
+2,103,000
+
+ 
+      
+
+
+
+
+Income Taxes.
+We account for income taxes in accordance with SFAS No. 109,
+“Accounting for Income Taxes”. Accordingly, deferred tax liabilities and assets
+are determined based on the temporary differences between the financial
+statements and tax bases of assets and liabilities, using enacted tax rates in
+effect for the year in which the differences are expected to
+reverse.
+
+Projections
+of future income taxes and their timing require significant estimates with
+respect to future operating results. Accordingly, the net deferred tax liability
+is continually re-evaluated and numerous estimates are revised over time. As
+such, the net deferred tax liability may change significantly as more
+information and data is gathered with respect to such events as changes in
+commodity prices, their effect on the estimate of oil and gas reserves, and the
+depletion of these long-lived reserves.
+ 
+On
+April 1, 2007 we adopted FASB Interpretation No. 48, Accounting for
+Uncertainty in Income Taxes, an interpretation of FASB Statement No. 109
+(FIN 48). The adoption of FIN 48 had no impact on our consolidated financial
+statements. We are subject to U.S. federal income tax and income tax from
+multiple state jurisdictions. The tax years remaining subject to examination by
+tax authorities are fiscal years 2004 through 2006. We recognize interest and
+penalties related to uncertain tax positions in income tax expense. As of
+December 31, 2008, we made no provisions for interest or penalties related to
+uncertain tax positions.
+
+
+
+
+
+
+10
+
+
+
+
+
+Table of Contents 
+
+
+
+Earnings Per
+Share. Our earnings per share (EPS) is computed by dividing net income by
+the weighted average number of common shares outstanding for the period. Diluted
+EPS is calculated by dividing net income by the diluted weighted average number
+of common shares. The diluted weighted average number of common shares is
+computed using the treasury stock method for common stock that may be issued for
+outstanding stock options.
+
+Off
+Balance Sheet Transactions, Arrangements, or Obligations
+
+We have
+no material off balance sheet transactions, arrangements or
+obligations.
+
+Recent
+Accounting Pronouncements
+
+In
+December 2007, the FASB issued SFAS No. 141 (Revised 2007), “Business
+Combinations” (“SFAS 141R”). SFAS 141R will significantly change the accounting
+for business combinations in a number of areas including the treatment of
+contingent consideration, contingencies, acquisition costs, research and
+development assets and restructuring costs. In addition, under SFAS 141R,
+changes in deferred tax asset valuation allowances and acquired income tax
+uncertainties in a business combination after the measurement period will impact
+income taxes. SFAS 141R is effective for fiscal years beginning after
+December 15, 2008. The adoption of the provisions of SFAS 141R is not
+expected to have a material effect on our financial position, results of
+operations, or cash flows.
+
+In
+February 2007, the FASB issued SFAS No. 159, “The Fair Value Option
+for Financial Assets and Financial Liabilities”, providing companies with an
+option to report selected financial assets and liabilities at fair value. The
+Standard’s objective is to reduce both complexity in accounting for financial
+instruments and the volatility in earnings caused by measuring related assets
+and liabilities differently. Generally
+accepted accounting principles have required different measurement attributes
+for different assets and liabilities that can create artificial volatility in
+earnings. SFAS 159 helps to mitigate this type of accounting-induced volatility
+by enabling companies to report related assets and liabilities at fair value,
+which would likely reduce the need for companies to comply with detailed rules
+for hedge accounting. SFAS
+159 also establishes presentation and disclosure requirements designed to
+facilitate comparisons between companies that choose different measurement
+attributes for similar types of assets and liabilities. The
+Standard requires companies to provide additional information that will help
+investors and other users of financial statements to more easily understand the
+effect of our choice to use fair value on its earnings. It also requires
+entities to display the fair value of those assets and liabilities for which the
+Company has chosen to use fair value on the face of the balance sheet. The
+adoption of the provisions of SFAS 159 did not have a material effect on our
+financial position, results of operations, or cash flows.
+
+In
+September 2006,
+the FASB issued SFAS Statement No. 157,
+“Fair Value Measurements”. SFAS 157 defines fair value, establishes a framework
+for measuring fair value in accordance with generally accepted accounting
+principles and expands disclosures about fair value measurements. SFAS 157 is
+effective for fiscal years beginning after November 15,
+2007.  In
+February 2008, the FASB issued Staff Position No.
+FAS 157-2.  That guidance proposed a one year deferral of the
+implementation of SFAS 157 for non-financial assets and liabilities that
+are recognized or disclosed at fair value on a nonrecurring basis (less frequent
+than annually).
+
+On April
+1, 2008, we adopted SFAS No. 157 with the one-year deferral for non-financial
+assets and liabilities.  The adoption of SFAS No. 157 did not
+have a material impact on our financial position, results of operations, or cash
+flows.  Beginning April 1, 2009, we expect to adopt the provisions for
+non-financial assets and non-financial liabilities that are not required or
+permitted to be measured at fair value on a recurring basis.  While we
+are in the process of evaluating this standard with respect to its effect on
+non- financial assets and liabilities, we have not yet determined the impact
+that it will have on our financial statements upon full adoption in
+2009.
+
+
+
+
+
+
+11
+
+
+
+
+
+Table of Contents 
+
+
+
+3.
+Subsequent Events
+
+On
+January 14, 2009, FieldPoint Petroleum Corporation announced that it had
+filed a Registration Statement on Form S-4 to register shares of its common
+stock proposed to be issued in connection with a potential exchange offer for a
+minimum of 51% and a maximum of 100% of the outstanding shares of the Company’s
+common stock.  The exchange ratio that FieldPoint has disclosed is one
+share of FieldPoint common stock for every two shares of the Company’s common
+stock and would be subject to a number of conditions.  FieldPoint did
+not have any substantive communications with the Company before issuing its
+press release. 
+
+On
+February 4, 2009, our Board of Directors (the “Board”) declared a dividend
+(the “Dividend”) of one preferred share purchase right (a “Right”) for each
+outstanding share of common stock.  The dividend is payable on
+February 17, 2009 to holders of record on that date.  On
+February 4, 2009, we entered into a Rights Agreement, with Corporate Stock
+Transfer, Inc. as the Rights Agent (the “Rights Agreement”), specifying the
+terms of the Rights.
+
+The Board
+has authorized the adoption of a Rights Agreement to protect stockholders from
+coercive or otherwise unfair takeover tactics. In general terms, the Rights
+impose a significant penalty upon any person or group that acquires beneficial
+ownership of 15% or more of our outstanding common stock without the prior
+approval of the Board.  The Rights Agreement will provide an exemption
+for (i) any person who is, as of February 17, 2009, the beneficial owner of
+15% or more of our outstanding common stock, so long as such person does not,
+subject to certain exceptions, acquire additional common stock of the Company
+after February 17, 2009, and (ii) Ray J. Singleton, Jr., the Company’s
+President and Chief Executive Officer, and his family and certain affiliates
+(collectively, the “Grandfathered Persons”), so long as such Grandfathered
+Persons, individually or in the aggregate, do not, subject to certain
+exceptions, acquire additional common stock of the Company such that their
+aggregate ownership exceeds 36% of the then outstanding common stock of the
+Company.  Mr. Singleton currently owns approximately 26% of our
+outstanding common stock.  The Company, its subsidiaries, employee
+benefit plans of the Company or any of its subsidiaries, and any entity holding
+common stock for or pursuant to the terms of any such plan will also be
+excepted.
+
+ In
+connection with the adoption of the Rights Agreement on February 4, 2009, we
+filed a Certificate of Designations of Series A Junior Participating
+Preferred Stock (the “Certificate of Designations”) with the Secretary of State
+of the State of Delaware to create the Preferred Shares.
+
+Also on
+February 4, 2009, we amended our bylaws to add a provision requiring a
+stockholder who seeks to present business or to nominate directors for election
+at a stockholders’ meeting to provide notice to us in advance of the meeting and
+to include in such notice certain disclosures about the stockholder and the
+business to be proposed.
+
+
+
+
+
+
+12
+
+
+
+
+
+Table of Contents 
+
+
+
+Item 2.
+Management’s Discussion and Analysis and Plan of Operation
+
+Liquidity
+and Capital Resources
+
+Liquidity
+Outlook. Our primary source of funding is the net cash flow from the sale
+of our oil and gas production. The profitability and cash flow generated by our
+operations in any particular accounting period will be directly related to:
+(a) the volume of oil and gas produced and sold, (b) the average realized
+prices for oil and gas sold, and (c) lifting costs. Assuming that oil
+prices do not decline from current levels, we believe the cash generated from
+operations, along with existing cash balances, will enable us to meet our
+existing and normal recurring obligations during the next fiscal year and
+beyond.
+
+Working Capital.
+At December 31, 2008, we had a working capital surplus of $5,761,000 (a
+current ratio of 3.52:1) compared to a working capital surplus at March 31, 2008
+of $3,168,000 (a current ratio of 1.79:1). The increase is a result of our
+improved cash position due to overall increases in price and production of oil
+and gas for the nine month period ended December 31, 2008.
+
+Cash Flow.
+Net cash provided by operating activities increased 64% from $2,649,000
+in the nine months ended December 31, 2007 (“2007”) to $4,344,000 in the nine
+months ended December 31, 2008 (“2008”) due to increased oil commodity prices
+and production volumes in the latest nine month period.  While not
+reflected on the Consolidated Statement of Income, this level of cash flow was
+determined by reconciling net income with, among other things, impairment and
+depletion expense within the “net cash provided by operating activities”
+section.
+
+Net cash
+used in investing activities increased 1,080% from $304,000 during 2007 to
+$3,587,000 in the nine months ended December 31, 2008. The difference relates
+primarily to timing of cash payments relating to expenditures of the drilling
+and completion of the new wells in DJ Basin of Colorado.  We also used
+a de minimis amount of cash for our stock buyback program. (For further
+information refer to Part II, Item 2. Unregistered Sales of Equity
+Securities and Use of Proceeds).
+
+Credit
+Line. Our current banking relationship, established in March 2002,
+is with American National Bank (“the Bank”), located in Denver, Colorado.
+Subject to several amendments over time, the line of credit amount was set at
+$20,000,000 with a concurrent borrowing base of $4,000,000. Effective
+December 31, 2008 the loan agreement was amended to extend the maturity
+date of the credit agreement to December 31, 2010.  We renewed
+the line with an interest rate of prime plus 0.25% or 6.5% whichever is
+higher.  During the year ended March 31, 2008 and for the nine
+months ending December 31, 2008, we did not utilize our credit
+facility.  The loan contains several covenant
+restrictions.  Since inception this loan facility has contained a
+covenant that makes the loan callable upon a change of control.  At
+December 31, 2008, we were in compliance with all covenants.  This
+line may be used for purposes of borrowing funds to reduce payables, finance
+re-completion or drilling efforts, fund property acquisitions, or pursue other
+opportunities we cannot envision at this time.
+ 
+Capital
+Expenditures
+
+The
+amounts presented herein are presented on an accrual basis, and as such may not
+be consistent with the amounts presented on the consolidated statement of cash
+flows under investing activities for expenditures on oil and gas property in
+that the amounts contained therein are presented on a cash basis.
+
+During
+the quarter ended December 31, 2008, we spent approximately $353,000 on various
+projects.  When combined with first and second quarter investments, we
+have deployed $1,568,000 through the first nine months of the current fiscal
+year.  This compares to $945,000 and $1,328,000 for the quarter and
+nine months ended December 31, 2007, respectively. Through the first nine months
+of fiscal 2008, approximately 83% of capital expenditures were dedicated to
+drilling and completions, 7% was dedicated to preservation of expiring leases
+and 10% was dedicated to the acquisition of producing
+properties.
+
+
+
+
+
+
+13
+
+
+
+
+
+Table of Contents 
+
+
+ 
+During
+the quarter ended December 31, 2008, we estimate that we spent 51% of our
+capital expenditure amount on the Crown 41-31 project in Montana, and 23% on
+workovers for the Halverson 21-36 in Richland County, Montana.  These
+projects were funded with internally generated cash flow from
+operations.
+
+Panther
+Energy Company, LLC. (Panther), the operator of the Company’s Banks Prospect in
+eastern McKenzie County, North Dakota, drilled a second well on that
+prospect.  In addition, Panther attempted twice to hydraulically
+stimulate the first well on the prospect but had to postpone its operations due
+to adverse winter weather conditions.  Panther has informed the
+Company that Panther intends to move its rig to Montana to drill two wells for a
+third party and then return to the Banks Prospect in late spring.  The
+Company will evaluate the drilling results for these two wells before committing
+the Company to fund capital expenditures related to additional wells on the
+Banks Prospect.  The Company has a 6.5% (32.5% of 20%) carried working
+interest “to the tanks” on the Banks acreage contributed to the spacing unit on
+each well.  Pursuant to the Farmout Agreement between the Company and
+Panther, Panther earned its 67.5% interest in the Banks acreage upon completion
+of the second well.  The Company has the right to participate in wells
+for a 6.5% working interest on the Banks acreage contributed to any spacing unit
+in the future.
+
+Due to
+the precipitous drop in oil commodity prices and the relatively high service
+company prices, the Company and its 50% partner at the South Flat Lake prospect
+in Montana re-evaluated the economics of a vertical Red River test well on the
+prospect and decided to postpone drilling.  If commodity prices and
+drilling costs improve, the Company and its partner would drill an initial well
+at a total cost estimated currently to be approximately
+$1.35 million.
+
+At
+present cash levels, and with the extension of our available borrowing capacity,
+we expect to have sufficient funds available for our share of any additional
+acreage, seismic and/or drilling cost requirements that might arise from these
+opportunities.  We may alter or vary all or part of these planned
+capital expenditures for reasons including but not limited to; changes in
+circumstances, unforeseen opportunities, inability to negotiate favorable
+acquisition, farmout or joint venture terms, lack of cash flow, and lack of
+additional funding.
+
+We
+currently have no capital expenditure commitments.  We are continually
+evaluating other drilling and acquisition opportunities for possible
+participation. Typically, at any one time, several opportunities are in various
+stages of due diligence. Our policy is to not disclose the specifics of a
+project or prospect, nor to speculate on such ventures, until such time as those
+various opportunities are finalized and undertaken. We caution that the absence
+of news and/or press releases should not be interpreted as a lack of development
+or activity.
+
+Divestitures/Abandonments
+
+During
+the quarter ended December 31, 2008 we plugged no additional
+wells.  Instead, all expenses incurred during the quarter were for
+surface restoration.  
+ 
+Results
+of Operations
+
+Overview.
+Net loss for the three months ended December 31, 2008 was $1,570,000
+compared to net income of $437,000, as restated, for the three months ended
+December 31, 2007.  Net income for the nine months ended December 31,
+2008 was $756,000 compared to net income of $1,154,000 as restated for the nine
+months ended December 31, 2007.
+
+
+
+
+
+
+14
+
+
+
+
+
+Table of Contents 
+
+
+
+The
+following table shows selected financial information for the quarter ended
+December 31 in the current and prior year. Certain prior year amounts may have
+been reclassified to conform to current year presentation.
+
+
+
+
+ 
+      
+ 
+      
+
+Nine
+      Months Ended
+
+ 
+      
+ 
+      
+
+Three
+      Months Ended
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+December
+      31,
+
+ 
+      
+ 
+      
+
+December
+      31,
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+2008
+
+ 
+      
+ 
+      
+
+2007
+
+ 
+      
+ 
+      
+
+2008
+
+ 
+      
+ 
+      
+
+2007
+
+ 
+      
+
+
+
+Sales
+      volume
+
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+    
+      Oil (barrels)
+
+ 
+      
+ 
+      
+
+72,700
+
+ 
+      
+ 
+      
+ 
+      
+
+68,300
+
+ 
+      
+ 
+      
+ 
+      
+
+29,400
+
+ 
+      
+ 
+      
+ 
+      
+
+23,200
+
+ 
+      
+
+
+
+    
+      Gas (mcf)
+
+ 
+      
+ 
+      
+
+147,000
+
+ 
+      
+ 
+      
+ 
+      
+
+88,100
+
+ 
+      
+ 
+      
+ 
+      
+
+65,100
+
+ 
+      
+ 
+      
+ 
+      
+
+23,500
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Revenue
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+    
+      Oil
+
+ 
+      
+
+$
+
+
+6,658,000
+
+ 
+      
+ 
+      
+
+$
+
+
+4,891,000
+
+ 
+      
+ 
+      
+
+$
+
+
+1,552,000
+
+ 
+      
+ 
+      
+
+$
+
+
+1,921,000
+
+ 
+      
+
+
+
+    
+      Gas
+
+ 
+      
+ 
+      
+
+1,515,000
+
+ 
+      
+ 
+      
+ 
+      
+
+581,000
+
+ 
+      
+ 
+      
+ 
+      
+
+612,000
+
+ 
+      
+ 
+      
+ 
+      
+
+159,000
+
+ 
+      
+
+
+
+Total
+      revenue1
+
+ 
+      
+ 
+      
+
+8,173,000
+
+ 
+      
+ 
+      
+ 
+      
+
+5,472,000
+
+ 
+      
+ 
+      
+ 
+      
+
+2,164,000
+
+ 
+      
+ 
+      
+ 
+      
+
+2,080,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      production expense2
+
+ 
+      
+ 
+      
+
+2,490,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,981,000
+
+ 
+      
+ 
+      
+ 
+      
+
+863,000
+
+ 
+      
+ 
+      
+ 
+      
+
+741,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Gross
+      profit
+
+ 
+      
+
+$
+
+
+5,683,000
+
+ 
+      
+ 
+      
+
+$
+
+
+3,491,000
+
+ 
+      
+ 
+      
+
+$
+
+
+1,301,000
+
+ 
+      
+ 
+      
+
+$
+
+
+1,339,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Depletion
+      expense
+
+ 
+      
+
+$
+
+
+950,000
+
+ 
+      
+ 
+      
+
+$
+
+
+523,000
+
+ 
+      
+ 
+      
+
+$
+
+
+550,000
+
+ 
+      
+ 
+      
+
+$
+
+
+172,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Average
+      sales price3
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Oil
+      (per barrel)
+
+ 
+      
+
+$
+
+
+91.57
+
+ 
+      
+ 
+      
+
+$
+
+
+71.61
+
+ 
+      
+ 
+      
+
+$
+
+
+52.80
+
+ 
+      
+ 
+      
+
+$
+
+
+82.62
+
+ 
+      
+
+
+
+Gas
+      (per mcf)
+
+ 
+      
+
+$
+
+
+7.39
+
+ 
+      
+ 
+      
+
+$
+
+
+6.60
+
+ 
+      
+ 
+      
+
+$
+
+
+2.86
+
+ 
+      
+ 
+      
+
+$
+
+
+6.76
+
+ 
+      
+
+
+
+Average
+      production expense2,3,4
+
+ 
+      
+
+$
+
+
+25.62
+
+ 
+      
+ 
+      
+
+$
+
+
+23.87
+
+ 
+      
+ 
+      
+
+$
+
+
+21.41
+
+ 
+      
+ 
+      
+
+$
+
+
+27.24
+
+ 
+      
+
+
+
+Average
+      gross profit3,4
+
+ 
+      
+
+$
+
+
+58.47
+
+ 
+      
+ 
+      
+
+$
+
+
+42.08
+
+ 
+      
+ 
+      
+
+$
+
+
+32.28
+
+ 
+      
+ 
+      
+
+$
+
+
+49.31
+
+ 
+      
+
+
+
+Average
+      depletion expense3,4
+
+ 
+      
+
+$
+
+
+10.05
+
+ 
+      
+ 
+      
+
+$
+
+
+6.30
+
+ 
+      
+ 
+      
+
+$
+
+
+13.87
+
+ 
+      
+ 
+      
+
+$
+
+
+6.34
+
+ 
+      
+
+
+
+Average
+      general and administrative expense3,4
+
+ 
+      
+
+$
+
+
+9.59
+
+ 
+      
+ 
+      
+
+$
+
+
+6.25
+
+ 
+      
+ 
+      
+
+$
+
+
+9.28
+
+ 
+      
+ 
+      
+
+$
+
+
+7.19
+
+ 
+      
+
+
+
+
+
+
+
+
+1
+
+ 
+      
+
+Net
+      of $86,000 in water disposal revenue, as compared to total revenues of
+      $8,259,000
+
+
+
+
+2
+
+ 
+      
+
+Overall
+      lifting cost (oil and gas production expenses and production
+      taxes)
+
+
+
+
+3
+
+ 
+      
+
+Averages
+      calculated based upon non-rounded figures
+
+
+
+
+4
+
+ 
+      
+
+Per
+      equivalent barrel (6 Mcf of gas is equivalent to 1 barrel of
+      oil)
+
+
+
+
+
+Three
+Months Ended December 31, 2008 Compared to Three Months Ended December 31,
+2007
+
+Revenues.
+Oil and gas sales revenue increased $84,000 (4%) in 2008 from 2007 due to
+increased production partially offset by decreased prices. Oil sales revenue
+decreased $369,000 (19%), and gas sales revenue increased $453,000 (285%) in
+2008 from 2007. 
+
+Volumes and
+Prices. Oil sales volumes increased 27%, from 23,200 barrels in 2007 to
+29,400 barrels in 2008 while there was a decrease of 36% in the average price
+per barrel from $82.62 in 2007 to $52.80 in 2008. The increase in oil sales
+volume is attributed primarily to the production of our Antenna Federal property
+in Weld County, Colorado.  Gas sales volume increased 177% from
+23.5 million cubic feet (MMcf) in 2007 to 65.1 MMcf in 2008, while the
+average price per Mcf decreased 58%, from $6.76 in 2007 to $2.86 in 2008. The
+increase in gas sales volume is primarily due to bringing back online wells in
+the Antenna Federal property in Weld County, Colorado, as well as the production
+of new wells in the same property. On an equivalent barrel (BOE) basis,
+sales volume increased 48% from 27,200 BOE in 2007 to 40,300 BOE in
+2008.
+
+
+
+
+
+
+15
+
+
+
+
+
+Table of Contents 
+
+
+
+Expenses.
+Oil and gas production expense increased $182,000 (32%) in 2008 over 2007. Oil
+and gas production expense is comprised of two components: routine lease
+operating expenses and workovers. Routine expenses typically include such items
+as daily well maintenance, utilities, fuel, water disposal, minor surface
+equipment repairs, and marketing and transportation costs. Workovers, on the
+other hand, which primarily include downhole repairs, are generally random in
+nature. Although workovers are expected, they can be much more frequent in some
+wells than others and their cost can be significant. Therefore, workovers
+account for more dramatic fluctuations in oil and gas production expense from
+period to period.
+
+Routine
+lease operating expense increased $116,000 (27%) from $427,000 in 2007 to
+$543,000 in 2008, primarily due to higher production volumes, while workover
+expense increased $66,000 (49%) from $134,000 in 2007 to $200,000 in 2008.
+Routine lease operating expense per BOE decreased 14% from $15.71 in 2007 to
+$13.47 in 2008 while workover expense per BOE increased 1% from $4.92 in 2007 to
+$4.96 in 2008.
+
+Production
+taxes, which are generally a percentage of sales revenue, decreased $60,000
+(33%) in 2008 compared to 2007 primarily due to the decline of oil prices.
+Production taxes, as a percent of sales revenue decreased from 9% in 2007 to 5%
+in 2008.  The overall lifting cost (oil and gas production expense and
+production taxes) per BOE decreased 21% from $27.24 in 2007 to $21.41 in
+2008.
+ 
+Depreciation
+and depletion expense increased $384,000 (219%) in 2008 compared to 2007 as a
+result of a decrease in our reserve values due to the decline in oil and gas
+prices.  In addition, we recorded an impairment write down of
+$2,694,000 representing the excess of capitalized costs over the ceiling, as
+calculated in accordance with full cost rules for both the quarter and nine
+months ended December 31, 2008. For further discussion concerning the ceiling
+test limitations, see Note 2 under “Oil and Gas
+Property.”  
+
+General
+and administrative expense increased $179,000 (92%) in 2008 over 2007. These
+increases were primarily the result of increased expenditures attributable to
+the restatement of our financial statements, along with increases in consulting
+fees, and to a lesser extent, increases in the number of office
+personnel.  G&A expense per BOE increased 29% from $7.19 in 2007
+to $9.28 in 2008. As a percent of total sales revenue, G&A expense increased
+from 9% in 2007 to 17% in 2008.
+
+Nine Months Ended December 31, 2008
+Compared to Nine Months Ended December 31, 2007
+
+Revenues.
+Oil and gas sales revenue increased $2,701,000 (49%) in 2008 from 2007. Oil
+sales revenue increased $1,767,000 (36%). Gas sales revenue increased $934,000
+(161%) in 2008 from 2007.
+
+Volumes and
+Prices. Oil sales volumes increased 6%, from 68,300 barrels in 2007 to
+72,700 barrels in 2008 while there was a 28% increase in the average price per
+barrel from $71.61 in 2007 to $91.57 in 2008. Gas sales volume increased 67%,
+from 88.1 million cubic feet (MMcf) in 2007 to 147 MMcf in 2008, while the
+average price per Mcf increased 12%, from $6.60 in 2007 to $7.39 in 2008. The
+increase in gas sales volume is primarily due to production brought online from
+our 16-well drilling program in Weld County, Colorado. On an equivalent barrel
+(BOE) basis, sales volume increased 17% from 83,000 BOE in 2007 to 97,200
+BOE in 2008.
+
+Expenses.
+Oil and gas production expense increased $354,000 (23%) in 2008 over 2007. Oil
+and gas production expense is comprised of two components: routine lease
+operating expenses and workovers. Routine expenses typically include such items
+as daily well maintenance, utilities, fuel, water disposal and minor surface
+equipment repairs. Workovers, on the other hand, which primarily include
+downhole repairs, are generally random in nature. Although workovers are
+expected, they can be much more frequent in some wells than others and their
+cost can be significant. Therefore, workovers account for more dramatic
+fluctuations in oil and gas production expense from period to
+period.
+
+
+
+
+
+
+16
+
+
+
+
+
+Table of Contents 
+
+
+ 
+Routine
+lease operating expense increased $270,000 (22%) from $1,211,000 in 2007 to
+$1,481,000 in 2008 primarily due to higher production volumes, while workover
+expense increased $84,000 (27%) from $307,000 in 2007 to $391,000 in 2008.
+Routine lease operating expense per BOE increased 4% from $14.59 in 2007 to
+$15.24 in 2008 while workover expense per BOE increased 9% from $3.70 in 2007 to
+$4.02 in 2008.
+
+Production
+taxes, which are generally a percentage of sales revenue, increased $155,000
+(33%) in 2008 over 2007. Production taxes, as a percent of sales revenue
+decreased from 8% in 2007 to 7% in 2008. The overall lifting cost (oil and gas
+production expense and production taxes) per BOE increased 7% from $23.87 in
+2007 to $25.62 in 2008.
+
+Depreciation
+and depletion expense increased $445,000 (84%) in 2008 over 2007 as a result of
+a decrease in our reserve values due to the decline in oil and gas
+prices.  In addition, we recorded an impairment write down of
+$2,694,000 representing the excess of capitalized costs over the ceiling, as
+calculated in accordance with full cost rules for both the quarter and nine
+months ended December 31, 2008.  For further discussion concerning the
+ceiling test limitations, see Note 2 under “Oil and Gas
+Property.” 
+
+General
+and administrative expense increased $414,000 (80%) in 2008 over 2007. These
+increases were primarily the result of increased expenditures attributable to
+the restatement of our financial statements, implementation of Sarbanes-Oxley
+404 requirements, along with increases in consulting fees, and to a lesser
+extent, increases in the number of office personnel. G&A expense per BOE
+increased 53% from $6.25 in 2007 to $9.59 in 2008. As a percent of total sales
+revenue, G&A expense increased from 10% in 2007 to 11% in 2008.
+
+Income Tax
+Expense. For the nine months ended December 31, 2008 we recorded income
+tax expense of $151,000. This includes a current year expense of $444,000 and a
+deferred tax provision of $(293,000).  Our effective income tax rate
+decreased from 53.56% for the nine months ended December 31, 2007 to 15.96% for
+2008. Our effective income tax rate was lower for 2008 primarily due to an
+increase in estimated deductions for statutory depletion relative to pre-tax net
+income.
+
+
+
+
+
+
+17
+
+
+
+
+
+Table of Contents 
+
+
+
+Item
+3.
+Quantitative and Qualitative Disclosures About Market Risk
+
+As a
+crude oil and natural gas producer, our revenue, cash flow from operations,
+other income and profitability, reserve values, access to capital and future
+rate of growth are substantially dependent upon the prevailing prices of crude
+oil and natural gas. Declines in commodity prices will materially and adversely
+affect our financial condition, liquidity, ability to obtain financing and
+operating results. Lower commodity prices may reduce the amount of crude oil and
+natural gas that we can produce economically. Prevailing prices for such
+commodities are subject to wide fluctuation in response to relatively minor
+changes in supply and demand and a variety of additional factors beyond our
+control, such as global, political and economic conditions. Historically, prices
+received for crude oil and natural gas production have been volatile and
+unpredictable, and such volatility is expected to continue. Most of our
+production is sold at market prices. Generally, if the commodity indexes fall,
+the price that we receive for our production will also decline. Therefore, the
+amount of revenue that we realize is to a large extent determined by factors
+beyond our control.
+
+Item
+4. Controls and Procedures
+
+The
+Company maintains a system of disclosure controls and procedures that are
+designed for the purpose of ensuring that information required to be disclosed
+in its SEC reports is recorded, processed, summarized and reported within the
+time periods specified in the SEC’s rules and forms, and that such information
+is accumulated and communicated to the Company’s management, including the Chief
+Executive Officer and the Chief Financial Officer, as appropriate to allow
+timely decisions regarding required disclosures.
+
+For the
+quarter ended December 31, 2008 we carried out an evaluation, under the
+supervision and with the participation of the Company’s Chief Executive Officer
+and Principal Accounting Officer, of the effectiveness of the design and
+operation of the Company’s disclosure controls and procedures. Based upon that
+evaluation, it was concluded that the Company’s disclosure controls and
+procedures are effective for the purposes discussed above.
+
+There
+have been no changes in the Company’s internal control over financial reporting
+that occurred during the Company’s quarter ended December 31, 2008 that have
+materially affected, or were reasonably likely to materially affect, the
+Company’s internal control over financial reporting.
+
+
+
+
+
+
+18
+
+
+
+
+
+Table of Contents 
+
+
+PART II – OTHER INFORMATION
+
+Item 1. Legal
+Proceedings
+
+None.
+
+Item 2. Unregistered Sales of Equity Securities and
+Use of Proceeds
+
+ 
+Purchases
+of Equity Securities
+ 
+The
+following table summarizes stock repurchase activity for the three months ended
+December 31, 2008:
+ 
+
+
+
+ 
+      
+ 
+ 
+
+Total
+      Number of Shares Purchased (1)
+
+ 
+ 
+      
+
+Average
+      Price Paid Per Share
+
+ 
+ 
+
+Number
+      of Shares Purchased as Part of a Publicly Announced Plan
+    (1)
+
+ 
+      
+ 
+      
+
+Maximum
+      Shares that May Yet be Purchased under the Plan
+(1)
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+October 1,
+      2008—October 31, 2008
+
+ 
+ 
+
+—  
+
+ 
+
+$
+
+
+—  
+
+ 
+ 
+
+—  
+
+ 
+      
+ 
+      
+
+500,000
+
+ 
+      
+
+
+
+November 1,
+      2008—November 30, 2008
+
+ 
+ 
+
+—  
+
+ 
+ 
+      
+
+—  
+
+ 
+ 
+
+—  
+
+ 
+      
+ 
+      
+
+500,000
+
+ 
+      
+
+
+
+December 1,
+      2008—December 31, 2008
+
+ 
+ 
+
+21,600
+
+ 
+
+$
+
+
+0.6653
+
+ 
+ 
+
+21,600
+
+ 
+      
+ 
+      
+
+478,400
+
+ 
+      
+
+
+ 
+      
+ 
+ 
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+
+ 
+ 
+
+21,600
+
+ 
+ 
+      
+ 
+      
+ 
+ 
+
+21,600
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+
+ 
+
+
+
+
+
+(1)
+
+
+In
+      October 2008, the Company’s Board of Directors authorized a stock buyback
+      program for the Company to repurchase up to 500,000 shares of its common
+      stock. The program does not have a specified expiration date, it does not
+      require the Company to repurchase any specific number of shares, and the
+      Company may terminate the repurchase program at any
+      time.  During the three months ended December 31, 2008, 21,600
+      shares were repurchased under the stock buyback program and 478,400 shares
+      remain available for future
+repurchase.
+
+
+
+
+
+Item 3.
+Defaults Upon Senior Securities
+
+None.
+
+Item 4.
+Submission of Matters to a Vote of Security Holders
+
+On
+December 8, 2008, the Company held its Annual Meeting of Shareholders to elect
+three directors to its Board of Directors. In the election of directors, each
+nominee was elected by a vote of the shareholders as follows:
+
+
+
+
+
+Director
+
+ 
+      
+
+For
+
+ 
+      
+
+Withheld
+
+
+
+
+Monroe
+      W. Robertson
+
+ 
+      
+
+13,881,297
+
+ 
+      
+
+3,584,288
+
+
+
+
+Richard
+      Rodgers
+
+ 
+      
+
+13,168,648
+
+ 
+      
+
+4,296,937
+
+
+
+
+Ray
+      Singleton
+
+ 
+      
+
+13,168,248
+
+ 
+      
+
+4,297,337
+
+
+
+
+
+There
+were no other matters submitted to a vote at the Annual Meeting of
+Shareholders.
+
+
+
+
+
+
+19
+
+
+
+
+
+Table of Contents 
+
+
+Item 5. Other Information
+
+On
+January 14, 2009, FieldPoint Petroleum Corporation announced that it had
+filed a Registration Statement on Form S-4 to register shares of its common
+stock proposed to be issued in connection with a potential exchange offer for a
+minimum of 51% and a maximum of 100% of the outstanding shares of the Company’s
+common stock.  The exchange ratio that FieldPoint has disclosed is one
+share of FieldPoint common stock for every two shares of the Company’s common
+stock and would be subject to a number of conditions.  FieldPoint did
+not have any substantive communications with the Company before issuing its
+press release. 
+
+On
+February 5, 2009, the Company filed a Current Report on Form 8-K to report
+that the Company’s Board of Directors had adopted a Stockholders Rights Plan and
+declared a dividend of one preferred share purchase right for each outstanding
+share of common stock, payable to holders of record on February 17,
+2009.
+
+On
+February 4, 2009, the Board of Directors amended the Company’s Bylaws to add a
+provision requiring a stockholder who seeks to present business or to nominate
+directors for election at a stockholders’ meeting to provide notice to the
+Company in advance of the meeting and to include in such notice certain
+disclosures about the stockholder and the business to be proposed.  A
+copy of the Company’s Bylaws, as amended, is filed with this report and is
+incorporated herein by reference.
+
+To
+propose nominations for director at a meeting of stockholders, a stockholder
+must timely submit a stockholder’s notice in accordance with Section 6 of the
+Company’s bylaws.  To be timely, a stockholder must provide notice to
+the Company’s secretary not less than 90 days nor more than 120 days prior to
+the date of the meeting.  A stockholder’s notice regarding nominations
+of persons for election to the Board of Directors must set forth: (a) as to each
+proposed nominee, (i) the name, age, business address and residence address of
+the nominee, (ii) the principal occupation or employment of the nominee, (iii)
+the class or series and number of shares of capital stock of the corporation
+that are owned beneficially or of record by the nominee and (iv) any other
+information relating to the nominee that would be required to be disclosed in a
+proxy statement or other filings required to be made in connection with
+solicitations of proxies for election of directors pursuant to Section 14 of the
+Securities Exchange Act of 1934, as amended (the “Exchange Act”), and the rules
+and regulations promulgated thereunder; and (b) as to the stockholder giving the
+notice, (i) the name and record address of such stockholder, (ii) the class or
+series and number of shares of capital stock of the corporation which are owned
+beneficially or of record by such stockholder, (iii) all other ownership
+interests of such stockholder, including derivatives, hedged positions,
+synthetic and temporary ownership techniques, swaps, securities, loans, timed
+purchases and other economic and voting interests, (iv) a description of all
+arrangements or understandings between such stockholder and each proposed
+nominee and any other person or persons (including their names) pursuant to
+which the nomination(s) are to be made by such stockholder, (v) a representation
+that such stockholder intends to appear in person or by proxy at the meeting to
+nominate the persons named in such stockholder’s notice and (vi) any other
+information relating to such stockholder that would be required to be disclosed
+in a proxy statement or other filings required to be made in connection with
+solicitations of proxies for election of directors pursuant to Section 14 of the
+Exchange Act and the rules and regulations promulgated thereunder.
+
+Such
+stockholder’s notice must be accompanied by a written consent of each proposed
+nominee to being named as a nominee and to serve as a director if
+elected.  In addition, each proposed nominee will be required to
+complete a questionnaire, in a form to be provided by the Company, to be
+submitted with the stockholder’s notice. The Company may also require any
+proposed nominee to furnish such other information as may reasonably be required
+by the Company to determine the eligibility of such proposed nominee to serve as
+an independent director of the Company or that could be material to a reasonable
+stockholder’s understanding of the independence, or lack thereof, of such
+nominee.
+
+Determinations
+of the chairman of the meeting as to whether those procedures were complied with
+in a particular case shall be final and binding.
+
+
+
+
+
+
+
+20
+
+
+
+
+
+Table of Contents 
+
+
+
+Item 6. Exhibits
+
+
+
+
+
+Exhibit
+      No.
+
+ 
+      
+
+Document
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+3(i)
+
+ 
+      
+
+Restated
+      Certificate of Incorporation of Basic Earth Science Systems, Inc.,
+      effective May 12, 1981, as amended by (i) Certificate of Amendment of
+      Certificate of Incorporation, effective November 20, 1986;
+      (ii) Certificate of Amendment of Certificate of Incorporation,
+      effective July 1, 1996; and (iii) Certificate of Designations of
+      Series A Junior Participating Preferred Stock, effective February 5,
+      2009.
+ 
+
+
+
+
+3(ii)
+
+ 
+      
+
+Bylaws
+      of Basic Earth Science Systems, Inc., dated July 15, 1986, as amended by
+      First Amendment to Bylaws, dated February 4, 2009.
+ 
+
+
+
+
+10.1
+
+ 
+Amendment
+      of Credit Agreement, dated effective December 31, 2008, by and between
+      Basic Earth Science Systems, Inc. and American National
+    Bank. 
+
+
+ 
+ 
+ 
+
+
+
+31.1
+
+ 
+      
+
+Certification
+      Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (Ray
+      Singleton, Chief Executive Officer).
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+31.2
+
+ 
+      
+
+Certification
+      Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (Joseph
+      Young, Principal Accounting Officer).
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+32.1
+
+ 
+      
+
+Certification
+      Pursuant to 18 U.S.C. §1350, as Adopted Pursuant to Section 906 of
+      the Sarbanes-Oxley Act of 2002 (Ray Singleton, Chief Executive
+      Officer).
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+32.2
+
+ 
+      
+
+Certification
+      Pursuant to 18 U.S.C. §1350, as Adopted Pursuant to Section 906 of
+      the Sarbanes-Oxley Act of 2002 (Joseph Young, Principal Accounting
+      Officer).
+
+
+
+
+ 
+
+21
+
+
+
+
+
+Table of Contents 
+
+
+
+ 
+SIGNATURES
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report is
+signed by the following authorized persons on behalf of Basic.
+
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+BASIC
+      EARTH SCIENCE SYSTEMS, INC.
+ 
+
+ 
+      
+ 
+      
+
+
+
+By: /s/
+      Ray Singleton  
+
+ 
+      
+ 
+      
+
+
+
+Ray
+      Singleton 
+
+ 
+      
+ 
+      
+
+
+
+President
+      and Chief Executive Officer 
+
+ 
+      
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+By:
+      /s/
+      Joseph Young  
+
+ 
+      
+ 
+      
+
+
+
+Joseph
+      Young
+
+ 
+      
+ 
+      
+
+
+
+Principal
+      Accounting Officer 
+
+ 
+      
+ 
+      
+
+
+ 
+      
+
+
+
+Date:
+February 17, 2009
+
+
+
+EX-3.I
+2
+ex_3i.htm
+CERT OF INCORPORATION AND CERT OF DESIGNATIONS
+
+ex_3i.htm
+
+
+
+
+
+
+EXHIBIT 3(i)
+RESTATED
+CERTIFICATE OF INCORPORATION
+ 
+OF
+ 
+BASIC
+EARTH SCIENCE SYSTEMS, INC.
+ 
+ 
+We, THE
+UNDERSIGNED, in order to Restate The Certificate of Incorporation, under and
+pursuant to the provisions of the General Corporation Laws of the State of
+Delaware, do hereby certify as follows:
+
+
+
+
+
+ 
+      
+
+
+FIRST
+
+
+
+
+ 
+The name
+of the corporation is BASIC EARTH SCIENCE SYSTEMS, INC.
+
+
+
+
+
+ 
+      
+
+
+SECOND
+
+
+
+
+ 
+The
+registered office of the corporation is to be located in the City of Wilmington,
+in the County of New Castle, in the State of Delaware.  The name of
+its Registered Agent is THE CORPORATION TRUST COMPANY, whose address is 100 W.
+10th
+Street, Wilmington, Delaware, 19801.
+
+
+
+
+
+ 
+      
+
+
+THIRD
+
+
+
+
+ 
+The
+nature of the business of the corporation and the objects or purposes proposed
+to be transacted, promoted or carried on by it are:
+
+A. To
+conduct geological and geo-physical researches and investigations of every kind
+and description throughout the world with the aim of securing geological
+information for sale to natural resource companies.
+
+B. To
+provide consulting services and supervisory services to companies engaged in the
+exploration and development of natural resources of any
+description.
+
+C. To enter
+into leases, joint ventures, limited partnerships, participation plans, working
+interests, overriding royalty, and other royalty arrangements and to buy, sell,
+hypothecate, assign and transfer by any means such interests, and to retain same
+and to engage in the management of oil, gas, and mineral exploration and
+development programs for itself and for others and to perform technological
+services for other companies.
+
+D. To
+purchase or otherwise acquire, hold, sell, pledge, transfer or otherwise dispose
+of, and to reissue or cancel the shares of its own capital stock or any
+securities or other obligations of the corporation in the manner and to the
+extent now or hereafter permitted by the laws of the State of
+Delaware.
+
+E. To
+acquire all or any part of the securities, good will, rights, property or assets
+of all kinds and to undertake or assume the whole or any part of the obligations
+or liabilities of any corporation, association, partnership, syndicate, entity,
+person, or governmental, municipal or public authority, domestic or foreign,
+located in or organized under the laws of any authority in any part of the
+world, and to pay for the same in cash, stocks, bonds, debentures or other
+securities of this or any other corporation, or otherwise in any manner
+permitted by laws; and to conduct in any lawful manner the whole or any part of
+any business so acquired.
+
+
+
+ 
+
+ 
+
+
+
+1
+
+
+
+
+
+ 
+
+
+
+ 
+F. To enter
+into any lawful arrangement for sharing profits, union of interest, reciprocal
+concession or cooperation with any corporation, association, partnership,
+syndicate, entity, person, or governmental, municipal or public authority,
+domestic or foreign, located in or organized under the laws of the authority in
+any part of the world, or in the carrying on of any business which the
+corporation is authorized to carry on, or any business or transaction deemed
+necessary, convenient or incidental to carrying out any of the purposes of the
+corporation.
+
+G. To borrow
+or raise moneys for any of the purposes of the corporation and from time to
+time, without limit as to amount, to draw, make, accept, endorse, guarantee,
+execute and issue promissory notes, drafts, bills of exchange, warrants, bonds,
+debentures and other negotiable or non-negotiable instruments and evidences of
+indebtedness, and to secure the payment thereof and of the interest thereon by
+mortgage on, or pledge, conveyance or assignment in trust of, the whole or any
+part of the assets of the corporation, real, personal, or mixed, including
+contract rights, whether at the time owned or thereafter acquired, and to sell,
+pledge or otherwise dispose of such securities or other obligations of the
+corporation for its corporate purposes.
+
+H. To lend
+money, either without any collateral security or on the security of real or
+personal property, and to enter into, make, perform and carry out, or cancel and
+rescind contracts of every kind and for any lawful purpose with any person,
+firm, association, partnership, corporation, syndicate, governmental, municipal
+or public authority, domestic or foreign, or others.
+
+I. To apply
+for, obtain, register, purchase, lease, or otherwise acquire, and to hold, use,
+pledge, lease, sell, assign, or otherwise dispose of formulas, secret processes,
+distinctive marks, improvements, processes, trade names, trade-marks,
+copyrights, patents, licenses, concessions and the like, whether used in
+connection with or secured under letters patent of or issued by any country or
+authority, or otherwise; and to issue, exercise, develop and grant licenses in
+respect thereof or otherwise turn the same to account.
+
+J. To make
+any guaranty respecting securities, indebtedness, dividends, interest, contracts
+or other obligations so far as the same may be permitted to be done by a
+corporation organized under the laws of the State of Delaware.
+
+K. To
+acquire, purchase, own, hold, operate, develop, lease, mortgage, pledge,
+exchange, sell, transfer or otherwise dispose of and to invest, trade, or deal
+in, real and personal property of every kind and description or any interest
+therein.
+
+L. To engage
+in any mercantile, manufacturing, or trading business of any kind or character
+whatsoever throughout the world, and to do all things incidental to any such
+business.
+
+M. To do
+everything necessary, proper, advisable or convenient for the accomplishment of
+any of the purposes or the attainment of any of the objects or the furtherance
+of any powers herein set forth and to every other act and thing incidental
+thereto or connected therewith, provided the same be not forbidden by the laws
+of Delaware.
+
+N. In
+general, to carry on any business and to have and exercise all of the powers
+conferred by the laws of the State of Delaware upon corporations formed
+thereunder; and to do any and all of the acts and things herein set forth and to
+the same extent as natural persons could do, and in any part of the world, as
+principal, factor, agent, contractor, trustee or otherwise, either alone, as a
+partner, or in syndicates or otherwise in conjunction with any person, entity,
+syndicate, partnership (either general or limited, or both), association or
+corporation, governmental, municipal or public authority, domestic or foreign;
+to establish and maintain offices and agencies and to exercise all or any of its
+corporate powers and rights throughout the world.
+
+
+ 
+
+
+
+2
+
+
+
+
+
+ 
+
+
+
+ 
+The
+foregoing clauses shall be construed as powers as well as objects and purposes,
+and the matters expressed in each clause shall, unless herein otherwise
+expressly provided, be in no wise limited by reference to or inference from the
+terms of any other clause, but shall be regarded as independent objects,
+purposes and powers; and the enumeration of specific objects, purposes and
+powers shall not be construed to limit or restrict in any manner the meaning of
+general terms or the general powers of the corporation; nor shall the expression
+of one thing be deemed to exclude another not expressed, although it be of like
+nature.
+
+
+
+
+
+ 
+      
+
+
+FOURTH
+
+
+
+
+ 
+The total
+number of shares of stock which the corporation is authorized to issue is
+Thirty-Five Million Shares (35,000,000) of a par value of Ten Cents ($0.10)
+each, for the aggregate par value of Three Million Five Hundred Thousand Dollars
+($3,500,000.00) consisting of Three Million Shares (3,000,000) of preferred
+stock and Thirty-Two Million Shares (32,000,000) of common stock and the Board
+of Directors is authorized to issue such shares without further authorization
+from the shareholder and, as to the preferred shares the Board of Directors is
+granted the authority to provide for the issuance of preferred shares in series,
+the designation, voting powers, full, limited, or no voting powers, and such
+designations, preferences, conversion rights, redemption rights, dividend
+rights, preemptive rights, participating rights, optional rights, or other
+special rights, qualifications, limitations, or restrictions.
+ 
+
+
+
+
+ 
+      
+
+
+FOURTH-A
+
+
+
+
+ 
+The Board
+of Directors is authorized to issue from time to time bonds or debentures,
+unsecured or secured by mortgage or pledge of the corporation’s property,
+convertible or non-convertible, and without further authorization or consent of
+the stockholders.
+ 
+
+
+
+
+ 
+      
+
+
+FIFTH
+
+
+
+
+ 
+The
+minimum amount of capital with which the corporation will commence business in
+Three Thousand Dollars ($3,000.00).
+ 
+
+
+
+
+ 
+      
+
+
+SIXTH
+
+
+
+
+ 
+The
+stockholders of this corporation shall not have a pre-emptive right to subscribe
+to any or all of additional issues of stock of the corporation of any or all
+classes.
+
+
+
+
+
+ 
+      
+
+
+SEVENTH
+
+
+
+
+ 
+The
+following provisions are inserted for the management of the business and for the
+conduct of the affairs of this corporation, and for further definition,
+limitation and regulation of the powers of this corporation and of its directors
+and stockholders:
+ 
+(1) The
+number of directors of the corporation shall be such as from time to time shall
+be fixed by, or in the manner provided in the By-Laws, but shall not be less
+than three (3).  Election of directors need not be by ballot unless
+the By-Laws so provide.
+ 
+        (2) At all
+elections of the directors of this corporation, every stockholder entitled to
+vote at such election shall have the right to vote in person or by proxy the
+number of shares owned by him for as many persons as there are directors to be
+elected and for whose election he is entitled to vote.  It is
+expressly prohibited for any stockholder to cumulate his votes in any election
+of directors.
+ 
+       
+(3) The Board
+of Directors shall have power:
+ 
+(a) To make,
+alter, amend, change, add to, or repeal the by-Laws of this corporation; to fix
+and vary the amount ot be reserved for any proper purposes; to authorize and
+cause to be executed mortgages and lines upon any part of the property of the
+corporation provided it be less than substantially all; to determine the use and
+disposition of any surplus or net profits and to fix the time for the
+declaration and payment of the dividends.
+
+
+ 
+
+
+
+3
+
+
+
+
+
+ 
+
+
+
+
+(b) To
+determine from time to time whether and to what extent, and at what times and
+places, and under what conditions and regulations the accounts and books of the
+corporation (other than the stock ledger) or any of them shall be open to the
+inspection of the stockholders.
+ 
+        
+(4) The
+directors in their discretion may submit any contract or act for approval or
+ratification at any annual meeting of the stockholders or at any meeting of the
+stockholders called for the purpose of considering any such act or contract, and
+any contract or act that shall be approved or be ratified by the vote of the
+holders of a majority of the stock of the corporation which is represented in
+person or by proxy at such meeting and entitled to vote thereat (provided that a
+lawful quorum of stockholders be there represented in person or by proxy) shall
+be as valid and as binding upon the corporation and upon all the stockholders as
+though it had been ratified by every stockholder of the corporation, whether or
+not the contract or act would otherwise be open to legal attack because of
+directors’ interest, or for any other reason.
+ 
+        
+(5) In
+addition to the powers and authorities hereinbefore or by statute expressly
+conferred upon them, the directors are hereby empowered to exercise all such
+powers and to do all such acts and things as may be exercised or done by the
+corporation; subject, nevertheless, to the provisions of the statutes of
+Delaware, of this certificate, and to any By-Laws from time to time made by the
+stockholders; provided, however, that no By-Law so made shall invalidate any
+prior act of the directors which would have been valid if such By-Law had not
+been made.
+
+
+
+
+
+ 
+      
+
+
+EIGHTH
+
+
+
+
+ 
+No
+contract or other transaction between the corporation and any other corporation
+shall be affected or invalidated by the fact that any one or more of the
+directors of this corporation is or are interested in, or is a director or
+officer, or are directors or officers of such other corporation, and any
+director or directors, individually or jointly, may be a party or parties to or
+may be interested in any contract or transaction of this corporation or in which
+this corporation is interested, and no contract, act or transaction of this
+corporation with any person or persons, firm or association shall be affected or
+invalidated by the fact that any director or directors of this corporation is a
+party, or are parties to, or interested in such contract, or act, or
+transaction, or in any way connected with such person or persons, firm or
+association, and each and every person who may become a director of this
+corporation is hereby relieved from any liability that might otherwise exist
+from contract with the corporation for the benefit of himself or any firm or
+corporation in which he may be in any way interested.
+
+
+
+
+
+ 
+      
+
+
+NINTH
+
+
+
+
+ 
+Whenever
+a compromise or arrangement is proposed between this corporation and its
+creditors or any class of them and/or between this corporation and its
+stockholders or any class of them, any court of equitable jurisdiction within
+the State of Delaware may, on the application in a summary way of this
+corporation or of any creditor or stockholder thereof or on the application of
+any receiver or receivers appointed for this corporation under the provisions of
+Section 291 of Title 8 of the Delaware Code or on the application of
+trustees in dissolution or of any receiver or receivers appointed for this
+corporation under the provisions of Section 279 of Title 8 of the
+Delaware Code, order a meeting of the creditors or class of creditors, and/or
+the stockholders or class of stockholders of this corporation, as the case may
+be, to be summoned in such manner as the court directs.  If a majority
+in number representing three-fourths in value of the creditors or class of
+creditors, and/or of the stockholders or class of stockholders of this
+corporation, as the case may be, agree to any compromise or arrangement and to
+any reorganization of this corporation as consequence of such compromise or
+arrangement and the said reorganization shall, if sanctioned by the court to
+which the said application has been made, be binding on all the creditors or
+class of creditors, and/or on all the stockholders or class of stockholders, of
+this corporation, as the case may be, and also on this
+corporation.
+
+
+ 
+
+
+
+4
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+      
+
+
+TENTH
+
+
+
+
+ 
+The
+corporation shall, to the full extent permitted by Section 145 of the
+Delaware General Corporation Law, as amended from time to time, indemnify all
+persons whom it may indemnify pursuant thereto.
+
+
+
+
+
+ 
+      
+
+
+ELEVENTH
+
+
+
+
+ 
+The
+corporation reserves the right to amend, alter, change, or repeal any provision
+contained in this Certificate of Incorporation in the manner now or hereafter
+prescribed by law, and all rights and powers conferred herein on stockholders,
+directors and officers are subject to this reserved power.
+ 
+
+
+ 
+
+
+
+5
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+CERTIFICATE
+OF AMENDMENT
+ 
+OF
+ 
+RESTATED
+CERTIFICATE OF INCORPORATION
+ 
+OF
+ 
+BASIC
+EARTH SCIENCE SYSTEMS, INC.
+ 
+ 
+Adopted
+November 7, 1986
+ 
+
+Basic
+Earth Science Systems, Inc., a corporation organized and existing under and by
+virtue of the General Corporation Law of the State of Delaware, DOES HEREBY
+CERTIFY:
+
+FIRST:  That
+at a meeting of the Board of Directors of Basic Earth Science Systems, Inc.
+resolutions were duly adopted setting forth a proposed amendment to the Restated
+Certificate of Incorporation of said corporation, declaring said amendment to be
+advisable and calling a meeting of the stockholders of said corporation for
+consideration thereof.  The resolution setting forth the proposed
+amendment is as follows:
+
+RESOLVED,
+that the Restated Certificate of Incorporation of this corporation is amended by
+adding to Article TENTH a new and additional paragraph reading as
+follows:
+ 
+“This
+Corporation shall, as authorized by Section 102(7) of the Delaware General
+Corporation Law, limit to a maximum of Ten Thousand Dollars ($10,000.00) the
+personal liability of a director to the corporation and its stockholders for
+monetary damages for breach of fiduciary duty as a director of Basic Earth
+Science Systems, Inc., provided that such provision shall not limit the
+liability of a director (i) for any breach of the director’s duty of
+loyalty to the corporation or its stockholders, (ii) for acts or omissions
+not in good faith or which involve intentional misconduct or a knowing violation
+of law, (iii) under section 174 of this Title, (relating to Liability of
+Directors for unlawful payment of dividends or unlawful stock purchase or
+redemption; Exoneration from Liability; Contribution among Directors;
+Subrogation), or (iv) for any transaction from which the director derived
+an improper personal benefit.  No such provision shall limit the
+liability of a director for any act or omission occurring prior to the date when
+such provision becomes effective.”
+ 
+SECOND:  That
+thereafter, pursuant to resolution of its Board of Directors, an annual meeting
+of the stockholders of said corporation was duly called and held at
+44 Inverness Drive East, Building E, Englewood, Colorado, on Friday,
+November 7, 1986, at 2:30 p.m., Mountain Standard Time, upon notice in
+accordance with Section 222 of the General Corporation Law of the State of
+Delaware at which meeting the necessary number of shares as required by statute
+were voted in favor of the amendment.
+
+THIRD:  That
+said amendment was duly adopted in accordance with the provisions of
+Section 242 of the General Corporation Law of the State of
+Delaware.
+
+
+
+ 
+
+ 
+
+
+
+6
+
+
+
+
+
+ 
+
+
+
+ 
+IN
+WITNESS WHEREOF, said Basic Earth Science Systems, Inc. has caused this
+certificate to be signed by G. W. Breuer, its President, and attested by Robert
+L. Poley, its Secretary, this 7th day of November, 1986.
+
+ 
+BASIC
+EARTH SCIENCE SYSTEMS, INC.
+ 
+ 
+By       /s/ G.
+W.
+Breuer                                                                  
+           
+G.
+W. Breuer – President
+ 
+ATTEST:
+
+
+By    /s/
+Robert L. Poley 
+                                      
+Robert L. Poley –
+Secretary
+ 
+
+
+ 
+
+
+
+7
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+CERTIFICATE
+OF AMENDMENT
+ 
+TO
+THE
+ 
+RESTATED
+CERTIFICATE OF INCORPORATION
+ 
+OF
+ 
+BASIC
+EARTH SCIENCE SYSTEMS, INC.
+ 
+ 
+PURSUANT
+TO the General Corporation Law of the State of Delaware, the undersigned
+corporation adopts the following Certificate of Amendment to the Restated
+Certificate of Incorporation:
+ 
+ARTICLE
+I
+ 
+Name
+ 
+The name
+of the corporation is BASIC EARTH SCIENCE SYSTEMS, INC. (the
+“Corporation”).
+ 
+ARTICLE
+II
+ 
+Amendment
+Adopted
+ 
+Pursuant
+to approval of the holders of the majority of the Corporation’s outstanding
+stock obtained at a meeting of the shareholders of the Corporation held on
+October 6, 1995, the Fourth Article of the Restated Certificate of Incorporation
+of the Corporation was amended and restated in its entirety as
+follows:
+ 
+“FOURTH
+ 
+The total
+number of shares of stock which the corporation is authorized to issue is
+Thirty-five Million Shares (35,000,000) of a par value of $0.001 each,
+consisting of Three Million Shares (3,000,000) of preferred stock and Thirty-two
+Million Shares (32,000,000) of common stock and the Board of Directors is
+authorized to issue such shares without further authorization from the
+shareholders and, as to the preferred shares, the Board of Directors is granted
+the authority to provide for the issuance of preferred shares in series, the
+designation, voting powers, full, limited or no voting powers, and such
+designations, preferences, conversion rights, redemption rights, dividend
+rights, preemptive rights, participating rights, optional rights, or other
+special rights, qualifications, limitations, or restrictions.”
+ 
+ARTICLE
+III
+ 
+Stated
+Capital
+ 
+As a
+result of the change in par value of the Corporation’s capital, the stated
+capital of the Corporation shall be reduced by the re-allocation of capital from
+the stated capital account to the capital surplus account.
+ 
+CERTIFICATE
+ 
+Pursuant
+to the General Corporation Law of the State of Delaware, the undersigned
+corporation does hereby certify that this Certificate of Amendment to the
+Restated Certificate of Incorporation of Basic Earth Science Systems, Inc. has
+been duly adopted pursuant to the approval and vote of the holders of the
+majority of said corporation’s outstanding stock in accordance with Section 242
+of the General Corporation Law of the State of Delaware.
+ 
+
+
+
+ 
+
+ 
+
+
+
+8
+
+
+
+
+
+ 
+
+
+
+ 
+Dated:  March
+31, 1996
+ 
+BASIC
+EARTH SCIENCE SYSTEMS, INC.
+ 
+ 
+By       /s/ Ray
+Singleton                                                                   
+           
+Ray
+Singleton, President
+ 
+ATTEST:
+
+
+By    /s/
+David J.
+Flake                                        
+David J. Flake, Secretary
+ 
+
+ 
+
+
+ 
+
+
+
+9
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+CERTIFICATE
+OF DESIGNATIONS
+ 
+of
+ 
+SERIES
+A JUNIOR PARTICIPATING PREFERRED STOCK
+ 
+of
+ 
+BASIC
+EARTH SCIENCE SYSTEMS, INC.
+ 
+(Pursuant
+to Section 151 of the
+Delaware
+General Corporation Law)
+ 
+____________________
+ 
+Basic
+Earth Science Systems, Inc., a corporation organized and existing under the
+General Corporation Law of the State of Delaware (hereinafter called the
+“Corporation”), hereby certifies that the following resolution was adopted by
+the Board of Directors of the Corporation as required by Section 151 of the
+General Corporation Law at a meeting duly called and held on February 4,
+2009:
+ 
+RESOLVED,
+that pursuant to the authority granted to and vested in the Board of Directors
+of this Corporation (hereinafter called the “Board of Directors” or the “Board”)
+in accordance with the provisions of the Certificate of Incorporation, the Board
+of Directors hereby creates a series of Preferred Stock, par value $0.001 per
+share, of the Corporation (the “Preferred Stock”), and hereby states the
+designation and number of shares, and fixes the relative rights, preferences,
+and limitations thereof as follows:
+ 
+Series A
+Junior Participating Preferred Stock:
+ 
+Section
+1.  Designation and
+Amount.  The shares of such series shall be designated as
+“Series A Junior Participating Preferred Stock” (the “Series A
+Preferred Stock”) and the number of shares constituting the Series A
+Preferred Stock shall be 100,000.  Such number of shares may be
+increased or decreased by resolution of the Board of Directors; provided, that no
+decrease shall reduce the number of shares of Series A Preferred Stock to a
+number less than the number of shares then outstanding plus the number of shares
+reserved for issuance upon the exercise of outstanding options, rights or
+warrants or upon the conversion of any outstanding securities issued by the
+Corporation convertible into Series A Preferred Stock.
+ 
+
+
+ 
+
+
+
+10
+
+
+
+
+
+ 
+
+
+
+ 
+Section
+2.  Dividends and
+Distributions.
+ 
+(A)           Subject
+to the rights of the holders of any shares of any series of Preferred Stock (or
+any similar stock) ranking prior and superior to the Series A Preferred
+Stock with respect to dividends, the holders of shares of Series A
+Preferred Stock, in preference to the holders of Common Stock, par value $0.001
+per share (the “Common Stock”), of the Corporation, and of any other junior
+stock, shall be entitled to receive, when, as and if declared by the Board of
+Directors out of funds legally available for the purpose, quarterly dividends
+payable in cash on the first day of March, June, September and December in each
+year (each such date being referred to herein as a “Quarterly Dividend Payment
+Date”), commencing on the first Quarterly Dividend Payment Date after the first
+issuance of a share or fraction of a share of Series A Preferred Stock, in
+an amount per share (rounded to the nearest cent) equal to the greater of (a)
+$1.00 or (b) subject to the provision for adjustment hereinafter set forth,
+1,000 times the aggregate per share amount of all cash dividends, and 1,000
+times the aggregate per share amount (payable in kind) of all non-cash dividends
+or other distributions, other than a dividend payable in shares of Common Stock
+or a subdivision of the outstanding shares of Common Stock (by reclassification
+or otherwise), declared on the Common Stock since the immediately preceding
+Quarterly Dividend Payment Date or, with respect to the first Quarterly Dividend
+Payment Date, since the first issuance of any share or fraction of a share of
+Series A Preferred Stock.  In the event the Corporation shall at
+any time declare or pay any dividend on the Common Stock payable in shares of
+Common Stock, or effect a subdivision or combination or consolidation of the
+outstanding shares of Common Stock (by reclassification or otherwise than by
+payment of a dividend in shares of Common Stock) into a greater or lesser number
+of shares of Common Stock, then in each such case the amount to which holders of
+shares of Series A Preferred Stock were entitled immediately prior to such
+event under clause (b) of the preceding sentence shall be adjusted by
+multiplying such amount by a fraction, the numerator of which is the number of
+shares of Common Stock outstanding immediately after such event and the
+denominator of which is the number of shares of Common Stock that were
+outstanding immediately prior to such event.
+ 
+(B)           The
+Corporation shall declare a dividend or distribution on the Series A
+Preferred Stock as provided in paragraph (A) of this
+Section immediately after it declares a dividend or distribution on the
+Common Stock (other than a dividend payable in shares of Common Stock); provided
+that, in the event no dividend or distribution shall have been declared on the
+Common Stock during the period between any Quarterly Dividend Payment Date and
+the next subsequent Quarterly Dividend Payment Date, a dividend of $1.00 per
+share on the Series A Preferred Stock shall nevertheless be payable on such
+subsequent Quarterly Dividend Payment Date.
+ 
+(C)           Dividends
+shall begin to accrue and be cumulative on outstanding shares of Series A
+Preferred Stock from the Quarterly Dividend Payment Date next preceding the date
+of issue of such shares, unless the date of issue of such shares is prior to the
+record date for the first Quarterly Dividend Payment Date, in which case
+dividends on such shares shall begin to accrue from the date of issue of such
+shares, or unless the date of issue is a Quarterly Dividend Payment Date or is a
+date after the record date for the determination of holders of shares of
+Series A Preferred Stock entitled to receive a quarterly dividend and
+before such Quarterly Dividend Payment Date, in either of which events such
+dividends shall begin to accrue and be cumulative from such Quarterly Dividend
+Payment Date.  Accrued but unpaid dividends shall not bear
+interest.  Dividends paid on the shares of Series A Preferred
+Stock in an amount less than the total amount of such dividends at the time
+accrued and payable on such shares shall be allocated pro rata on a
+share-by-share basis among all such shares at the time
+outstanding.  The Board of Directors may fix a record date for the
+determination of holders of shares of Series A Preferred Stock entitled to
+receive payment of a dividend or distribution declared thereon, which record
+date shall be not more than 60 days prior to the date fixed for the payment
+thereof.
+
+
+ 
+
+
+
+11
+
+
+
+
+
+ 
+
+
+
+ 
+Section
+3.  Voting
+Rights.  The holders of shares of Series A Preferred Stock
+shall have the following voting rights:
+ 
+(A)           Subject
+to the provision for adjustment hereinafter set forth, each share of
+Series A Preferred Stock shall entitle the holder thereof to 1,000 votes on
+all matters submitted to a vote of the stockholders of the
+Corporation.  In the event the Corporation shall at any time declare
+or pay any dividend on the Common Stock payable in shares of Common Stock, or
+effect a subdivision or combination or consolidation of the outstanding shares
+of Common Stock (by reclassification or otherwise than by payment of a dividend
+in shares of Common Stock) into a greater or lesser number of shares of Common
+Stock, then in each such case the number of votes per share to which holders of
+shares of Series A Preferred Stock were entitled immediately prior to such
+event shall be adjusted by multiplying such number by a fraction, the numerator
+of which is the number of shares of Common Stock outstanding immediately after
+such event and the denominator of which is the number of shares of Common Stock
+that were outstanding immediately prior to such event.
+ 
+(B)           Except
+as otherwise provided herein, in any other Certificate of Designations creating
+a series of Preferred Stock or any similar stock, or by law, the holders of
+shares of Series A Preferred Stock and the holders of shares of Common
+Stock and any other capital stock of the Corporation having general voting
+rights shall vote together as one class on all matters submitted to a vote of
+stockholders of the Corporation.
+ 
+(C)           Except
+as set forth herein, or as otherwise provided by law, holders of Series A
+Preferred Stock shall have no special voting rights and their consent shall not
+be required (except to the extent they are entitled to vote with holders of
+Common Stock as set forth herein) for taking any corporate action.
+ 
+Section
+4.  Certain
+Restrictions.
+ 
+(A)           Whenever
+quarterly dividends or other dividends or distributions payable on the
+Series A Preferred Stock as provided in Section 2 are in arrears,
+thereafter and until all accrued and unpaid dividends and distributions, whether
+or not declared, on shares of Series A Preferred Stock outstanding shall
+have been paid in full, the Corporation shall not:
+ 
+(i)           declare
+or pay dividends, or make any other distributions, on any shares of stock
+ranking junior (either as to dividends or upon liquidation, dissolution or
+winding up) to the Series A Preferred Stock;
+ 
+(ii)           declare
+or pay dividends, or make any other distributions, on any shares of stock
+ranking on a parity (either as to dividends or upon liquidation, dissolution or
+winding up) with the Series A Preferred Stock, except dividends paid
+ratably on the Series A Preferred Stock and all such parity stock on which
+dividends are payable or in arrears in proportion to the total amounts to which
+the holders of all such shares are then entitled;
+ 
+(iii)           redeem
+or purchase or otherwise acquire for consideration shares of any stock ranking
+junior (either as to dividends or upon liquidation, dissolution or winding up)
+to the Series A Preferred Stock, provided that the Corporation may at any
+time redeem, purchase or otherwise acquire shares of any such junior stock in
+exchange for shares of any stock of the Corporation ranking junior (either as to
+dividends or upon dissolution, liquidation or winding up) to the Series A
+Preferred Stock; or
+ 
+
+
+ 
+
+
+
+12
+
+
+
+
+
+ 
+
+
+
+ 
+(iv)           redeem
+or purchase or otherwise acquire for consideration any shares of Series A
+Preferred Stock, or any shares of stock ranking on a parity with the
+Series A Preferred Stock, except in accordance with a purchase offer made
+in writing or by publication (as determined by the Board of Directors) to all
+holders of such shares upon such terms as the Board of Directors, after
+consideration of the respective annual dividend rates and other relative rights
+and preferences of the respective series and classes, shall determine in good
+faith will result in fair and equitable treatment among the respective series or
+classes.
+ 
+(B)           The
+Corporation shall not permit any subsidiary of the Corporation to purchase or
+otherwise acquire for consideration any shares of stock of the Corporation
+unless the Corporation could, under paragraph (A) of this Section 4,
+purchase or otherwise acquire such shares at such time and in such
+manner.
+ 
+Section
+5.  Reacquired
+Shares.  Any shares of Series A Preferred Stock purchased
+or otherwise acquired by the Corporation in any manner whatsoever shall be
+retired and cancelled promptly after the acquisition thereof.  All
+such shares shall upon their cancellation become authorized but unissued shares
+of Preferred Stock and may be reissued as part of a new series of Preferred
+Stock subject to the conditions and restrictions on issuance set forth herein,
+in the Certificate of Incorporation, or in any other Certificate of Designations
+creating a series of Preferred Stock or any similar stock or as otherwise
+required by law.
+ 
+Section
+6.  Liquidation, Dissolution or
+Winding Up.  Upon any liquidation, dissolution or winding up of
+the Corporation, no distribution shall be made (1) to the holders of shares of
+stock ranking junior (either as to dividends or upon liquidation, dissolution or
+winding up) to the Series A Preferred Stock unless, prior thereto, the
+holders of shares of Series A Preferred Stock shall have received $1.00 per
+share, plus an amount equal to accrued and unpaid dividends and distributions
+thereon, whether or not declared, to the date of such payment, provided that the
+holders of shares of Series A Preferred Stock shall be entitled to receive
+an aggregate amount per share, subject to the provision for adjustment
+hereinafter set forth, equal to 1,000 times the aggregate amount to be
+distributed per share to holders of shares of Common Stock, or (2) to the
+holders of shares of stock ranking on a parity (either as to dividends or upon
+liquidation, dissolution or winding up) with the Series A Preferred Stock,
+except distributions made ratably on the Series A Preferred Stock and all
+such parity stock in proportion to the total amounts to which the holders of all
+such shares are entitled upon such liquidation, dissolution or winding
+up.  In the event the Corporation shall at any time declare or pay any
+dividend on the Common Stock payable in shares of Common Stock, or effect a
+subdivision or combination or consolidation of the outstanding shares of Common
+Stock (by reclassification or otherwise than by payment of a dividend in shares
+of Common Stock) into a greater or lesser number of shares of Common Stock, then
+in each such case the aggregate amount to which holders of shares of
+Series A Preferred Stock were entitled immediately prior to such event
+under the proviso in clause (1) of the preceding sentence shall be adjusted
+by multiplying such amount by a fraction the numerator of which is the number of
+shares of Common Stock outstanding immediately after such event and the
+denominator of which is the number of shares of Common Stock that were
+outstanding immediately prior to such event.
+ 
+Section
+7.  Consolidation, Merger,
+Etc.  In case the Corporation shall enter into any
+consolidation, merger, combination or other transaction in which the shares of
+Common Stock are exchanged for or changed into other stock or securities, cash
+and/or any other property, then in any such case each share of Series A
+Preferred Stock shall at the same time be similarly exchanged or changed into an
+amount per share, subject to the provision for adjustment hereinafter set forth,
+equal to 1,000 times the aggregate amount of stock, securities, cash and/or any
+other property (payable in kind), as the case may be, into which or for which
+each share of Common Stock is changed or exchanged.  In the event the
+Corporation shall at any time declare or pay any dividend on the Common Stock
+payable in shares of Common Stock, or effect a subdivision or combination or
+consolidation of the outstanding shares of Common Stock (by reclassification or
+otherwise than by payment of a dividend in shares of Common Stock) into a
+greater or lesser number of shares of Common Stock, then in each such case the
+amount set forth in the preceding sentence with respect to the exchange or
+change of shares of Series A Preferred Stock shall be adjusted by
+multiplying such amount by a fraction, the numerator of which is the number of
+shares of Common Stock outstanding immediately after such event and the
+denominator of which is the number of shares of Common Stock that were
+outstanding immediately prior to such event.
+ 
+
+
+ 
+
+
+
+13
+
+
+
+
+
+ 
+
+
+
+ 
+Section
+8.  No
+Redemption.  The shares of Series A Preferred Stock shall
+not be redeemable.
+ 
+Section
+9.  Rank.  The
+Series A Preferred Stock shall rank, with respect to the payment of
+dividends and the distribution of assets, junior to all series of any other
+class of the Corporation’s Preferred Stock.
+ 
+Section
+10.  Amendment.  The
+Certificate of Incorporation of the Corporation shall not be amended in any
+manner which would materially alter or change the powers, preferences or special
+rights of the Series A Preferred Stock so as to affect them adversely
+without the affirmative vote of the holders of at least two-thirds of the
+outstanding shares of Series A Preferred Stock, voting together as a single
+class.
+ 
+
+
+ 
+
+
+
+14
+
+
+
+
+
+ 
+
+
+
+ 
+IN
+WITNESS WHEREOF, this Certificate of Designations is executed on behalf of the
+Corporation by its President and attested by its Secretary this 4th day of
+February, 2009.
+ 
+ 
+/s/ Ray J. Singleton,
+Jr.                                                                             
+RAY J.
+SINGLETON, JR.
+ 
+Attest:
+ 
+/s/ Karen Mercer 
+                                                                
+Secretary
+
+
+
+EX-3.II
+3
+ex_3ii.htm
+FIRST AMENDMENT OF BYLAWS
+
+ex_3ii.htm
+
+
+
+
+
+
+
+EXHIBIT
+3(ii)
+BY-LAWS
+
+OF
+
+BASIC EARTH SCIENCE SYSTEMS,
+INC.
+ 
+ 
+ 
+ARTICLE
+I
+ 
+OFFICES
+ 
+SECTION 1.    REGISTERED
+OFFICE.  --  The registered office shall be established and
+maintained at the office of The Corporation Trust Company, in the City of
+Wilmington, in the County of New Castle, in the State of Delaware, and said
+corporation shall be the registered agent of this corporation in charge
+thereof.  (Amended by 6-14-71 minutes.)
+
+SECTION 2.    OTHER
+OFFICES.  ---  The corporation may have other offices,
+either within or without the State of Delaware, at such place or places as the
+Board of Directors may from time to time appoint or the business of the
+corporation may require.
+ 
+ARTICLE
+II
+ 
+MEETINGS
+OF STOCKHOLDERS
+ 
+SECTION 1.    ANNUAL
+MEETINGS.  ---  Annual Meetings of stockholders shall be
+held on the third Thursday of July, if not a legal holiday, and if a legal
+holiday, then on the next succeeding business day, either within or without the
+State of Delaware, at 10:00 o’clock a.m. local time, or at such other date and
+time as shall be designated from time to time by the Board of Directors and
+stated in the notice of the meeting, which meeting shall be for the election of
+Directors and for such other business as shall be stated in the notice of the
+meeting.
+
+The
+record date for determining stockholders entitled to notice of and to vote at
+the Annual Meeting of the Stockholders shall be at the close of business on a
+date as may be designated by the Board of Directors within the time permitted
+and specified by the General Corporation Laws of Delaware.  (Amended
+by Resolution at 5-21-70 Directors’ meeting, reamended by Resolution at 6-9-70
+Directors’ meeting and completely amended by Resolution at 6-20-72 Directors’
+meeting.)
+
+SECTION 2.    OTHER
+MEETINGS.  ---  Meetings of the stockholders for any purpose
+other than the election of directors may be held at such time and place, within
+or without the State of Delaware, as shall be stated in the notice of the
+meeting.
+
+SECTION 3.    VOTING.  ---  Each
+stockholder entitled to vote in accordance with the terms of the Certificate of
+Incorporation and in accordance with the provisions of these By-Laws shall be
+entitled to one vote, in person or by proxy, for each share of stock entitled to
+vote held by such stockholder, but no proxy shall be voted after three years
+from its date unless such proxy provides for a longer period.  Upon
+the demand of any stockholder, the vote for directors and the vote upon any
+question before the meeting, shall be by ballot.  At all elections of
+the directors of this corporation, every stockholder entitled to vote at such
+election shall have the right to vote in person or by proxy the number of shares
+owned by him for as many persons as there are elected and for whose election he
+is entitled to vote.  It is expressly prohibited for any stockholder
+to cumulate his votes in any election of directors.  All questions
+shall be decided by a majority vote except as otherwise provided by the
+Certificate of Incorporation or the laws of the State of Delaware.
+ 
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+ 
+
+A
+complete list of the stockholders entitled to vote at the ensuring election,
+arranged in alphabetical order, with the address of each, and the number of
+shares held by each, shall be open to the examination of any stockholder, for
+any purpose germane to the meeting, during ordinary business hours, for a period
+of at least ten days prior to the meeting, either at a place within the city
+where the meeting is to be held, which place shall be specified in the notice of
+the meeting, or, if not so specified, at the place where the meting is to be
+held.  The list shall also be produced and kept at the time and place
+of the meeting during the whole time thereof, and may be inspected by any
+stockholder who is present.  (Amended by Resolution at 1-7-71
+Directors’ meeting.)
+
+SECTION 4.    QUORUM.  ---  Except
+as otherwise required by law, by the Certificate of Incorporation or by these
+By-Laws, the presence, in person or by proxy, of stockholders holding a majority
+of the stock of the corporation entitled to vote shall constitute a quorum at
+all meetings of the stockholders.  In case a quorum shall not be
+present at any meeting, a majority in interest of the stockholders entitled to
+vote thereat, present in person or by proxy, shall have power to adjourn the
+meeting from time to time, without notice other than announcement at the
+meeting, until the requisite amount of stock entitled to vote shall be
+present.  At any such adjourned meeting at which the requisite amount
+of stock entitled to vote shall be represented, any business may be transacted
+which might have been transacted at the meeting as originally noticed; but only
+those stockholders entitled to vote at the meeting as originally noticed shall
+be entitled to vote at any adjournment or adjournments thereof.
+
+SECTION 5.    SPECIAL
+MEETINGS.  ---  Special meetings of the stockholders for any
+purpose or purposes may be called by the President or Secretary, or by
+resolution of the directors or by stockholders holding no less than one-fifth
+(1/5) of the voting power of the corporation.
+
+SECTION 6.    NOTICE OF
+MEETINGS.  ---  Written notice, stating the place, date, and
+time of the meeting, and the general nature of the business to be considered,
+shall be given to each stockholder entitled to vote thereat at his address as it
+appears on the records of the corporation, not less than ten (10) nor more than
+fifty (50) days before the date of the meeting.  No business other
+than that stated in the notice shall be transacted at any meeting without the
+unanimous consent of all the stockholders entitled to vote
+thereat.  (Amended by 9-3-73 minutes.)
+ 
+SECTION 7.    ACTION
+WITHOUT MEETING.  ---  Except as otherwise provided by the
+Certificate of Incorporation, whenever the vote of stockholders at a meeting
+thereof is required or permitted to be taken in connection with any corporate
+action by any provisions of the statutes or of the Certificate of Incorporation
+or of these By-Laws, the meeting and vote of stockholders may be dispensed with,
+if all the stockholders who would have been entitled to vote upon the action if
+such a meeting were held, shall consent in writing to such corporate action
+being taken.
+ 
+ARTICLE
+III
+ 
+DIRECTORS
+ 
+SECTION 1.    NUMBER
+AND TERM.  ---  The number of directors shall be as fixed by
+these By-Laws but shall not be less than three (3) nor more than nine
+(9).  The directors shall be elected at the annual meeting of the
+stockholders, and each director shall be elected to serve until his successor
+shall be elected and shall qualify.  Directors need not be
+stockholders.
+
+SECTION 2.    RESIGNATIONS.  ---  Any
+director, member of a committee or other officer may resign at any
+time.  Such resignation shall be made in writing, and shall take
+effect at the time specified therein, and if no time be specified, at the time
+of its receipt by the President or Secretary.  The acceptance of a
+resignation shall not be necessary to make it effective.
+
+SECTION 3.    VACANCIES.  ---  If
+the office of any director, member of a committee or other officer becomes
+vacant, the remaining directors in office, thought less than a quorum by a
+majority vote, may appoint any qualified person to fill such vacancy, who shall
+hold office for the unexpired term and until his successor shall be duly
+chosen.
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+ 
+
+SECTION 4.    REMOVAL.  ---  Any
+director or directors may be removed either for or without cause at any time by
+the affirmative vote of the holders of a majority of all the shares of stock
+outstanding and entitled to vote, at a special meeting of the stockholders
+called for the purpose and the vacancies thus created may be filled, at the
+meeting held for the purpose of removal, by the affirmative vote of a majority
+in interest of the stockholders entitled to vote.
+
+SECTION 5.    INCREASE
+OR DECREASE OF NUMBER.  ---  The number of directors may be
+increased or decreased by amendment of these By-Laws by the affirmative vote of
+a majority of the directors, though less than a quorum, or, by the affirmative
+vote of a majority in interest of the stockholders, at the annual meeting or at
+a special meeting called for that purpose, and by like vote the additional
+directors may be chosen at such meeting to hold office until the next annual
+election and until their successors are elected and qualify; provided, however,
+that the number shall not be less than three (3).
+
+SECTION 6.    POWERS.  ---  The
+Board of Directors shall exercise all of the powers of the corporation except
+such as are by law, or by the Certificate of Incorporation of the corporation,
+or by these By-Laws conferred upon or reserved to the stockholders.
+
+SECTION 7.    COMMITTEES.  ---  (Repealed
+in its entirety by 10-25-73 minutes)
+
+SECTION 8.    MEETINGS.  ---
+The newly elected directors may hold their first meeting for the purpose of
+organization and the transaction of business, if a quorum be present,
+immediately after the annual meeting of the stockholders; or the time and place
+of such meeting may be fixed by consent in writing of all the
+directors.
+
+Regular
+meetings of the directors may be held without notice at such places and times as
+shall be determined from time to time by resolution of the
+directors.
+
+Special
+meetings of the board may be called by the President or by the Secretary on the
+written request of any two directors on at least two days notice to each
+director and shall be held at such place or places as may be determined by the
+directors, or as shall be stated in the call of the meeting.
+
+Presence
+at any special meeting shall constitute a waiver of notice and consent to the
+holding thereof.
+
+A draft
+of the minutes of any regular or special meeting will be prepared and mailed to
+each director as soon after the adjournment of the meeting as is reasonably
+possible.  (amended by addition by 8-31-72 minutes and by deletion by
+10-25-73 minutes.)
+
+SECTION 9.    QUORUM.  ---  A
+majority of the directors shall constitute a quorum for the transaction of
+business.  If at any meeting of the board there shall be less than a
+quorum present, a majority of those present may adjourn the meeting from time to
+time until a quorum is obtained, and no further notice thereof need be given
+other than by announcement at the meeting which shall be so
+adjourned.
+
+SECTION 10.    COMPENSATION.  ---  Directors
+shall not receive any stated salary for their services as directors or as
+members of committees, but by resolution of the board a fixed fee and expenses
+of attendance may be allowed for attendance at each meeting.  Nothing
+herein contained shall be construed to preclude any director from serving the
+corporation in any other capacity as an officer, agent or otherwise, and
+receiving compensation therefor.
+
+SECTION 11.    ACTION
+WITHOUT MEETING.  ---  Any action required or permitted to
+be taken at any meeting of the Board of Directors, or of any committee thereof,
+may be taken without a meeting, if prior to such action a written consent
+thereto is signed by all members of the board, or of such committee as the case
+may be, and such written consent is filed with the minutes of proceedings of the
+board or committee.
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+ 
+ARTICLE
+IV
+ 
+OFFICERS
+ 
+SECTION 1.    OFFICERS.  ---  The
+officers of the corporation shall be a President, a Treasurer, and a Secretary,
+all of whom shall be elected by the Board of Directors and who shall hold office
+until their successors are elected and qualified.  In addition, the
+Board of Directors may elect a Chairman, one or more Vice-Presidents and such
+Assistance Secretaries and Assistant Treasurers as they may deem
+proper.  None of the officers of the corporation need be
+directors.  The officers shall be elected at the first meeting of the
+Board of Directors after each annual meeting.  More than two offices
+may be held by the same person.
+
+SECTION 2.    OTHER
+OFFICERS AND AGENTS.  ---  The Board of Directors may
+appoint such other officers and agents as it may deem advisable, who shall hold
+their offices for such terms and shall exercise such powers and perform such
+duties as shall be determined from time to time by the Board of
+Directors.
+
+SECTION 3.    CHAIRMAN.  ---  The
+Chairman of the Board of Directors, if one be elected, shall preside at all
+meetings of the Board of Directors and he shall have and perform such other
+duties as from time to time may be assigned to him by the Board of
+Directors.
+
+SECTION 4.    PRESIDENT.  ---  The
+President shall be the chief executive officer of the corporation and shall have
+the general powers and duties of supervision and management usually vested in
+the office of the President of a corporation.  He shall preside at all
+meetings of the stockholders if present thereat, and in the absence or
+non-election of the Chairman of the Board of Directors, at all meetings of the
+Board of Directors, and shall have general supervision, direction and control of
+the business of the corporation.  Except as the Board of Directors
+shall authorize the execution thereof in some other manner, he shall execute
+bonds, mortgages and other contracts in behalf of the corporation, and shall
+cause the seal to be affixed to any instrument requiring it and when so affixed
+the seal shall be attested by the signature of the Secretary or the Treasurer or
+an Assistant Secretary or an Assistant Treasurer.
+
+SECTION 5.    VICE
+PRESIDENT  ---  Each Vice President shall have such powers
+and shall perform such duties as shall be assigned to him by the
+directors.
+
+SECTION 6.    TREASURER.  ---  The
+Treasurer shall have the custody of the corporate funds and securities and shall
+keep full and accurate account of receipts and disbursements in books belonging
+to the corporation.  He shall deposit all moneys and other valuables
+in the name and to the credit of the corporation in such depositaries as may be
+designated by the Board of Directors.
+
+The
+Treasurer shall disburse the funds of the corporation as may be ordered by the
+Board of Directors, or the President, taking proper vouchers for such
+disbursements.  He shall render to the President and Board of
+Directors at the regular meetings of the Board of Directors, or whenever they
+may request it, an account of all his transactions as Treasurer and of the
+financial condition of the corporation.  If required by the Board of
+Directors, he shall give the corporation a bond for the faithful discharge of
+his duties in such amount and with such surety as the board shall
+prescribe.
+
+SECTION 7.    SECRETARY.  ---  The
+Secretary shall give, or cause to be given, notice of all meetings of
+stockholders and directors, and all other notices required by law or by these
+By-Laws, and in case of his absence or refusal or neglect so to do, any such
+notice may be given by any person thereunto directed by the President, or by the
+directors, or stockholders, upon whose requisition the meeting is called as
+provided in these By-Laws.  He shall record all the proceedings of the
+meetings of the corporation and of the directors in a book to be kept for that
+purpose, and shall perform such other duties as may be assigned to him by the
+directors or the President.  He shall have the custody of the seal of
+the corporation and shall affix the same to all instruments requiring it, when
+authorized by the directors or the President, and attest the same.
+
+
+
+
+
+
+
+4
+
+
+
+
+
+
+
+
+ 
+
+SECTION 8.    ASSISTANT
+TREASURERS AND ASSISTANT SECRETARIES.  ---  Assistant
+Treasurers and Assistant Secretaries, if any, shall be elected and shall have
+such powers and shall perform such duties as shall be assigned to them,
+respectively, by the directors.
+
+SECTION 9.    DUTIES
+MAY BE DELEGATED.  ---  In case of the absence of any
+officer of the corporation, or for any other reason that the Board of Directors
+may deem sufficient, the Board of Directors may delegate, for the time being,
+all or part of the powers or duties of such officer to any other officer or any
+director.
+ 
+ARTICLE
+V
+ 
+MISCELLANEOUS
+ 
+SECTION 1.    CERTIFICATES
+OF STOCK.  ---  Certificates of stock, signed by the
+Chairman or Vice Chairman of the Board of Directors, if they be elected,
+President or Vice-President, and the Treasurer or an Assistant Treasurer, or
+Secretary or an Assistant Secretary, shall be issued to each stockholder
+certifying the number of shares owned by him in the corporation.  When
+such certificates are countersigned (1) by a registrar other than the
+corporation or its employee, or, (2) by a transfer agent other than the
+corporation or its employee, the signatures of such officers may be
+facsimiles.
+
+SECTION 2.    LOST
+CERTIFICATES  ---  A new certificate of stock may be issued
+in the place of any certificate theretofore issued by the corporation, alleged
+to have been lost or destroyed, and the directors may, in their discretion,
+require the owner of the lost or destroyed certificate, or his legal
+representatives, to give the corporation a bond, in such sum as they may direct,
+not exceeding double the value of the stock, to indemnify the corporation
+against any claim that may be made against it on account of the alleged loss of
+any such certificate, or the issuance of any such new certificate.
+
+SECTION 3.    TRANSFER
+OF SHARES.  ---  The shares of stock of the corporation
+shall be transferable only upon its books by the holders thereof in person or by
+their duly authorized attorneys or legal representatives, and upon such transfer
+the old certificates shall be surrendered to the corporation by the delivery
+thereof to the person in charge of the stock and transfer books and ledgers, or
+to such other person as the director may designate, by whom they shall be
+cancelled, and new certificates shall thereupon be issued.  A record
+shall be made of each transfer and whenever a transfer shall be made for
+collateral security, and not absolutely, it shall be so expressed in the entry
+of the transfer.
+
+SECTION 4.    STOCKHOLDERS
+RECORD DATE.  ---  In order that the corporation may
+determine the stockholders entitled to notice of or to vote at any meeting of
+stockholders or any adjournment thereof, or to express consent to corporate
+action in writing without a meeting, or entitled to receive payment of any
+dividend or other distribution or allotment of any rights, or entitled to
+exercise any rights in respect of any change, conversion, or exchange of stock
+or for the purpose of any other lawful action, the Board of Directors may fix,
+in advance, a record date, which shall not be more than sixty (60) nor less than
+ten (10) days before the date of such meeting, nor more than sixty (60) days
+prior to any other action.  A determination of stockholders of the
+record entitled to notice of or to vote at a meeting of stockholders shall apply
+to any adjournment of the meeting; provided, however, that the Board of
+Directors may fix a new record date for the adjourned meeting.
+
+SECTION 5.    DIVIDENDS.  ---  Subject
+to the provisions of the Certificate of Incorporation, the Board of Directors
+may, out of funds legally available therefor at any regular or special meeting,
+declare dividends upon the capital stock of the corporation as and when they
+deem expedient.  Before declaring any dividend there may be set apart
+out of any funds of the corporation available for dividends, such sum or sums as
+the directors from time to time in their discretion deem proper for working
+capital or as a reserve fund to meet contingencies or for equalizing dividends
+or for such other purposes as the directors shall deem conducive to the
+interests of the corporation.
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+SECTION 6.    SEAL.  ---  The
+corporate seal shall be circular in form and shall contain the name of the
+corporation, the year of its creation and the words “CORPORATE SEAL
+DELAWARE”.  Said seal may be used by causing it or facsimile thereof
+to be impressed or affixed or reproduced or otherwise.
+
+SECTION 7.    FISCAL
+YEAR.  ---  The fiscal year of the corporation shall be the
+calendar year, unless otherwise determined by resolution of the Board of
+Directors.  (Fiscal year March 31 per Resolution at 5-21-70 Board
+of Directors Meeting.)
+
+SECTION 8.    CHECKS.  ---  All
+checks, drafts or other orders for the payment of money, notes or other orders
+for the payment of money, notes or other evidences of indebtedness issued in the
+name of the corporation shall be signed by such officer or officers, agent or
+agents of the corporation, and in such manner as shall be determined from time
+to time by resolution of the Board of Directors.
+
+SECTION 9.    NOTICE
+AND WAIVER OF NOTICE.  ---  Whenever any notice is required
+by these By-Laws to be given, personal notice is not meant unless expressly so
+stated, and any notice so required shall be deemed to be sufficient if given by
+depositing the same in the United States mail, postage prepaid, addressed to the
+person entitled thereto at his address as it appears on the records of the
+corporation, and such notice shall be deemed to have been given on the day of
+such mailing.  Stockholders not entitled to vote shall not be entitled
+to receive notice of any meetings except as otherwise provided by
+Statute.
+
+Whenever
+any notice whatever is required to be given under the provisions of any law, or
+under the provisions of the Certificate of Incorporation of the corporation or
+these By-Laws, a waiver thereof in writing, signed by the person or persons
+entitled to said notice, whether before or after the time stated therein, shall
+be deemed equivalent thereto.
+
+SECTION 10.    INSPECTION
+OF CORPORATE RECORDS.  ---  The stock register or duplicate
+stock register, the books of account, and the minutes of proceedings of the
+stockholders and directors shall be open to inspection upon the written demand
+of any stockholder or the holder of a voting trust certificate, at any
+reasonable time, and for a purpose reasonably related to his interests as a
+stockholder; and shall be produced at any time when required by the demand of
+ten percent (10%) of the stocks represented at any stockholders’
+meeting.  Such inspection may be made in person or by an agent or
+attorney, and shall include the right to make extracts.  Demand of
+inspection other than at a stockholders’ meeting shall be made in writing upon
+the President, Secretary or Assistant Secretary of the
+corporation.  Every such demand, unless granted, shall be referred by
+such officer to the Board of Directors.
+
+SECTION 11.    CONTRACTS,
+ETC. – HOW EXECUTED.  ---  The Board of Directors, except as
+in the By-Laws otherwise provided, may authorize any officer or officers, agent
+or agents, to enter into any contract or execute any instrument in the name of
+and on behalf of the corporation, and such authority may be general or confined
+to specific instances; and unless so authorized by these By-Laws or resolution
+of the Board of Directors, no officer, agent or employee shall have any power or
+authority to bind the corporation by any contact or engagement or to pledge its
+credit or to render it liable for any purpose or to any amount.
+
+SECTION 12.    REPRESENTATION
+OF STOCKS HELD BY OTHER CORPORATIONS.  ---  Stocks of the
+corporation standing in the name of another corporation may be voted or
+represented, and all rights incident thereto may be exercised on behalf of such
+other corporation, or by any officer thereof authorized so to do by resolution
+of its By-Laws, or by any person duly authorized so to do by proxy or power of
+attorney duly executed by the President or Vice President, and Secretary of
+Assistant Secretary of such corporation, or by authority of the Board of
+Directors thereof.
+
+SECTION 13.    INSPECTION
+OF BY-LAWS  ---  The corporation shall keep in its principal
+office for the transaction of business the original or a copy of the By-Laws as
+amended or otherwise altered to date, certified by the Secretary, which shall be
+open to inspection by the stockholders at all reasonable times during office
+hours.
+
+
+
+
+
+
+
+6
+
+
+
+
+
+
+
+
+
+
+SECTION 14.    INDEMNIFICATION
+OF DIRECTORS, OFFICERS, EMPLOYEES AND AGENTS.
+ 
+(a) The
+corporation shall indemnify any person who was or is a party or is threatened to
+be made a party to any threatened, pending or completed action, suit or
+proceeding, whether civil, criminal, administrative or investigative (other than
+an action by or in the right of the corporation) by reason of the fact that he
+is or was a director, officer, employee or agent of the corporation, or is or
+was serving at the request of the corporation as a director, officer, employee
+or agent of another corporation, partnership, joint venture, trust or other
+enterprise, against expenses (including attorneys’ fees), judgments, fines and
+amounts paid in settlement actually and reasonably incurred by him in connection
+with such action, suit or proceeding if he acted in good faith and in a manner
+he reasonably believed to be in or not opposed to the best interests of the
+corporation, and, with respect to any criminal action or proceeding, had no
+reasonable cause to believe his conduct was unlawful.  The termination
+of any action, suit or proceeding by judgment, order, settlement, conviction, or
+upon a plea of “nolo contendere” or its equivalent, shall not, of itself, create
+a presumption that the person did not act in good faith and in a manner which he
+reasonably believed to be in or not opposed to the best interests of the
+corporation, and, with respect to any criminal action or proceeding, had
+reasonable cause to believe that this conduct was unlawful.
+ 
+(b) The
+corporation shall indemnify any person who was or is a party or is threatened to
+be made a party to any threatened, pending or completed action or suit by or in
+the right of the corporation to procure a judgment in its favor by reason of the
+fact that he is or was a director, officer, employee or agent of the
+corporation, or is or was serving at the request of the corporation as a
+director, officer, employee or agent of another corporation, partnership, joint
+venture, trust or other enterprise against expenses (including attorneys’ fees)
+actually and reasonably incurred by him in connection with the defense or
+settlement of such action or suit if he acted in good faith and in a manner he
+reasonably believed to be in or not opposed to the best interests of the
+corporation and except that no indemnification shall be made in respect of any
+claim, issue or matter as to which such person shall have been adjudged to be
+liable for negligence or misconduct in the performance of his duty to the
+corporation unless and only to the extent that the Court of Chancery or the
+court in which such action or suit was brought shall determine upon application
+that, despite the adjudication of liability but in view of all the circumstances
+of the case, such person is fairly and reasonably entitled to indemnity for such
+expenses which the Court of Chancery or such other court shall deem
+proper.
+ 
+(c) To the
+extent that a director, officer, employee or agent of the corporation has been
+successful on the merits or otherwise in defense of any action, suit or
+proceeding referred to in subsections (a) and (b), or in defense of any
+claim, issue or matter therein, he shall be indemnified against expenses
+(including attorneys’ fees) actually and reasonably incurred by him in
+connection therewith.
+ 
+(d) Any
+indemnification under subsections (a) and (b) (unless ordered by a court)
+shall be made by the corporation only as authorized in the specific case upon a
+determination that indemnification of the director, officer, employee or agent
+is proper in the circumstances because he has met the applicable standard of
+conduct set forth in subsections (a) and (b).  Such determination
+shall be made (1) by the board of directors by a majority vote of a quorum
+consisting of directors who were not parties to such action, suit or proceeding,
+or (2) if such a quorum is not obtainable, or, even if obtainable a quorum
+of disinterested directors so directs, by independent legal counsel in a written
+opinion, or (3) by the stockholders.
+ 
+(e) Expenses
+incurred in defending a civil or criminal action, suit or proceeding may be paid
+by the corporation in advance of the final disposition of such action, suit or
+proceeding as authorized by the board of directors in the specific case upon
+receipt of an undertaking by or on behalf of the director, officer, employee or
+agent to repay such amount unless it shall ultimately be determined that he is
+entitled to be indemnified by the corporation as authorized in this
+section.
+ 
+(f) The
+indemnification provided by this section shall not be deemed exclusive of any
+other rights to which those seeking indemnification may be entitled under any
+by-law, agreement, vote of stockholders or disinterested directors or otherwise,
+both as to action in his official capacity and as to action in another capacity
+while holding such office, and shall continue as to a person who has ceased to
+be a director, officer, employee or agent and shall inure to the benefit of the
+heirs, executors and administrators of such a person.
+ 
+
+
+
+
+
+
+7
+
+
+
+
+
+
+
+
+
+ 
+(g) The
+corporation may, upon approval of the board of directors, purchase and maintain
+insurance on behalf of any person who is or was a director, officer, employee or
+agent of the corporation, or is or was serving at the request of the corporation
+as a director, officer, employee or agent of another corporation, partnership,
+joint venture, trust or other enterprise against any liability asserted against
+him and incurred by him in any such capacity, or arising out of his status as
+such, whether or not the corporation would have the power to indemnify him
+against such liability under the provisions of this section.
+ 
+(h) For the
+purposes of this section, references to “the corporation” include all
+constituent corporations absorbed in a consolidation or merger as well as the
+resulting or surviving corporation so that any person who is or was a director,
+officer, employee or agent of such a constituent corporation or is or was
+serving at the request of such constituent corporation as a director, officer,
+employee or agent of another corporation, partnership, joint venture, trust or
+other enterprise shall stand in the same position under the provisions of this
+section with respect to the resulting or surviving corporation as he would if he
+had served the resulting or surviving corporation in the same
+capacity.  (Amended by Resolution 1-81-71 Board
+meeting)
+ 
+ARTICLE
+VI
+ 
+AMENDMENTS
+ 
+These
+By-Laws may be altered, amended, changed or repealed by the affirmative vote of
+a majority of the Board of Directors, at any regular meeting of the Board of
+Directors or at any special meeting if notice of the proposed alteration,
+amendment, change or repeal be contained in the notice of such special
+meeting.  These By-Laws also may be altered, amended, changed or
+repealed at the annual meeting of the stockholders or any special meeting if
+notice of the proposed alteration, amendment, change or repeal be contained in
+the notice of the meeting, by the affirmative vote of a majority of the stock
+issued and outstanding and entitled to vote thereat.
+
+Following
+the adoption of any amendment to these By-Laws, the Secretary shall make an
+appropriate notation in the margin showing the date of the meeting and the page
+in the Minute Book where the amendment shall be found.  (Amended by
+addition — 8-31-72 minutes)
+ 
+
+
+
+
+
+
+8
+
+
+
+
+
+
+
+
+
+ 
+FIRST
+AMENDMENT TO BYLAWS
+ 
+The undersigned, being the Secretary of
+Basic Earth Science Systems, Inc., a Delaware corporation (the “Company”),
+hereby certifies that the Company’s Bylaws, dated July 15, 1986, were amended by
+a resolution of the Board of Directors of the Company (the “Board of
+Directors”), adopted on February 4, 2009, as follows:
+ 
+1.           Article
+II, Section 6, of the Bylaws is amended and restated in its entirety and
+replaced with the following:
+ 
+SECTION
+6.   NOTICE OF BUSINESS TO BE TRANSACTED AT MEETINGS OF
+STOCKHOLDERS.  No business may be transacted at any meeting of
+stockholders, including the nomination or election of persons to the Board of
+Directors, other than business that is either: (a) specified in the notice of
+meeting (or any supplement thereto) given by or at the direction of the Board of
+Directors (or any duly authorized committee thereof), (b) otherwise properly
+brought before the meeting by or at the direction of the Board of Directors (or
+any duly authorized committee thereof) or (c) otherwise properly brought before
+the meeting by any stockholder of the corporation (1) who is a stockholder of
+record on the date of the giving of the notice provided for in this Section 6
+and on the record date for the determination of stockholders entitled to vote at
+such meeting and (2) who complies with the notice procedures set forth in this
+Section 6.  In addition to any other applicable requirements, for
+business to be properly brought before a meeting by a stockholder, such
+stockholder must have given timely notice thereof in proper written form to the
+Secretary of the corporation.  The notice procedures set forth in this
+Section 6 shall not be deemed to affect any rights of stockholders to
+request inclusion of proposals in the Company’s proxy statement pursuant to, and
+in compliance with the requirements of, Rule 14a-8 of the Exchange Act of
+1934.
+ 
+(a)              
+To be timely, a stockholder’s notice to the Secretary must be delivered to or
+mailed and received at the principal executive offices of the corporation not
+less than ninety (90) days nor more than one hundred twenty (120) days prior to
+the date of the meeting; provided, however, that in the event that public
+disclosure of the date of the meeting is first made less than one hundred (100)
+days prior to the date of the meeting, notice by the stockholder in order to be
+timely must be so received not later than the close of business on the tenth
+(10th) day
+following the day on which such public disclosure of the date of the meeting was
+made.
+ 
+(b)              
+To be in proper written form, a stockholder’s notice to the Secretary regarding
+any business other than nominations of persons for election to the Board of
+Directors must set forth as to each matter such stockholder proposes to bring
+before the meeting: (i) a brief description of the business desired to be
+brought before the meeting and the reasons for conducting such business at the
+meeting, (ii) the name and record address of such stockholder, (iii) the class
+or series and number of shares of capital stock of the corporation that are
+owned beneficially or of record by such stockholder, (iv) all other ownership
+interests of such stockholder, including derivatives, hedged positions,
+synthetic and temporary ownership techniques, swaps, securities, loans, timed
+purchases and other economic and voting interests, (v) a description of all
+other arrangements or understandings between such stockholder and any other
+person or persons (including their names) in connection with the proposal of
+such business by such stockholder and any material interest of such stockholder
+in such business and (vi) a representation that such stockholder intends to
+appear in person or by proxy at the meeting to bring such business before the
+meeting.
+ 
+
+
+
+
+
+
+9
+
+
+
+
+
+
+
+
+
+ 
+(c)              
+To be in proper written form, a stockholder’s notice to the Secretary regarding
+nominations of persons for election to the Board of Directors must set forth:
+(a) as to each proposed nominee, (i) the name, age, business address and
+residence address of the nominee, (ii) the principal occupation or employment of
+the nominee, (iii) the class or series and number of shares of capital stock of
+the corporation that are owned beneficially or of record by the nominee and (iv)
+any other information relating to the nominee that would be required to be
+disclosed in a proxy statement or other filings required to be made in
+connection with solicitations of proxies for election of directors pursuant to
+Section 14 of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”), and the rules and regulations promulgated thereunder; and (b) as to the
+stockholder giving the notice, (i) the name and record address of such
+stockholder, (ii) the class or series and number of shares of capital stock of
+the corporation which are owned beneficially or of record by such stockholder,
+(iii) all other ownership interests of such stockholder, including derivatives,
+hedged positions, synthetic and temporary ownership techniques, swaps,
+securities, loans, timed purchases and other economic and voting interests, (iv)
+a description of all arrangements or understandings between such stockholder and
+each proposed nominee and any other person or persons (including their names)
+pursuant to which the nomination(s) are to be made by such stockholder, (v) a
+representation that such stockholder intends to appear in person or by proxy at
+the meeting to nominate the persons named in such stockholder’s notice and (vi)
+any other information relating to such stockholder that would be required to be
+disclosed in a proxy statement or other filings required to be made in
+connection with solicitations of proxies for election of directors pursuant to
+Section 14 of the Exchange Act and the rules and regulations promulgated
+thereunder.  Such notice must be accompanied by a written consent of
+each proposed nominee to being named as a nominee and to serve as a director if
+elected.  Each proposed nominee will be required to complete a
+questionnaire, in a form to be provided by the Corporation, to be submitted with
+the stockholder’s notice. The Corporation may also require any proposed nominee
+to furnish such other information as may reasonably be required by the
+Corporation to determine the eligibility of such proposed nominee to serve as an
+independent director of the Corporation or that could be material to a
+reasonable stockholder’s understanding of the independence, or lack thereof, of
+such nominee.
+ 
+(d)              
+No business shall be conducted at any meeting of stockholders, and no person
+nominated by a stockholder shall be eligible for election as a director, unless
+proper notice was given with respect to the proposed action in compliance with
+the procedures set forth in this Section 6.  Determinations of the
+chairman of the meeting as to whether those procedures were complied with in a
+particular case shall be final and binding.
+ 
+
+Dated:  February
+4,
+2009                                     /s/
+Karen
+Mercer                                                                  
+Karen Mercer
+Secretary
+of Basic Earth Science Systems, Inc.
+
+
+
+EX-10.1
+4
+ex_10-1.htm
+AMENDMENT TO CREDIT AGREEMENT
+
+ex_10-1.htm
+
+
+
+
+
+
+
+EXHIBIT 10.1
+ 
+AMENDMENT OF CREDIT
+AGREEMENT
+
+THIS
+AMENDMENT OF CREDIT AGREEMENT (this "Amendment"), dated as of December 31, 2008,
+is by and between BASIC EARTH SCIENCE SYSTEMS, INC. ("BESSI"), and AMERICAN
+NATIONAL BANK, a national banking association ("ANB"), f/k/a THE BANK OF CHERRY
+CREEK, N.A. ("BOCC").
+
+RECITALS
+
+A.  BESSI
+and BOCC entered into a letter agreement dated March 4, 2002, as previously
+amended (as so amended, the "Credit Agreement"), setting forth the terms upon
+which BOCC would make advances to BESSI and by which such advances would be
+governed and repaid.  Capitalized terms used herein but not defined
+herein shall have the same meanings as set forth in the Credit
+Agreement.
+
+B.  ANB
+is the successor in interest to the rights and obligations of BOCC under the
+Credit Agreement and all related documents.
+
+C.  BESSI
+and ANB desire that this Amendment be executed and delivered in order to amend
+certain terms and provisions of the Credit Agreement.
+
+AMENDMENT
+
+NOW,
+THEREFORE, in consideration of $10.00 and other good and valuable consideration,
+the receipt and sufficiency of which are hereby acknowledged, the parties hereby
+agree as follows:
+
+
+
+
+
+1.  
+
+
+Credit
+      Agreement. The Credit Agreement shall be, and hereby is, amended as
+      follows as of the date hereof:
+
+
+
+
+
+
+
+
+
+a.  
+
+
+The
+      following shall be substituted for the section entitled “Maturity Date” on
+      page 2 of the Credit Agreement:
+
+
+
+
+
+
+
+
+
+ 
+      
+
+
+Maturity
+      Date:
+
+
+“December
+      31, 2010, on which date the Borrower agrees to repay the remaining balance
+      of the Loan in its entirety, including all outstanding principal interest,
+      fees, expenses, and other amounts due in connection
+      therewith”.
+
+
+
+
+
+
+
+
+
+b.  
+
+
+The
+      following shall be substituted for the section entitled “Revolving Period”
+      on page 2 of the Credit Agreement:
+
+
+
+
+
+
+
+
+
+ 
+      
+
+
+Revolving
+      Period:
+
+
+“From
+      the date of this agreement through December 31, 2010.  During
+      the Revolving Period Borrower may borrow, repay, and re-borrow
+      funds.  At no time, however, may the aggregate outstanding
+      principal balance of all Advances exceed the Commitment
+      Amount”.
+
+
+
+
+
+
+
+
+
+c.  
+
+
+The
+      following shall be substituted for the section entitled “Interest Rate” on
+      page 2 of the Credit Agreement:
+
+
+
+
+
+
+
+
+
+ 
+      
+
+
+Interest
+      Rate:
+
+
+“Interest
+      on the outstanding principal balance of the Line of Credit shall accrue at
+      an annual rate equal to the greater of (a) the fluctuating Prime Rate (as
+      defined in the Note) plus ¼%, or (b) 6.5% per annum. After the occurrence
+      of an Event of Default, interest on the Line of Credit shall accrue at a
+      rate equal to the Prime Rate at the time of default plus five percentage
+      points per annum. Borrower shall pay interest monthly on the 1st
+      day of each calendar month and on the Maturity
+  Date”.
+
+
+
+
+
+
+ 
+
+
+
+1
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+d.  
+
+
+The
+      following new section entitled “Accounts” shall be added to the end of
+      page 2 of the Credit Agreement:
+
+
+
+
+
+
+
+
+
+ 
+      
+
+
+Accounts:
+
+
+“Borrower
+      will continue to maintain their primary operating accounts and payroll
+      accounts with ANB during the term of this commitment and prior to payment
+      in full of this Loan”.
+
+
+
+
+
+
+
+
+
+2.  
+
+
+The Amended
+      Note.  The Amended Note shall be amended to reflect the
+      interest rate floor of 6.5% per annum, such amendment to be affected by an
+      Allonge (the “Allonge”), between Borrower and ANB, to be attached to the
+      Amended Note and to be substantially in the form of Exhibit A attached
+      hereto and made a part hereof.
+
+
+
+
+
+
+
+
+
+3.  
+
+
+Loan
+      Documents.  All references in any document to the Credit
+      Agreement shall be deemed to refer to the Credit Agreement, as amended
+      pursuant to this Amendment.
+
+
+
+
+
+
+
+
+
+4.  
+
+
+Conditions
+      Precedent.  The obligations of the parties under this
+      Amendment are subject, at the option of ANB, to the prior satisfaction of
+      the condition that BESSI shall have delivered to ANB the following (all
+      documents to be satisfactory in form and substance to ANB and, if
+      appropriate, duly executed and/or acknowledged on behalf of the parties
+      other than ANB):
+
+
+
+
+
+
+
+
+
+a.  
+
+
+This
+      Amendment.
+
+
+
+
+
+
+
+
+b.  
+
+
+The
+      Allonge
+
+
+
+
+
+
+
+
+
+5.  
+
+
+Certification by
+      BESSI. BESSI hereby certifies to ANB that as of the date of this
+      Amendment: (a) all of BESSI’s representations and warranties contained in
+      the Credit Agreement are true, accurate and complete in all material
+      respects, (b) BESSI has performed and complied with all agreements and
+      conditions required to be performed or complied with by it under the
+      Credit Agreement and/or any Loan Document on or prior to this date, and
+      (c) neither any Event of Default nor any other event or condition which,
+      with the giving of notice, the lapse of time, or both, would constitute an
+      Event of Default has occurred under the Credit
+  Agreement.
+
+
+
+
+
+
+
+
+
+6.  
+
+
+Continuation of the
+      Credit Agreement. Except as specified in this Amendment, the
+      provisions of the Credit Agreement shall remain in full force and effect,
+      and if there is a conflict between the terms of this Amendment and those
+      of the Credit Agreement or any other document executed and delivered in
+      connection therewith, the terms of this Amendment shall
+      control.
+
+
+
+
+
+
+
+
+
+7.  
+
+
+Miscellaneous.
+      This Amendment shall be governed by and construed under the laws of the
+      State of Colorado and shall be binding upon and inure to the benefit of
+      the parties hereto and their successors and assigns.  This
+      Amendment may be executed in any number of counterparts, each of which
+      shall be an original, but all of which together shall constitute one
+      instrument.
+
+
+
+
+
+EXECUTED
+as of December 31, 2008.
+ 
+ 
+BASIC
+EARTH SCIENCE SYSTEMS, INC.
+ 
+ 
+By:  /s/ Ray
+Singleton   
+      Ray
+Singleton
+      President
+ 
+ 
+
+      AMERICAN NATIONAL BANK
+f/k/a
+
+  THE
+BANK OF CHERRY CREEK, N.A.
+ 
+ 
+
+By:  /s/
+Kevin Donaldson   
+      Kevin
+Donaldson
+      Vice
+President
+
+
+
+ 
+
+
+
+2
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+      
+
+
+ALLONGE
+
+
+
+
+ 
+
+Reference
+is made to an Amended Promissory Note dated March 4, 2002 (the "Note"), in the
+face amount of $20,000,000, made by BASIC EARTH SCIENCE SYSTEMS, INC.
+(“Borrower"), payable to the order of AMERICAN NATIONAL BANK
+(“ANB").
+
+The Note
+is hereby modified as follows, effective as of the date hereof:
+
+
+
+
+
+1.  
+
+
+The
+      following shall be substituted for the first sentence of the fifth
+      paragraph on page 1 of the Note:
+
+
+
+
+
+“Except
+as otherwise provided below with respect to amounts not paid when due, interest
+on the Loan shall accrue at an annual rate equal to the greater of (a) the Prime
+Rate (as defined below) plus ¼%, or (b) 6.5% per annum”.
+
+
+
+
+
+2.  
+
+
+In
+      line 2 of the forth paragraph on page 1 of the Note, “December 31, 2008”
+      shall be changed to “December 31,
+2010”.
+
+
+
+
+
+EXECUTED
+as of December 31, 2008.
+
+
+BASIC
+EARTH SCIENCE SYSTEMS, INC.
+
+
+By: /s/ Ray
+Singleton    
+
+     
+Ray Singleton
+    
+ President
+
+
+AMERICAN
+NATIONAL BANK
+
+
+By: /s/
+Kevin Donaldson  
+     
+Kevin Donaldson 
+      Vice
+President
+ 
+
+
+
+
+EX-31.1
+5
+ex_31-1.htm
+CERTIFICATION - SECTION 302
+
+ex_31-1.htm
+
+
+
+
+
+
+ 
+Exhibit
+31.1
+CERTIFICATION
+CHIEF EXECUTIVE OFFICER
+ 
+ 
+I, Ray
+Singleton, hereby certify that:
+ 
+
+
+
+
+1.
+
+ 
+      
+
+I
+      have reviewed this report on Form 10-Q for Basic Earth Science Systems,
+      Inc.;
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+2.
+
+ 
+      
+
+Based
+      on my knowledge, this report does not contain any untrue statement of a
+      material fact or omit to state a material fact necessary to make the
+      statements made, in light of the circumstances under which such statements
+      were made, not misleading with respect to the period covered by this
+      report;
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+3.
+
+ 
+      
+
+Based
+      on my knowledge, the financial statements, and other financial information
+      included in this report, fairly present in all material respects the
+      financial condition, results of operations and cash flows of the small
+      business issuer as of, and for, the periods presented in this
+      report;
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+4.
+
+ 
+      
+
+The
+      small business issuer’s other certifying officer and I are responsible for
+      establishing and maintaining disclosure controls and procedures (as
+      defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the small
+      business issuer and have:
+
+
+
+
+ 
+
+
+
+ 
+      
+
+(a)
+
+ 
+      
+
+designed
+      such disclosure controls and procedures, or caused such disclosure
+      controls and procedures to be designed under our supervision, to ensure
+      that material information relating to the small business issuer and its
+      consolidated subsidiaries, is made known to us by others within those
+      entities, particularly during the period in which this report is being
+      prepared;
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(b)
+
+ 
+      
+
+evaluated
+      the effectiveness of the small business issuer’s disclosure controls and
+      procedures and presented in this report our conclusions about the
+      effectiveness of the disclosure controls and procedures, as of the end of
+      the period covered by this report based on such evaluation;
+      and
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(c)
+
+ 
+      
+
+disclosed
+      in this report any change in the small business issuer’s internal control
+      over financial reporting that occurred during the small business issuer’s
+      last quarter of the current fiscal year that has materially affected, or
+      is reasonably likely to materially affect, the small business issuer’s
+      internal control over financial
+reporting.
+
+
+
+
+ 
+
+
+
+
+5.
+
+ 
+      
+
+The
+      small business issuer’s other certifying officer and I have disclosed,
+      based on our most recent evaluation of internal control over financial
+      reporting, to the small business issuer’s auditors and the Audit Committee
+      of the small business issuer’s Board of
+  Directors:
+
+
+
+
+ 
+
+
+
+ 
+      
+
+(a)
+
+ 
+      
+
+all
+      significant deficiencies and material weaknesses in the design or
+      operation of internal controls over financial reporting which are
+      reasonably likely to adversely affect the small business issuer’s ability
+      to record, process, summarize, and report financial information;
+      and
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(b)
+
+ 
+      
+
+any
+      fraud, whether or not material, that involves management or other
+      employees who have a significant role in the small business issuer’s
+      internal control over financial
+reporting.
+
+
+
+
+ 
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+EXECUTED
+      this 17th day of February, 2009.
+
+ 
+      
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+By:
+      /s/ Ray Singleton   
+      
+
+ 
+      
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Ray
+      Singleton
+
+ 
+      
+ 
+      
+
+
+
+President
+      and Chief Executive Officer
+
+ 
+      
+ 
+      
+
+
+
+
+
+
+EX-31.2
+6
+ex_31-2.htm
+CERTIFICATION - SECTION 302
+
+ex_31-2.htm
+
+
+
+
+
+
+
+
+ 
+Exhibit
+31.2
+CERTIFICATION
+OF PRINCIPAL ACCOUNTING OFFICER
+ 
+ 
+I, Joseph
+Young, hereby certify that:
+ 
+
+
+
+
+1.
+
+ 
+      
+
+I
+      have reviewed this report on Form 10-Q for Basic Earth Science Systems,
+      Inc.;
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+2.
+
+ 
+      
+
+Based
+      on my knowledge, this report does not contain any untrue statement of a
+      material fact or omit to state a material fact necessary to make the
+      statements made, in light of the circumstances under which such statements
+      were made, not misleading with respect to the period covered by this
+      report;
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+3.
+
+ 
+      
+
+Based
+      on my knowledge, the financial statements, and other financial information
+      included in this report, fairly present in all material respects the
+      financial condition, results of operations and cash flows of the small
+      business issuer as of, and for, the periods presented in this
+      report;
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+4.
+
+ 
+      
+
+The
+      small business issuer’s other certifying officer and I are responsible for
+      establishing and maintaining disclosure controls and procedures (as
+      defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the small
+      business issuer and have:
+
+
+
+
+ 
+
+
+
+ 
+      
+
+(a)
+
+ 
+      
+
+designed
+      such disclosure controls and procedures, or caused such disclosure
+      controls and procedures to be designed under our supervision, to ensure
+      that material information relating to the small business issuer and its
+      consolidated subsidiaries, is made known to us by others within those
+      entities, particularly during the period in which this report is being
+      prepared;
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(b)
+
+ 
+      
+
+evaluated
+      the effectiveness of the small business issuer’s disclosure controls and
+      procedures and presented in this report our conclusions about the
+      effectiveness of the disclosure controls and procedures, as of the end of
+      the period covered by this report based on such evaluation;
+      and
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(c)
+
+ 
+      
+
+disclosed
+      in this report any change in the small business issuer’s internal control
+      over financial reporting that occurred during the small business issuer’s
+      last quarter of the current fiscal year that has materially affected, or
+      is reasonably likely to materially affect, the small business issuer’s
+      internal control over financial
+reporting.
+
+
+
+
+ 
+
+
+
+
+5.
+
+ 
+      
+
+The
+      small business issuer’s other certifying officer and I have disclosed,
+      based on our most recent evaluation of internal control over financial
+      reporting, to the small business issuer’s auditors and the Audit Committee
+      of the small business issuer’s Board of
+  Directors:
+
+
+
+
+ 
+
+
+
+ 
+      
+
+(a)
+
+ 
+      
+
+all
+      significant deficiencies and material weaknesses in the design or
+      operation of internal controls over financial reporting which are
+      reasonably likely to adversely affect the small business issuer’s ability
+      to record, process, summarize, and report financial information;
+      and
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(b)
+
+ 
+      
+
+any
+      fraud, whether or not material, that involves management or other
+      employees who have a significant role in the small business issuer’s
+      internal control over financial
+reporting.
+
+
+
+
+ 
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+EXECUTED
+      this 17th day of February, 2009.
+
+ 
+      
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+By:
+      /s/ Joseph Young  
+      
+
+ 
+      
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Joseph
+      Young
+
+ 
+      
+ 
+      
+
+
+
+Principal
+      Accounting Officer
+
+ 
+      
+ 
+      
+
+
+
+
+
+
+EX-32.1
+7
+ex_32-1.htm
+CERTIFICATION - SECTION 906
+
+ex_32-1.htm
+
+
+
+
+
+
+
+
+ 
+Exhibit
+32.1
+ 
+CERTIFICATION
+PURSUANT TO
+ 
+18
+U.S.C. §1350,
+ 
+AS
+ADOPTED PURSUANT TO
+ 
+SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002
+ 
+ 
+In
+connection with the Annual Report of Basic Earth Science Systems, Inc. (the
+“Company”) on Form 10-Q for the period ended December 31, 2008 to be filed with
+the Securities and Exchange Commission on February 17, 2009 (the “Report”), I,
+Ray Singleton, as President and Chief Executive Officer of the Company, certify,
+pursuant to 18 U.S.C. §1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that:
+ 
+
+
+
+ 
+      
+
+(1)
+
+ 
+      
+
+The
+      Report fully complies with the requirements of section 13(a) of the
+      Securities Exchange Act of 1934; and
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(2)
+
+ 
+      
+
+The
+      information contained in the Report fairly presents, in all material
+      respects, the financial condition and result of operations of the
+      Company.
+
+
+
+
+ 
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+By:
+      /s/ Ray Singleton  
+      
+
+ 
+      
+
+February
+      17, 2009
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Ray
+      Singleton, President and
+
+ 
+      
+ 
+      
+
+
+
+Chief
+      Executive Officer
+
+ 
+      
+ 
+      
+
+
+
+
+
+
+EX-32.2
+8
+ex_32-2.htm
+CERTIFICATION - SECTION 906
+
+ex_32-2.htm
+
+
+
+
+
+
+
+
+ 
+Exhibit
+32.2
+ 
+CERTIFICATION
+PURSUANT TO
+ 
+18
+U.S.C. §1350,
+ 
+AS
+ADOPTED PURSUANT TO
+ 
+SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002
+ 
+ 
+In
+connection with the Annual Report of Basic Earth Science Systems, Inc. (the
+“Company”) on Form 10-Q for the period ended December 31, 2008 to be filed with
+the Securities and Exchange Commission on February 17, 2009 (the “Report”), I,
+Joseph Young, as Principal Accounting Officer of the Company, certify, pursuant
+to 18 U.S.C. §1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act
+of 2002, that:
+ 
+
+
+
+ 
+      
+
+(1)
+
+ 
+      
+
+The
+      Report fully complies with the requirements of section 13(a) of the
+      Securities Exchange Act of 1934; and
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(2)
+
+ 
+      
+
+The
+      information contained in the Report fairly presents, in all material
+      respects, the financial condition and result of operations of the
+      Company.
+
+
+
+
+ 
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+By:
+      /s/ Joseph Young  
+      
+
+ 
+      
+
+February
+      17, 2009
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Joseph
+      Young,
+
+ 
+      
+ 
+      
+
+
+
+Princpal
+      Accounting Officer
+
+ 
+      
+ 
+      
+
+
+
+ 
+
+
+
+-----END PRIVACY-ENHANCED MESSAGE-----

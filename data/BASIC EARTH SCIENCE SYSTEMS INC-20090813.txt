@@ -1,0 +1,6999 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BA8m+X775YXIX9t9L9PeDBpUa0cxmjS3iZKoTm6UVJOWpNGCOtlddhua7VUNrIg/
+ 2NgWWlDomXuwZJ/sxKNpzw==
+
+0001144439-09-000021.txt : 20090813
+0001144439-09-000021.hdr.sgml : 20090813
+20090813092122
+ACCESSION NUMBER:		0001144439-09-000021
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20090630
+FILED AS OF DATE:		20090813
+DATE AS OF CHANGE:		20090813
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BASIC EARTH SCIENCE SYSTEMS INC
+		CENTRAL INDEX KEY:			0000010254
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				840592823
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0204
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-07914
+		FILM NUMBER:		091008589
+
+	BUSINESS ADDRESS:	
+		STREET 1:		633 SEVENTEENTH STREET
+		STREET 2:		SUITE 1645
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202-3625
+		BUSINESS PHONE:		303-296-3076
+
+	MAIL ADDRESS:	
+		STREET 1:		633 SEVENTEENTH STREET
+		STREET 2:		SUITE 1645
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202-3625
+
+
+10-Q
+1
+e10q_6-09.htm
+QUARTERLY FILING - JUNE 30, 2009
+
+e10q_6-09.htm
+
+
+
+
+
+
+
+
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+Washington,
+D.C. 20549
+
+FORM
+10-Q
+
+
+
+
+
+þ
+
+ 
+      
+
+QUARTERLY
+      REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+      1934
+
+
+
+
+For
+the Quarterly Period Ended June 30, 2009
+
+
+
+
+
+o
+
+ 
+      
+
+TRANSITION
+      REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+      1934
+
+
+
+
+Commission
+file number: 0-7914
+
+BASIC
+EARTH SCIENCE SYSTEMS, INC.
+
+633
+Seventeenth St, Suite 1645
+Denver,
+Colorado 80202-3625
+Telephone
+(303) 296-3076
+
+
+
+
+
+Incorporated
+      in Delaware
+
+ 
+      
+
+IRS
+      ID# 84-0592823
+
+
+
+
+
+Check
+whether the issuer (1) filed all reports required to be filed by
+Section 13 or 15(d) of the Exchange Act during the past 12 months (or
+for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to the filing requirements for the past
+90 days.     Yes þ  
+No o
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, a non-accelerated filer, or a smaller reporting company. See
+the definitions of “large accelerated filer,” “accelerated filer” and “smaller
+reporting company” in Rule 12b-2 of the Exchange Act.
+
+Large
+accelerated filer o                                                                                   Accelerated
+filer o
+Non-accelerated
+filer o (Do not
+check if a smaller reporting
+company)        Smaller reporting
+company þ
+
+Check
+whether the issuer is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).  
+Yes o No þ
+
+Shares of
+common stock outstanding on August 12, 2009: 17,544,893
+
+
+ 
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+BASIC EARTH SCIENCE SYSTEMS, INC.
+FORM
+10-Q
+INDEX
+
+
+
+
+ 
+      
+
+PART
+      I. FINANCIAL INFORMATION
+
+
+Page
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 1.
+
+
+Financial Statements
+
+
+4
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+    Consolidated Balance
+      Sheets:
+
+ 
+      
+
+
+ 
+      
+
+    June
+      30, 2009 (Unaudited) and March 31, 2009
+
+
+4
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+    Consolidated Statements of
+      Operations:
+
+ 
+      
+
+
+ 
+      
+
+    Three
+      Months Ended June 30, 2009 and 2008 (Unaudited)
+
+
+6
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+    Consolidated Statements of Cash
+      Flows:
+
+ 
+      
+
+
+ 
+      
+
+    Three
+      Months Ended June 30, 2009 and 2008 (Unaudited)
+
+
+7
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+    Notes to Unaudited Consolidated
+      Financial Statements:
+
+ 
+      
+
+
+ 
+      
+
+    June
+      30, 2009 (Unaudited)
+
+
+8
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 2.
+
+
+Management’s Discussion and Analysis
+      of Financial Condition and Results of
+Operations
+
+
+14
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 3.
+
+
+Quantitative and Qualitative
+      Disclosures About Market Risk
+
+
+17
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 4T.
+
+
+Controls and
+      Procedures
+
+
+17
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+PART
+      II. OTHER INFORMATION
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 1.
+
+
+Legal
+      Proceedings
+
+
+18
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item
+      1A.
+
+
+Risk
+      Factors
+
+
+18
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 2.
+
+
+Unregistered Sales of Equity
+      Securities and Use of Proceeds
+
+
+18
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 3.
+
+
+Defaults Upon
+      Senior Securities
+
+
+18
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 4.
+
+
+Submission of Matters to a Vote of
+      Security Holders
+
+
+18
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 5.
+
+
+Other
+      Information
+
+
+18
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Item 6.
+
+
+Exhibits
+
+
+19
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+Signatures
+
+
+20
+
+
+
+
+ 
+
+
+ 
+
+
+2
+
+
+
+
+
+Table of Contents
+
+
+
+FORWARD-LOOKING
+STATEMENTS
+
+                   This
+Current Report on Form 10-Q, including information incorporated herein by
+reference, contains forward-looking statements as defined in the Private
+Securities Litigation Reform Act of 1995. The use of any statements containing
+the words "anticipate," "intend," "believe," "estimate," "project," "expect,"
+"plan," "should" or similar expressions are intended to identify such
+statements. Forward-looking statements relate to, among other
+things:
+
+•      our
+future financial position, including anticipated liquidity;
+•      amounts
+and nature of future capital expenditures;
+•      acquisitions
+and other business opportunities;
+•      operating
+costs and other expenses;
+•      wells
+expected to be drilled;
+•      asset
+retirement obligations; and
+•      estimates
+of proved oil and natural gas reserves, deferred tax liabilities, and depletion
+rates.
+  
+                   Factors
+that could cause actual results to differ materially from our expectations
+include, among others, such things as:
+
+•      oil
+and natural gas prices;
+•      our
+ability to replace oil and natural gas reserves;
+•      loss
+of senior management or technical personnel;
+•      inaccuracy
+in reserve estimates and expected production rates;
+•      exploitation,
+development and exploration results;
+
+•      the
+actual costs related to asset retirement obligations, and whether or not those
+retirements actually occur in the future;
+
+
+
+•      a
+lack of available capital and financing;
+•      the
+potential unavailability of drilling rigs and other field equipment and
+services;
+•      the
+existence of unanticipated liabilities or problems relating to acquired
+properties;
+•      general
+economic, market or business conditions;
+
+•      factors
+affecting the nature and timing of our capital expenditures, including the
+availability of service contractors and equipment, 
+    permitting
+issues, workovers, and weather;
+
+•      the
+impact and costs related to compliance with or changes in laws or regulations
+governing our oil and natural gas operations;
+
+
+•      environmental
+liabilities;
+
+•      acquisitions
+and other business opportunities (or the lack thereof) that may be presented to
+and pursued by us;
+
+
+
+•      competition
+for available properties and the effect of such competition on the price of
+those properties;
+•      risk
+factors discussed in this report; and
+•      other
+factors, many of which are beyond our control.
+
+Although
+we believe that the expectations reflected in such forward-looking statements
+are reasonable, those expectations may prove to be
+incorrect.  Disclosure of important factors that could cause actual
+results to differ materially from our expectations, or cautionary statements,
+are included in our Annual Report on Form 10-K for the fiscal year ended March
+31, 2009, under the heading "Risk Factors", and elsewhere in this report,
+including, without limitation, in conjunction with the forward-looking
+statements.  All forward-looking statements speak only as of the date
+made.  All subsequent written and oral forward-looking statements
+attributable to us, or persons acting on our behalf, are expressly qualified in
+their entirety by the cautionary statements.  Except as required by
+law, we undertake no obligation to update any forward-looking statement to
+reflect events or circumstances after the date on which it is made or to reflect
+the occurrence of anticipated or unanticipated events or
+circumstances.
+
+
+ 
+
+
+3
+
+
+
+
+
+Table of Contents
+
+
+
+PART I – FINANCIAL INFORMATION
+
+Item 1. Financial
+Statements
+
+Basic Earth Science Systems, Inc.
+Consolidated
+Balance Sheets
+Page
+1 of 2
+
+
+
+
+ 
+      
+ 
+      
+
+June
+      30,
+
+ 
+      
+ 
+      
+
+March
+      31,
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+2009
+
+ 
+      
+ 
+      
+
+2009
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+(Unaudited)
+
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+Assets
+
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+Current
+      assets:
+
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+     Cash
+      and cash equivalents
+
+ 
+      
+
+$
+
+
+4,054,000
+
+ 
+      
+ 
+      
+
+$
+
+
+4,088,000
+
+ 
+      
+
+
+
+     Accounts
+      receivable:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+          Oil
+      and gas sales
+
+ 
+      
+ 
+      
+
+2,130,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,611,000
+
+ 
+      
+
+
+
+          Joint
+      interest and other receivables, net of $71,000 and $71,000 in allowance,
+      respectively
+
+ 
+      
+ 
+      
+
+181,000
+
+ 
+      
+ 
+      
+ 
+      
+
+230,000
+
+ 
+      
+
+
+
+     Other
+      current assets
+
+ 
+      
+ 
+      
+
+508,000
+
+ 
+      
+ 
+      
+ 
+      
+
+508,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      current assets
+
+ 
+      
+ 
+      
+
+6,873,000
+
+ 
+      
+ 
+      
+ 
+      
+
+6,437,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Oil
+      and gas property, full cost method:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Proved
+      property
+
+ 
+      
+ 
+      
+
+32,500,000
+
+ 
+      
+ 
+      
+ 
+      
+
+32,187,000
+
+ 
+      
+
+
+
+     Unproved
+      property
+
+ 
+      
+ 
+      
+
+1,076,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,077,000
+
+ 
+      
+
+
+
+     Accumulated
+      depletion and impairment
+
+ 
+      
+ 
+      
+
+(22,627,000
+
+
+)
+
+ 
+      
+ 
+      
+
+(22,397,000
+
+
+)
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Net
+      oil and gas property
+
+ 
+      
+ 
+      
+
+10,949,000
+
+ 
+      
+ 
+      
+ 
+      
+
+10,867,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Support
+      equipment and other non-current assets, net of $346,000 and $337,000 in
+      accumulated depreciation, 
+    respectively
+
+ 
+      
+ 
+      
+
+461,000
+
+ 
+      
+ 
+      
+ 
+      
+
+458,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      non-current assets
+
+ 
+      
+ 
+      
+
+11,410,000
+
+ 
+      
+ 
+      
+ 
+      
+
+11,325,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      assets
+
+ 
+      
+
+$
+
+
+18,283,000
+
+ 
+      
+ 
+      
+
+$
+
+
+17,762,000
+
+ 
+      
+
+
+
+
+See
+accompanying notes to unaudited consolidated financial
+statements.
+
+
+ 
+
+
+4
+
+
+
+
+
+Table of Contents
+
+
+Basic Earth Science Systems, Inc.
+Consolidated
+Balance Sheets
+Page
+2 of 2
+
+
+
+
+ 
+      
+ 
+      
+
+June
+      30,
+
+ 
+      
+ 
+      
+
+March
+      31,
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+2009
+
+ 
+      
+ 
+      
+
+2009
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+(Unaudited)
+
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+Liabilities
+      and Shareholders' Equity
+
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+Current
+      liabilities:
+
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+     Accounts
+      payable
+
+ 
+      
+
+$
+
+
+377,000
+
+ 
+      
+ 
+      
+
+$
+
+
+64,000
+
+ 
+      
+
+
+
+     Accrued
+      liabilities
+
+ 
+      
+ 
+      
+
+1,421,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,328,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      current liabilities
+
+ 
+      
+ 
+      
+
+1,798,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,392,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Long-term
+      liabilities:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Deferred
+      tax liability
+
+ 
+      
+ 
+      
+
+2,290,000
+
+ 
+      
+ 
+      
+ 
+      
+
+2,242,000
+
+ 
+      
+
+
+
+     Asset
+      retirement obligation
+
+ 
+      
+ 
+      
+
+1,490,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,558,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      long-term liabilities
+
+ 
+      
+ 
+      
+
+3,780,000
+
+ 
+      
+ 
+      
+ 
+      
+
+3,800,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      liabilities
+
+ 
+      
+ 
+      
+
+5,578,000
+
+ 
+      
+ 
+      
+ 
+      
+
+5,192,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Commitments
+      (within note 2)
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Shareholders’
+      Equity:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Preferred
+      stock, $.001 par value, 3,000,000 authorized, and none issued or
+      outstanding
+
+ 
+      
+ 
+      
+
+—
+
+ 
+      
+ 
+      
+ 
+      
+
+—
+
+ 
+      
+
+
+
+     Common
+      stock, $.001 par value, 32,000,000 shares authorized, and 17,545,000 and
+      17,506,000 shares issued 
+    and
+      outstanding, respectively
+
+ 
+      
+ 
+      
+
+18,000
+
+ 
+      
+ 
+      
+ 
+      
+
+18,000
+
+ 
+      
+
+
+
+     Additional
+      paid-in capital
+
+ 
+      
+ 
+      
+
+22,873,000
+
+ 
+      
+ 
+      
+ 
+      
+
+22,825,000
+
+ 
+      
+
+
+
+     Treasury
+      stock (587,000 and 380,000 shares, respectively); at cost
+
+ 
+      
+ 
+      
+
+(205,000
+
+
+)
+
+ 
+      
+ 
+      
+
+(43,000
+
+
+)
+
+
+
+
+     Accumulated
+      deficit
+
+ 
+      
+ 
+      
+
+(9,981,000
+
+
+)
+
+ 
+      
+ 
+      
+
+(10,230,000
+
+
+)
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      shareholders’ equity
+
+ 
+      
+ 
+      
+
+12,705,000
+
+ 
+      
+ 
+      
+ 
+      
+
+12,570,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      liabilities and shareholders’ equity
+
+ 
+      
+
+$
+
+
+18,283,000
+
+ 
+      
+ 
+      
+
+$
+
+
+17,762,000
+
+ 
+      
+
+
+
+
+See
+accompanying notes to unaudited consolidated financial
+statements.
+
+
+ 
+
+
+5
+
+
+
+
+
+Table of Contents
+
+
+Basic Earth Science Systems, Inc.
+Consolidated
+Statements of Operations
+(Unaudited)
+ 
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+Three Months
+      Ended
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+June 30,
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+2009
+
+ 
+      
+ 
+      
+ 
+      
+
+2008
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Revenues:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Oil
+      and gas sales
+
+ 
+      
+
+$
+
+
+1,460,000
+
+ 
+      
+ 
+      
+
+$
+
+
+3,306,000
+
+ 
+      
+
+
+
+     Well
+      service and water disposal revenue
+
+ 
+      
+ 
+      
+
+16,000
+
+ 
+      
+ 
+      
+ 
+      
+
+13,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      revenues
+
+ 
+      
+ 
+      
+
+1,476,000
+
+ 
+      
+ 
+      
+ 
+      
+
+3,319,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Expenses:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Oil
+      and gas production
+
+ 
+      
+ 
+      
+
+468,000
+
+ 
+      
+ 
+      
+ 
+      
+
+566,000
+
+ 
+      
+
+
+
+     Production
+      tax
+
+ 
+      
+ 
+      
+
+120,000
+
+ 
+      
+ 
+      
+ 
+      
+
+282,000
+
+ 
+      
+
+
+
+     Well
+      servicing expenses
+
+ 
+      
+ 
+      
+
+15,000
+
+ 
+      
+ 
+      
+ 
+      
+
+9,000
+
+ 
+      
+
+
+
+     Depreciation
+      and depletion
+
+ 
+      
+ 
+      
+
+238,000
+
+ 
+      
+ 
+      
+ 
+      
+
+221,000
+
+ 
+      
+
+
+
+     Accretion
+      of asset retirement obligation
+
+ 
+      
+ 
+      
+
+42,000
+
+ 
+      
+ 
+      
+ 
+      
+
+13,000
+
+ 
+      
+
+
+
+     Asset
+      retirement expense (gain)
+
+ 
+      
+ 
+      
+
+4,000
+
+ 
+      
+ 
+      
+ 
+      
+
+(46,000
+
+) 
+      
+
+
+
+     General
+      and administrative
+
+ 
+      
+ 
+      
+
+335,000
+
+ 
+      
+ 
+      
+ 
+      
+
+303,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      expenses
+
+ 
+      
+ 
+      
+
+1,222,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,348,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Income
+      from operations
+
+ 
+      
+ 
+      
+
+254,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,971,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Other
+      income (expense):
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Interest
+      and other income
+
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+ 
+      
+ 
+      
+
+8,000
+
+ 
+      
+
+
+
+     Interest
+      and other expenses
+
+ 
+      
+ 
+      
+
+(15,000
+
+) 
+      
+ 
+      
+ 
+      
+
+(3,000
+
+) 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      other income (expense)
+
+ 
+      
+ 
+      
+
+(15,000
+
+) 
+      
+ 
+      
+ 
+      
+
+5,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Income
+      before income taxes
+
+ 
+      
+ 
+      
+
+239,000
+
+ 
+      
+ 
+      
+ 
+      
+
+1,976,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Income
+      taxes:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Current
+      income tax (benefit) expense
+
+ 
+      
+ 
+      
+
+(58,000
+
+) 
+      
+ 
+      
+ 
+      
+
+181,000
+
+ 
+      
+
+
+
+     Provision
+      for deferred income taxes
+
+ 
+      
+ 
+      
+
+48,000
+
+ 
+      
+ 
+      
+ 
+      
+
+415,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      income tax (benefit) expense
+
+ 
+      
+ 
+      
+
+(10,000
+
+) 
+      
+ 
+      
+ 
+      
+
+596,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Net
+      income
+
+ 
+      
+
+$
+
+
+249,000
+
+ 
+      
+ 
+      
+
+$
+
+
+1,380,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Per
+      share amounts:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Basic
+
+ 
+      
+
+$
+
+
+0.01
+
+ 
+      
+ 
+      
+
+$
+
+
+0.08
+
+ 
+      
+
+
+
+     Diluted
+
+ 
+      
+
+$
+
+
+0.01
+
+ 
+      
+ 
+      
+
+$
+
+
+0.08
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Weighted
+      average common shares outstanding:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Basic
+
+ 
+      
+ 
+      
+
+17,510,907
+
+ 
+      
+ 
+      
+ 
+      
+
+17,465,585
+
+ 
+      
+
+
+
+     Diluted
+
+ 
+      
+ 
+      
+
+17,510,907
+
+ 
+      
+ 
+      
+ 
+      
+
+17,468,898
+
+ 
+      
+
+
+
+
+See
+accompanying notes to unaudited consolidated financial
+statements.
+
+
+ 
+
+
+6
+
+
+
+
+
+Table of Contents
+
+
+Basic Earth Science Systems, Inc.
+Consolidated
+Statements of Cash Flows
+(Unaudited)
+
+
+
+ 
+      
+ 
+      
+
+Three Months
+      Ended
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+June 30,
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+2009
+
+ 
+      
+ 
+      
+ 
+      
+
+2008
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Cash
+      flows from operating activities:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Net
+      income
+
+ 
+      
+
+$
+
+
+249,000
+
+ 
+      
+ 
+      
+
+$
+
+
+1,380,000
+
+ 
+      
+
+
+
+Adjustments
+      to reconcile net income to net cash provided by operating
+      activities:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Depreciation
+      and depletion
+
+ 
+      
+ 
+      
+
+238,000
+
+ 
+      
+ 
+      
+ 
+      
+
+221,000
+
+ 
+      
+
+
+
+     Deferred
+      tax liability
+
+ 
+      
+ 
+      
+
+48,000
+
+ 
+      
+ 
+      
+ 
+      
+
+415,000
+
+ 
+      
+
+
+
+     Accretion
+      of asset retirement obligation
+
+ 
+      
+ 
+      
+
+42,000
+
+ 
+      
+ 
+      
+ 
+      
+
+13,000
+
+ 
+      
+
+
+
+     Share
+      based compensation
+
+ 
+      
+ 
+      
+
+12,000
+
+ 
+      
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+
+
+
+Change
+      in:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Accounts
+      receivable, net
+
+ 
+      
+ 
+      
+
+(470,000
+
+) 
+      
+ 
+      
+ 
+      
+
+(1,006,000
+
+) 
+      
+
+
+
+     Other
+      assets
+
+ 
+      
+ 
+      
+
+1,000
+
+ 
+      
+ 
+      
+ 
+      
+
+(48,000
+
+) 
+      
+
+
+
+     Accounts
+      payable and accrued liabilities
+
+ 
+      
+ 
+      
+
+341,000
+
+ 
+      
+ 
+      
+ 
+      
+
+(122,000
+
+) 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Net
+      cash provided by operating activities
+
+ 
+      
+ 
+      
+
+461,000
+
+ 
+      
+ 
+      
+ 
+      
+
+853,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Cash
+      flows from investing activities:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Oil
+      and gas property
+
+ 
+      
+ 
+      
+
+(333,000
+
+) 
+      
+ 
+      
+ 
+      
+
+(1,831,000
+
+) 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Net
+      cash used in investing activities
+
+ 
+      
+ 
+      
+
+(333,000
+
+)  
+ 
+      
+ 
+      
+
+(1,831,000
+
+)  
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Cash
+      flows from financing activities:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Purchase
+      of treasury shares
+
+ 
+      
+ 
+      
+
+(162,000
+
+) 
+      
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Net
+      cash used in financing activities
+
+ 
+      
+ 
+      
+
+(162,000
+
+)  
+ 
+      
+ 
+      
+
+―
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Cash
+      and cash equivalents:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Decrease
+      in cash and cash equivalents
+
+ 
+      
+ 
+      
+
+(34,000
+
+) 
+      
+ 
+      
+ 
+      
+
+(978,000
+
+) 
+      
+
+
+
+     Balance,
+      beginning of year
+
+ 
+      
+ 
+      
+
+4,088,000
+
+ 
+      
+ 
+      
+ 
+      
+
+5,571,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Balance,
+      end of period
+
+ 
+      
+
+$
+
+
+4,054,000
+
+ 
+      
+ 
+      
+
+$
+
+
+4,593,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Supplemental
+      disclosure of cash flow information:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Cash
+      paid for interest
+
+ 
+      
+
+$
+
+
+10,000
+
+ 
+      
+ 
+      
+
+$
+
+
+3,000
+
+ 
+      
+
+
+
+     Cash
+      paid for income tax
+
+ 
+      
+
+$
+
+
+―
+
+ 
+      
+ 
+      
+
+$
+
+
+50,000
+
+ 
+      
+
+
+
+Non-cash:
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Increase
+      (decrease) in oil and gas property due to asset retirement
+      obligation
+
+ 
+      
+
+$
+
+
+16,000
+
+ 
+      
+ 
+      
+
+$
+
+
+13,000
+
+ 
+      
+
+
+    
+      Vested shares issued as compensation
+ 
+$
+48,000
+ 
+ 
+$
+—
+ 
+
+
+
+     Additions
+      to oil and gas also included in accrued liabilities
+
+ 
+      
+
+$
+
+
+87,000
+
+ 
+      
+ 
+      
+
+$
+
+
+―
+
+ 
+      
+
+
+
+
+See
+accompanying notes to unaudited consolidated financial
+statements.
+
+
+ 
+
+
+7
+
+
+
+
+
+Table of Contents
+
+
+Basic Earth Science Systems, Inc.
+Notes
+to Unaudited Consolidated Financial Statements
+June
+30, 2009
+
+
+1.
+Presentation of Consolidated Financial Statements
+
+The
+accompanying interim financial statements of Basic Earth Science Systems, Inc.
+(sometimes referred to as “the Company” “we” “our” or “us”) are unaudited.
+However, in the opinion of management, the interim data includes any applicable
+adjustments necessary for a fair presentation of the results for the interim
+period.
+
+At the
+directive of the Securities and Exchange Commission to use “plain English” in
+public filings, the Company will use such terms as “we”, “our” and “us” in place
+of Basic Earth Science Systems, Inc. or “the Company.” When such terms are used
+in this manner throughout this document they are in reference only to the
+corporation, Basic Earth Science Systems, Inc. and its subsidiaries, and are not
+used in reference to the board of directors, corporate officers, management, or
+any individual employee or group of employees.
+
+The
+financial statements included herein have been prepared by the Company pursuant
+to the rules and regulations of the Securities and Exchange Commission. Certain
+information and footnote disclosures normally included in financial statements
+prepared in accordance with generally accepted accounting principles have been
+condensed or omitted pursuant to such rules and regulations. We believe the
+disclosures made are adequate to make the information not misleading and suggest
+that these financial statements be read in conjunction with the financial
+statements and related notes thereto included in our Annual Report on Form 10-K
+for the year ended March 31, 2009.
+
+We have
+evaluated events subsequent to June 30, 2009 through August 12, 2009, the
+filing date of this report, and determined that there were no subsequent events
+to recognize or disclose in these consolidated financial statements which would
+either impact the results reflected in this report or the Company’s results
+going forward.
+
+Organization and
+Nature of Operations. Basic Earth Science Systems, Inc. was originally
+organized in July 1969 and had its first public offering in 1980. We are
+principally engaged in the acquisition, exploitation, development, operation and
+production of crude oil and natural gas. Our primary areas of operation are the
+Williston basin in North Dakota and Montana, south Texas and the
+Denver-Julesburg basin in Colorado.
+
+Principles of
+Consolidation. The consolidated financial statements include our accounts
+and those of our wholly-owned subsidiaries. All significant intercompany
+accounts and transactions have been eliminated.
+
+2.
+Summary of Significant Accounting Policies and Recent Accounting
+Pronouncements
+
+Use of Estimates.
+The preparation of financial statements in conformity with generally
+accepted accounting principles requires us to make estimates and assumptions
+that affect the actual amounts of assets and liabilities at the date of the
+financial statements and the actual amounts of revenues and expenses during the
+reporting period. We base these estimates on assumptions that we understand are
+reasonable under the circumstances. The estimated results that are produced by
+this effort will differ under different assumptions or conditions.  We
+understand that these estimates are necessary and that actual results could vary
+significantly from the estimated amounts for the current and future periods.
+There are many factors, including global events, which may influence the
+production, processing, marketing, and valuation of crude oil and natural gas. A
+reduction in the valuation of oil and gas properties resulting from declining
+prices or production could adversely impact depletion rates and ceiling test
+limitations. We understand the following accounting policies and estimates are
+necessary in the preparation of our consolidated financial statements: the
+carrying value of our oil and gas property, the accounting for oil and gas
+reserves, the estimate of our asset retirement obligations, the estimate of our
+income tax assets and liabilities and estimates of accrued quantities and prices
+in our oil and gas receivable.
+
+
+ 
+
+
+8
+
+
+
+
+
+Table of Contents
+
+
+Oil and Gas
+Reserves. Oil and gas reserves represent theoretical, estimated
+quantities of crude oil and natural gas which geological and engineering data
+estimate with reasonable certainty to be recoverable in future years from known
+reservoirs under existing economic and operating conditions. There are numerous
+uncertainties inherent in estimating oil and gas reserves and their values,
+including many factors beyond our control. Accordingly, reserve estimates are
+different from the future quantities of oil and gas that are ultimately
+recovered and the corresponding lifting costs associated with the recovery of
+these reserves. At March 31, 2009, ninety-eight percent of our reported oil and
+gas reserves are based on estimates prepared by Ryder Scott Company, L.P, a
+nationally recognized, independent petroleum engineering firm. The remaining two
+percent of our oil and gas reserves were prepared by our technical in-house
+staff.
+
+Each
+quarter, we update reserve estimates by substituting the prices we would have
+received at quarter-end for the year-end prices that were used by our
+independent petroleum engineers.  In conducting this “re-pricing” no
+changes are made to the decline rates, tax rates or lifting costs used by our
+independent petroleum engineers.  The determinations of depletion
+expense, as well as the results of ceiling tests and corresponding write-downs,
+if any, are highly dependent on these reserve and quarterly “re-pricing”
+estimates.
+
+Oil and Gas
+Sales. We derive revenue primarily from the sale of produced natural gas
+and crude oil. We report revenue on a gross basis for the amounts received
+before taking into account production taxes and transportation costs, which are
+reported as separate expenses. Revenue is recorded using the sales method, which
+occurs in the month production is delivered to the purchaser, at which time
+title changes hands. Payment is generally received between 30 and 90 days
+after the date of production. We make estimates of the amount of production
+delivered to purchasers and the prices we will receive. We use our knowledge of
+our properties, their historical performance, NYMEX and local spot market
+prices, and other factors as the basis for these estimates. Variances between
+estimates and the actual amounts received are recorded when payment is received,
+or when better information is available.
+
+Oil and Gas
+Property. We follow the full cost method of accounting for our oil and
+gas property. Accordingly, all costs associated with the acquisition,
+exploration and development of oil and gas properties are capitalized. These
+capitalized costs are subject to a ceiling test that limits such pooled costs to
+the aggregate of the present value of future net revenues attributable to proved
+oil and gas reserves using current prices and costs discounted at
+10 percent plus the lower of cost or fair value of unproved properties less
+any associated tax effects. If the full cost pool of capitalized oil and gas
+property costs exceeds the ceiling, we will record a ceiling test write-down to
+the extent of such excess. This write-down is a non-cash charge to earnings. If
+required, it reduces earnings and impacts shareholders’ equity in the period of
+occurrence. The write-down may not be reversed in future periods, even though
+higher oil and gas prices in the future may subsequently and significantly
+increase reserve estimates in future periods.  As of June 30, 2009,
+our capitalized costs did not exceed the ceiling test limit.
+
+Cash and Cash
+Equivalents. For purposes of the Consolidated Balance Sheets and
+Statements of Cash Flows, we consider all highly liquid investments with a
+maturity of ninety days or less when purchased to be cash equivalents. The
+carrying amount of cash equivalents approximates fair value because of the
+short-term maturity of those instruments. During the period and at the balance
+sheet date, balances of cash and cash equivalents exceeded the federally insured
+limit.
+
+Support Equipment
+and Other. Support equipment (including such items as vehicles, office
+furniture and equipment and well servicing equipment) is stated at cost.
+Depreciation of support equipment and other property is computed using the
+straight-line method over periods ranging from five to seven years.
+
+Inventory.
+Inventory, consisting primarily of tubular goods and oil field equipment, is
+stated at the lower of cost or market, cost being determined by the FIFO
+method.
+
+
+ 
+
+
+9
+
+
+
+
+
+Table of Contents
+
+
+ 
+Long-Term
+Assets. We apply Statement of Financial Accounting Standards (“SFAS”)
+No. 144, “Accounting for the Impairment or Disposal of Long-Lived Assets”
+in evaluating all long-lived assets except the full cost pool for possible
+impairment. Under SFAS No. 144, long-lived assets are reported at the lower
+of cost or their estimated recoverable amounts. During 2009 and 2008, there was
+no impairment recorded for long-lived assets.
+
+Fair Value
+Measurements. Effective April 1, 2009, we adopted the provisions for
+nonfinancial assets and nonfinancial liabilities that are not required or
+permitted to be measured at fair value on a recurring basis, which include,
+among others, those nonfinancial long-lived assets measured at fair value for
+impairment assessment and asset retirement obligations initially measured at
+fair value. Fair value used in the initial recognition of asset retirement
+obligations is determined based on the present value of expected future
+dismantlement costs incorporating our estimate of inputs used by industry
+participants when valuing similar liabilities. Accordingly, the fair value is
+based on unobservable pricing inputs and therefore, is considered a level 3
+value input in the fair value hierarchy.
+
+Asset Retirement
+Obligations. We have obligations related to the plugging and abandonment
+of our oil and gas wells. SFAS No. 143, “Accounting for Asset Retirement
+Obligations” requires that we estimate the future cost of this obligation,
+discount this cost to its present value, and record a corresponding asset and
+liability in our Consolidated Balance Sheets. The values ultimately derived are
+based on numerous and significant estimates, including the ultimate expected
+cost of the obligation, the expected future date of the required cash
+expenditures, and inflation rates. The nature of these estimates requires us to
+make judgments based on historical experience and future expectations related to
+timing. We review the estimate of our future asset retirement obligations
+quarterly. These quarterly reviews may require revisions to these estimates
+based on such things as changes to cost estimates or the timing of future cash
+outlays. Any such changes that result in upward or downward revisions in the
+estimated obligation will result in an adjustment to the related capitalized
+asset and corresponding liability on a prospective basis.
+ 
+We
+recognize two components on our consolidated statement of operations; accretion
+of asset retirement obligations and asset retirement
+expense.  Accretion of asset retirement obligation reflects the
+periodic accretion of the present value of future plugging and abandonment
+costs.  Asset retirement expense reflects the actual current period
+gains and losses on plugging and abandonment costs relative to previously
+estimated future costs.  Since our initial adoption of FASB No. 143 we
+have closed gains and losses on asset retirements to the consolidated statement
+of operations as a component of asset retirement expense.
+
+The
+information below reconciles the value of the asset retirement obligation for
+the period presented.  This includes a short term obligation of
+$182,000, which is carried within the accrued liabilities line item of the
+balance sheet.
+
+
+
+ 
+      
+ 
+      
+
+Three
+      Months Ended
+June
+      30, 2009
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Balance
+      beginning of period
+
+ 
+      
+
+$
+
+
+1,698,000
+
+ 
+      
+
+
+
+     Liabilities
+      incurred
+
+ 
+      
+ 
+      
+
+16,000
+
+ 
+      
+
+
+
+     Liabilities
+      settled
+
+ 
+      
+ 
+      
+
+(3,000
+
+
+)
+
+
+
+
+     Revisions
+      to estimates
+
+ 
+      
+ 
+      
+
+(81,000
+
+
+)
+
+
+
+
+     Accretion
+      expense
+
+ 
+      
+ 
+      
+
+42,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Balance
+      end of period
+
+ 
+      
+
+$
+
+
+1,672,000
+
+ 
+      
+
+
+
+ 
+
+
+ 
+
+
+10
+
+
+
+
+
+Table of Contents
+
+
+Commitments.  We
+currently office in a 4,000 square foot office space located in downtown Denver,
+Colorado, and are committed to a total of $281,000 for the five-year lease term
+ending April 1, 2013.  We have no off balance sheet transactions
+or arrangements.
+
+Income Taxes.
+We account for income taxes in accordance with SFAS No. 109,
+“Accounting for Income Taxes.”  Accordingly, deferred tax liabilities
+and assets are determined based on the temporary differences between the
+financial statements and tax bases of assets and liabilities, using enacted tax
+rates in effect for the year in which the differences are expected to
+reverse.
+
+Projections
+of future income taxes and their timing require significant estimates with
+respect to future operating results. Accordingly, the net deferred tax liability
+is continually re-evaluated and numerous estimates are revised over time. As
+such, the net deferred tax liability may change significantly as more
+information and data is gathered with respect to such events as changes in
+commodity prices, their effect on the estimate of oil and gas reserves, and the
+depletion of these long-lived reserves.
+ 
+On
+April 1, 2007 we adopted FASB Interpretation No. 48, Accounting for
+Uncertainty in Income Taxes, an interpretation of FASB Statement No. 109
+(FIN 48). The adoption of FIN 48 had no impact on our consolidated financial
+statements. We are subject to U.S. federal income tax and income tax from
+multiple state jurisdictions. The tax years remaining subject to examination by
+tax authorities are fiscal years 2006 through 2008. We recognize interest and
+penalties related to uncertain tax positions in income tax expense. As of June
+30, 2009, we made no provisions for interest or penalties related to uncertain
+tax positions.
+
+Earnings Per
+Share. Our earnings per share (EPS) is computed by dividing net income by
+the weighted average number of common shares outstanding for the period. Diluted
+EPS is calculated by dividing net income by the diluted weighted average number
+of common shares. The diluted weighted average number of common shares is
+computed using the treasury stock method for common stock that may be issued for
+outstanding stock options.  As of the balance sheet date, no dilutive
+securities were outstanding.
+
+Recent
+Accounting Pronouncements
+
+In June
+2009, The FASB issued SFAS 168, “Accounting Standards Codification and the
+Hierarchy of Generally Accepted Accounting Principles—a replacement of FASB
+Statement No. 162” (Codification) which will become the source of authoritative
+U.S. generally accepted accounting principles (GAAP) recognized by the FASB to
+be applied by nongovernmental entities. Rules and interpretive releases of the
+Securities and Exchange Commission (SEC) under authority of federal securities
+laws are also sources of authoritative GAAP for SEC registrants. On the
+effective date of this Statement, the Codification will supersede all
+then-existing non-SEC accounting and reporting standards. All other
+nongrandfathered non-SEC accounting literature not included in the Codification
+will become nonauthoritative.   This Statement is effective for financial
+statements issued for interim and annual periods ending after September 15,
+2009.  This statement supersedes SFAS 162 “The Hierarchy of Generally
+Accepted Accounting Principles.” The adoption of SFAS 168 will not have a
+material impact on our consolidated financial statements or results of
+operations.
+
+In
+June 2009, the FASB issued SFAS No. 165, “Subsequent Events” which
+incorporates the subsequent events guidance contained in the auditing standards
+literature into authoritative accounting literature. It also requires entities
+to disclose the date through which they have evaluated subsequent events and
+whether the date corresponds with the release of their financial statements.
+SFAS No.165 is effective for all interim and annual periods ending after
+June 15, 2009. The Company adopted SFAS No.165 upon its issuance and it had
+no material impact on our consolidated financial statements.
+
+
+ 
+
+
+11
+
+
+
+
+
+Table of Contents
+
+
+On
+April 29, 2009, the FASB issued FSP SFAS 107-1 and APB 28-1, “Interim
+Disclosures about Fair Value of Financial Instruments.” This FSP which amends
+SFAS No. 107, “Disclosures about Fair Value of Financial Instruments,” to
+require publicly-traded companies, as defined in APB Opinion No. 28,
+“Interim Financial Reporting,” to provide disclosures on the fair value of
+financial instruments in interim financial statements. FSP SFAS 107-1 and APB
+28-1 are effective for interim periods ending after June 15, 2009. We have
+adopted the provisions of FSP SFAS 107-1, which did not have a material impact
+on the Company’s consolidated financial statements or results of
+operations.
+
+On
+April 9, 2009, the FASB issued FSP SFAS 157-4, “Determining Fair Value When
+the Volume and Level of Activity for the Asset or Liability Have Significantly
+Decreased and Identifying Transactions That Are Not Orderly,” which provides
+additional guidance for estimating fair value in accordance with SFAS
+No. 157 when the volume and level of activity for the asset or liability
+have significantly decreased. This FSP re-emphasizes that regardless of market
+conditions the fair value measurement is an exit price concept as defined in
+SFAS No. 157. This FSP clarifies and includes additional factors to
+consider in determining whether there has been a significant decrease in market
+activity for an asset or liability and provides additional clarification on
+estimating fair value when the market activity for an asset or liability has
+declined significantly. FSP SFAS 157-4 is applied prospectively to all fair
+value measurements where appropriate and will be effective for interim and
+annual periods ending after June 15, 2009. We have adopted the provisions
+of FSP 157-4, which did not have a material impact on our consolidated financial
+statements or results of operations.
+
+On
+April 1, 2009, the FASB issued FSP 141(R)-1, “Accounting for Assets
+Acquired and Liabilities Assumed in a Business Combination that Arise from
+Contingencies” (FSP 141R-1). FSP 141R-1 amends and clarifies SFAS No. 141R
+to address application issues associated with initial recognition and
+measurement, subsequent measurement and accounting, and disclosure of assets and
+liabilities arising from contingencies in a business combination. FSP 141R-1 is
+effective for assets or liabilities arising from contingencies in business
+combinations for which the acquisition date is on or after the beginning of the
+first annual reporting period beginning on or after December 15, 2008. We
+will apply the provisions of FSP 141R-1 to future acquisitions.
+
+In
+December 2008, the SEC announced final approval of new requirements for
+reporting oil and gas reserves. Among the changes to the disclosure requirements
+is a broader definition of reserves, which allows reporting of probable and
+possible reserves, in addition to consideration of new technologies and
+non-traditional resources. In addition, oil and gas reserves will be reported
+using an average price based on the prior 12-month period, rather than year-end
+prices, and allow companies to disclose their probable and possible reserves to
+investors. The new rules are expected to be effective for years ending on or
+after December 31, 2009. The Company is in the process of evaluating the
+effect of these new requirements, and has not yet determined the impact that it
+will have on its financial statements upon full adoption on March 31,
+2010.
+
+In
+December 2007, the FASB issued SFAS No. 141 (Revised 2007), “Business
+Combinations” (“SFAS 141R”). SFAS 141R will significantly change the accounting
+for business combinations in a number of areas including the treatment of
+contingent consideration, contingencies, acquisition costs, research and
+development assets and restructuring costs. In addition, under SFAS 141R,
+changes in deferred tax asset valuation allowances and acquired income tax
+uncertainties in a business combination after the measurement period will impact
+income taxes. SFAS 141R is effective for fiscal years beginning after
+December 15, 2008. We will apply the provisions of SFAS 141R to future
+acquisitions.
+
+
+ 
+
+
+12
+
+
+
+
+
+Table of Contents
+
+
+In
+December 2007, the FASB issued SFAS No. 160, “Non-controlling
+Interests in Consolidated Financial Statements, an Amendment of ARB
+No. 51.” SFAS 160 amends ARB 51 to establish accounting and reporting
+standards for the non-controlling interest in a subsidiary and for the
+deconsolidation of a subsidiary. It also amends certain of ARB 51’s
+consolidation procedures for consistency with the requirements of SFAS 141R.
+SFAS 160 is effective for fiscal years, and interim periods within those fiscal
+years, beginning on or after December 15, 2008. The statement shall be
+applied prospectively as of the beginning of the fiscal year in which the
+statement is initially adopted. We have adopted the provisions of SFAS 160 which
+did not have a material effect on our financial position, results of operations,
+or cash flows.
+
+In
+February 2007, the FASB issued SFAS No. 159, “The Fair Value Option
+for Financial Assets and Financial Liabilities”, providing companies with an
+option to report selected financial assets and liabilities at fair value. The
+Standard’s objective is to reduce both complexity in accounting for financial
+instruments and the volatility in earnings caused by measuring related assets
+and liabilities differently. Generally accepted accounting principles have
+required different measurement attributes for different assets and liabilities
+that can create artificial volatility in earnings. SFAS 159 helps to mitigate
+this type of accounting-induced volatility by enabling companies to report
+related assets and liabilities at fair value, which would likely reduce the need
+for companies to comply with detailed rules for hedge accounting. The Standard
+requires companies to provide additional information that will help investors
+and other users of financial statements to more easily understand the effect of
+our choice to use fair value on its earnings. It also requires entities to
+display the fair value of those assets and liabilities for which the Company has
+chosen to use fair value on the face of the balance sheet. The effective date of
+SFAS 159 for our Company is April 1, 2008. We have adopted the provisions
+of SFAS 159, and it did not have a material effect on our financial condition or
+results of operations as we did not make any such elections under this fair
+value option.
+
+In
+September 2006, the FASB issued SFAS Statement No. 157, “Fair Value
+Measurements.” SFAS 157 defines fair value, establishes a framework for
+measuring fair value in accordance with generally accepted accounting principles
+and expands disclosures about fair value measurements. SFAS 157 is effective for
+fiscal years beginning after November 15, 2007. In February 2008, the
+FASB issued Staff Position No. FAS 157-2. That guidance proposed a one year
+deferral of the implementation of SFAS 157 for non-financial assets and
+liabilities that are recognized or disclosed at fair value on a nonrecurring
+basis (less frequent than annually). On April 1, 2008, we adopted SFAS
+No. 157 with the one-year deferral for non-financial assets and
+liabilities. The adoption of SFAS No. 157 did not have a material impact on
+our financial position, results of operations, or cash flows. Beginning
+April 1, 2009, we have adopted the provisions for non-financial assets and
+non-financial liabilities that are not required or permitted to be measured at
+fair value on a recurring basis. The adoption did not have a material impact on
+our financial statements.
+
+
+ 
+
+
+13
+
+
+
+
+
+Table of Contents
+
+
+Item
+2. Management’s Discussion and Analysis of Financial Condition and
+Results of Operations
+
+Liquidity
+and Capital Resources
+
+Liquidity
+Outlook. Our primary source of funding is the net cash flow from the sale
+of our oil and gas production. The profitability and cash flow generated by our
+operations in any particular accounting period will be directly related to:
+(a) the volume of oil and gas produced and sold, (b) the average realized
+prices for oil and gas sold, and (c) lifting costs. Assuming that oil
+prices do not decline from current levels, we believe the cash generated from
+operations, along with existing cash balances, will enable us to meet our
+existing and normal recurring obligations during the next fiscal year and
+beyond.
+
+Working Capital.
+At June 30, 2009, we had a working capital surplus of $5,075,000 (a
+current ratio of 3.82:1) compared to a working capital surplus at March 31, 2009
+of $5,045,000 (a current ratio of 4.62:1). The decrease in current ratio is
+largely a result of the respective timing of payments made on the accounts
+payable balance near the end of March 31, 2009.
+
+Cash Flow.
+Net cash provided by operating activities decreased 46.0% from $853,000
+in the three months ended June 30, 2008 (“2008”) to $461,000 in the three months
+ended June 30, 2009 (“2009”) primarily due to decreased oil and gas commodity
+prices.  
+
+Net cash
+used in investing activities decreased 81.8% from $1,831,000 during 2008 to
+$333,000 in the three months ended June 30, 2009. The difference relates
+primarily to significantly more expenditures made during the prior year on the
+DJ Basin wells in Colorado.
+
+Net cash
+used in financing activities was $162,000 at June 30, 2009 as compared to no
+cash used for financing activities at June 30, 2008 since the Company did not
+adopt its stock buyback program until October 2008.
+
+Credit
+Line. Our current banking relationship, established in March 2002,
+is with American National Bank (“the Bank”), located in Denver, Colorado.
+Subject to evaluation every six months, the line of credit amount was set at
+$20,000,000 with a concurrent borrowing base of $4,000,000. Effective
+December 31, 2008 the loan agreement was amended to extend the maturity
+date of the credit agreement to December 31, 2010.  We renewed
+the line with an interest rate of prime plus 0.25% or 6.5% whichever is
+higher.  During the year ended March 31, 2009 and for the three
+months ending June 30, 2009, we did not utilize our credit
+facility.  The loan contains several covenant
+restrictions.   At June 30, 2009, we were in compliance with all
+covenants.  This line may be used for purposes of borrowing funds to
+reduce payables, finance re-completion or drilling efforts, fund property
+acquisitions, or pursue other opportunities that might arise.
+ 
+Capital
+Expenditures
+
+The
+amounts presented herein are presented on an accrual basis, and as such may not
+be consistent with the amounts presented on the consolidated statement of cash
+flows under investing activities for expenditures on oil and gas property in
+that the amounts contained therein are presented on a cash basis.
+
+During
+the quarter ended June 30, 2009, we spent approximately $377,000 on various
+projects.   This compares to $640,000 for the quarter ended June
+30, 2008.
+
+During
+the quarter ended June 30, 2009, nearly 100% of capital expenditures were
+dedicated to drilling and completions.  We spent approximately 38% of
+our capital expenditures amount on the Crown 41-31 project in McKenzie County,
+North Dakota, 12% on the Halvorsen 21X-36 in Richland County, Montana, and 50%
+on the Halvorsen State 31X-36 in Richland County, Montana.  These
+projects were funded with internally generated cash flow from
+operations.
+
+
+ 
+
+
+14
+
+
+
+
+
+Table of Contents
+
+
+ 
+At
+present cash levels, and with the extension of our available borrowing capacity,
+we expect to have sufficient funds available for our share of any additional
+acreage, seismic and/or drilling cost requirements that might arise from these
+opportunities.  We may alter or vary all or part of these planned
+capital expenditures for reasons including but not limited to; changes in
+circumstances, unforeseen opportunities, inability to negotiate favorable
+acquisition, farmout or joint venture terms, lack of cash flow, and lack of
+additional funding.
+
+We
+currently have no capital expenditure commitments.  We are continually
+evaluating other drilling and acquisition opportunities for possible
+participation. Typically, at any one time, several opportunities are in various
+stages of due diligence. Our policy is to not disclose the specifics of a
+project or prospect, nor to speculate on such ventures, until such time as those
+various opportunities are finalized and undertaken. We caution that the absence
+of news and/or press releases should not be interpreted as a lack of development
+or activity.
+
+Divestitures/Abandonments
+
+During
+the quarter ended June 30, 2009 we plugged no additional
+wells.  Instead, all expenses incurred during the quarter were for
+surface restoration.  
+ 
+Results
+of Operations
+
+Overview.
+Net income for the three months ended June 30, 2009 was $249,000
+compared to net income of $1,380,000, for the three months ended June 30,
+2008.  The following table shows selected financial information for
+the quarter ended June 30 in the current and prior year. Certain prior year
+amounts may have been reclassified to conform to current year
+presentation.
+
+
+
+ 
+      
+ 
+      
+
+Three Months
+      Ended
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+June 30,
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+2009
+
+ 
+      
+ 
+      
+
+2008
+
+ 
+      
+
+
+ 
+      
+ 
+      
+
+(Unaudited)
+
+ 
+      
+ 
+      
+ (Unaudited)
+ 
+      
+
+
+
+Sales
+      volume
+
+ 
+      
+ 
+ 
+      
+ 
+      
+ 
+ 
+      
+
+
+
+     Oil
+      (barrels)
+
+ 
+      
+ 
+      
+
+24,343
+
+ 
+      
+ 
+      
+ 
+      
+
+23,911
+
+ 
+      
+
+
+
+     Gas
+      (mcf)
+
+ 
+      
+ 
+      
+
+35,186
+
+ 
+      
+ 
+      
+ 
+      
+
+43,072
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Revenue
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Oil
+
+ 
+      
+
+$
+
+
+1,270,000
+
+ 
+      
+ 
+      
+
+$
+
+
+2,872,000
+
+ 
+      
+
+
+
+     Gas
+
+ 
+      
+ 
+      
+
+190,000
+
+ 
+      
+ 
+      
+ 
+      
+
+434,000
+
+ 
+      
+
+
+
+Total
+      revenue1
+
+ 
+      
+ 
+      
+
+1,460,000
+
+ 
+      
+ 
+      
+ 
+      
+
+3,306,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+      production expense2
+
+ 
+      
+ 
+      
+
+588,000
+
+ 
+      
+ 
+      
+ 
+      
+
+848,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Gross
+      profit
+
+ 
+      
+
+$
+
+
+872,000
+
+ 
+      
+ 
+      
+
+$
+
+
+2,458,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Depletion
+      expense
+
+ 
+      
+
+$
+
+
+230,000
+
+ 
+      
+ 
+      
+
+$
+
+
+212,000
+
+ 
+      
+
+
+
+General
+      and administrative expense
+
+ 
+      
+ 
+      
+
+335,000
+
+ 
+      
+ 
+      
+ 
+      
+
+303,000
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Average
+      sales price3
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Oil
+      (per barrel)
+
+ 
+      
+
+$
+
+
+52.17
+
+ 
+      
+ 
+      
+
+$
+
+
+120.11
+
+ 
+      
+
+
+
+     Gas
+      (per mcf)
+
+ 
+      
+
+$
+
+
+5.40
+
+ 
+      
+ 
+      
+
+$
+
+
+10.08
+
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Average
+      per BOE
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+     Production
+      expense2,3,4
+
+ 
+      
+
+$
+
+
+19.47
+
+ 
+      
+ 
+      
+
+$
+
+
+27.28
+
+ 
+      
+
+
+
+     Gross
+      profit3,4
+
+ 
+      
+
+$
+
+
+28.87
+
+ 
+      
+ 
+      
+
+$
+
+
+79.06
+
+ 
+      
+
+
+
+     Depletion
+      expense3,4
+
+ 
+      
+
+$
+
+
+7.61
+
+ 
+      
+ 
+      
+
+$
+
+
+6.82
+
+ 
+      
+
+
+
+     General
+      and administrative expense3,4
+
+ 
+      
+
+$
+
+
+11.09
+
+ 
+      
+ 
+      
+
+$
+
+
+9.75
+
+ 
+      
+
+
+
+
+
+ 
+
+
+15
+
+
+
+
+
+Table of Contents
+
+ 
+
+
+
+
+
+1
+
+ 
+      
+
+Net
+      of $16,000 in water service and disposal revenue, to total $1,476,000 in
+      revenue for the three months ended June 30, 2009, compared to $13,000 to
+      total $3,319,000 for the same period in 2008.
+
+
+
+
+2
+
+ 
+      
+
+Overall
+      lifting cost (oil and gas production expenses and production
+      taxes)
+
+
+
+
+3
+
+ 
+      
+
+Averages
+      calculated based upon non-rounded figures
+
+
+
+
+4
+
+ 
+      
+
+Per
+      equivalent barrel (6 Mcf of gas is equivalent to 1 barrel of
+      oil)
+
+
+
+
+
+Three
+Months Ended June 30, 2009 Compared to Three Months Ended June 30,
+2008
+
+Revenues.
+Oil and gas sales revenue decreased $1,846,000 (55.8%) in 2009 from 2008 due to
+lower realized oil and gas prices. Oil sales revenue decreased $1,602,000
+(55.8%), and gas sales revenue decreased $244,000 (56.2%) in 2009 from
+2008. 
+
+Volumes and
+Prices. Oil sales volumes increased 1.8%, from 23,911 barrels in 2008 to
+24,343 barrels in 2009 while there was a decrease of 56.6% in the average price
+per barrel from $120.11 in 2008 to $52.17 in 2009. Gas sales volume
+decreased 18.3% from 43,072 thousand cubic feet (Mcf) in 2008 to 35,186 Mcf in
+2009, while the average price per Mcf decreased 46.4%, from $10.08 in 2008 to
+$5.40 in 2009. The decrease in gas sales volume is primarily due to the normal
+decline in production in the Antenna Federal property in Weld County, Colorado.
+On an equivalent barrel (BOE) basis, sales volume decreased 2.8% from
+31,090 BOE in 2008 to 30,207 BOE in 2009.
+
+Expenses.
+Oil and gas production expense decreased $98,000 (17.3%) in 2009 over 2008,
+primarily due to routine lease operating expense declining by $114,000 (25.2%)
+from $453,000 in 2008 to $339,000 in 2009 as a result of decreasing vendor
+prices and shutting in high cost wells.  Workover expense, which is
+more volatile than routine lease operating expense, increased $16,000 (14.2%)
+from $113,000 in 2008 to $129,000 in 2009. Routine lease operating expense per
+BOE decreased 23.0% from $14.61 in 2008 to $11.22 in 2009 while workover expense
+per BOE increased 17.5% from $3.63 in 2008 to $4.27 in 2009.
+
+Production
+taxes, which are generally a percentage of sales revenue, decreased $162,000
+(57.4%) in 2009 compared to 2008 primarily due to the decline of oil prices.
+Production taxes, as a percent of sales revenue decreased from 8.5% in 2008 to
+8.1% in 2009.  The overall lifting cost (oil and gas production
+expense and production taxes) per BOE decreased 28.6% from $27.28 in 2008 to
+$19.47 in 2009.
+ 
+Depreciation,
+depletion and amortization expense increased $17,000 (7.7%) in 2009 compared to
+2008 as a result of a decrease in our reserve values due to the decline in oil
+and gas prices.    
+
+General
+and administrative expense increased $32,000 (10.6%) in 2009 over 2008. These
+increases were primarily the result of increased expenditures attributable to
+the graduated increase in office rent and audit fees.  G&A expense
+per BOE increased 13.8% from $9.75 in 2008 to $11.09 in 2009. As a percent of
+total sales revenue, G&A expense increased from 9.2% in 2008 to 22.7% in
+2009.
+
+Income Tax
+Expense. For the three months ended June 30, 2009, we recorded an income
+tax benefit of $(10,000) as compared to income tax expense of $596,000 for the
+three months ended June 30, 2008.  Our effective income tax rate
+decreased from 29.97% for the three months ended June 30, 2008 to 25.62% for
+2009.  Our effective income tax rate was lower for 2009 primarily due
+to an increase in estimated deductions for statutory depletion.
+
+
+ 
+
+
+16
+
+
+
+
+
+Table of Contents
+
+
+Item
+3. Quantitative and Qualitative Disclosures About Market
+Risk
+
+As a
+crude oil and natural gas producer, our revenue, cash flow from operations,
+other income and profitability, reserve values, access to capital and future
+rate of growth are substantially dependent upon the prevailing prices of crude
+oil and natural gas. Declines in commodity prices will materially and adversely
+affect our financial condition, liquidity, ability to obtain financing and
+operating results. Lower commodity prices may reduce the amount of crude oil and
+natural gas that we can produce economically. Prevailing prices for such
+commodities are subject to wide fluctuation in response to relatively minor
+changes in supply and demand and a variety of additional factors beyond our
+control, such as global, political and economic conditions. Historically, prices
+received for crude oil and natural gas production have been volatile and
+unpredictable, and such volatility is expected to continue. Most of our
+production is sold at market prices. Generally, if the commodity indexes fall,
+the price that we receive for our production will also decline. Therefore, the
+amount of revenue that we realize is to a large extent determined by factors
+beyond our control.
+
+Item 4T.
+Controls and
+Procedures
+
+The
+Company maintains a system of disclosure controls and procedures that are
+designed for the purpose of ensuring that information required to be disclosed
+in its SEC reports is recorded, processed, summarized and reported within the
+time periods specified in the SEC’s rules and forms, and that such information
+is accumulated and communicated to the Company’s management, including the Chief
+Executive Officer and the Principal Accounting Officer, as appropriate to allow
+timely decisions regarding required disclosures.
+
+For the
+quarter ended June 30, 2009 we carried out an evaluation, under the supervision
+and with the participation of the Company’s Chief Executive Officer and
+Principal Accounting Officer, of the effectiveness of the design and operation
+of the Company’s disclosure controls and procedures. Based upon that evaluation,
+it was concluded that the Company’s disclosure controls and procedures are
+effective for the purposes discussed above.
+
+There
+have been no changes in the Company’s internal control over financial reporting
+that occurred during the Company’s quarter ended June 30, 2009 that have
+materially affected, or were reasonably likely to materially affect, the
+Company’s internal control over financial reporting.
+
+
+ 
+
+
+17
+
+
+
+
+
+Table of Contents
+
+
+PART II – OTHER INFORMATION
+
+Item 1. Legal Proceedings
+
+None.
+
+Item
+1A.  Risk Factors.
+
+As a
+“smaller reporting company,” we are not required to provide this
+information.
+
+Item 2. Unregistered
+Sales of Equity Securities and Use of Proceeds
+ 
+Purchases
+of Equity Securities
+ 
+The
+following table summarizes stock repurchase activity for the three months ended
+June 30, 2009:
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+Total
+      Number of Shares Purchased (1)
+
+ 
+      
+ 
+      
+
+Average
+      Price Paid Per Share
+
+ 
+      
+ 
+      
+
+Number
+      of Shares Purchased as Part of a Publicly Announced Plan
+    (1)
+
+ 
+      
+ 
+      
+
+Maximum
+      Shares that May Yet be Purchased under the Plan
+(1)
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+April
+      1, 2009 – April 30, 2009
+
+ 
+      
+ 
+      
+
+3,400
+
+ 
+      
+ 
+      
+
+$
+
+
+                  0.78
+
+ 
+      
+ 
+      
+ 
+      
+
+3,400
+
+ 
+      
+ 
+      
+
+$
+
+
+            466,400
+
+ 
+      
+
+
+
+May
+      1, 2009 – May 31, 2009
+
+ 
+      
+ 
+      
+
+               3,600
+
+ 
+      
+ 
+      
+
+$
+
+
+                  0.78
+
+ 
+      
+ 
+      
+ 
+      
+
+                    3,600
+
+ 
+      
+ 
+      
+
+$
+
+
+            462,800
+
+ 
+      
+
+
+
+June
+      1, 2009 - June 30, 2009(2)
+
+
+  
+
+ 
+      
+
+200,000
+
+ 
+      
+ 
+      
+
+$
+
+
+0.78
+
+ 
+      
+ 
+      
+ 
+      
+
+200,000
+
+ 
+      
+ 
+      
+
+$
+
+
+262,800
+
+ 
+      
+
+
+ 
+      
+
+  
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Total
+
+
+  
+
+ 
+      
+
+207,000
+
+ 
+      
+ 
+      
+$
+      
+
+ 
+      0.78
+
+ 
+      
+ 
+      
+ 
+      
+
+207,000
+
+ 
+      
+ 
+      
+$
+      
+          
+       262,800
+ 
+      
+
+
+
+ 
+
+
+
+
+(1)
+
+
+In
+      October 2008, the Company’s Board of Directors authorized a stock buyback
+      program for the Company to repurchase up to 500,000 shares of its common
+      stock. The program does not have a specified expiration date, it does not
+      require the Company to repurchase any specific number of shares, and the
+      Company may terminate the repurchase program at any
+      time.  During the three months ended June 30, 2009, 207,000
+      shares were repurchased under the stock buyback program and 262,800 shares
+      remain available for future repurchase.
+ 
+
+
+
+
+(2)
+
+
+ Of
+      the shares purchased during this month, 200,000 were purchased in a
+      private arms-length transaction at the market
+  price.
+
+
+
+
+
+Item 3.
+Defaults Upon Senior
+Securities
+
+None.
+
+Item 4.
+Submission
+of Matters to a Vote of Security Holders
+
+None.
+
+Item 5. Other
+Information
+
+None.
+
+
+ 
+
+
+18
+
+
+
+
+
+Table of Contents
+
+
+Item 6. Exhibits
+
+
+
+
+
+Exhibit
+      No.
+
+ 
+      
+
+Document
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+31.1
+
+ 
+      
+
+Certification
+      Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (Ray
+      Singleton, Chief Executive Officer).
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+31.2
+
+ 
+      
+
+Certification
+      Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (Joseph
+      Young, Principal Accounting Officer).
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+32.1
+
+ 
+      
+
+Certification
+      Pursuant to 18 U.S.C. §1350, as Adopted Pursuant to Section 906 of
+      the Sarbanes-Oxley Act of 2002 (Ray Singleton, Chief Executive
+      Officer).
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+32.2
+
+ 
+      
+
+Certification
+      Pursuant to 18 U.S.C. §1350, as Adopted Pursuant to Section 906 of
+      the Sarbanes-Oxley Act of 2002 (Joseph Young, Principal Accounting
+      Officer).
+
+
+
+
+ 
+
+
+ 
+
+
+19
+
+
+
+
+
+Table of Contents
+
+
+SIGNATURES
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report is
+signed by the following authorized persons on behalf of Basic.
+
+
+
+
+
+BASIC
+      EARTH SCIENCE SYSTEMS, INC.
+ 
+
+ 
+      
+ 
+      
+
+
+
+By: /s/ Ray Singleton
+       
+
+ 
+      
+ 
+      
+
+
+
+Ray
+      Singleton 
+
+ 
+      
+ 
+      
+
+
+
+President
+      and Chief Executive Officer 
+
+ 
+      
+ 
+      
+
+
+ 
+ 
+ 
+
+
+
+By: /s/ Joseph Young
+       
+
+ 
+      
+ 
+      
+
+
+
+Joseph
+      Young
+
+ 
+      
+ 
+      
+
+
+
+Principal
+      Accounting Officer 
+
+ 
+      
+ 
+      
+
+
+ 
+ 
+ 
+
+
+Date:
+      August 12, 2009 
+ 
+ 
+
+
+
+
+
+
+
+EX-31.1
+2
+ex_31-1.htm
+CERTIFICATION - SECTION 302 - CEO
+
+ex_31-1.htm
+
+
+
+
+
+
+ 
+Exhibit
+31.1
+ 
+CERTIFICATION
+CHIEF EXECUTIVE OFFICER
+ 
+I, Ray
+Singleton, hereby certify that:
+ 
+
+
+
+
+1.
+
+
+I
+      have reviewed this report on Form 10-Q for Basic Earth Science Systems,
+      Inc.;
+
+
+
+ 
+      
+ 
+      
+
+
+
+2.
+
+
+Based
+      on my knowledge, this report does not contain any untrue statement of a
+      material fact or omit to state a material fact necessary to make the
+      statements made, in light of the circumstances under which such statements
+      were made, not misleading with respect to the period covered by this
+      report;
+
+
+
+ 
+      
+ 
+      
+
+
+
+3.
+
+
+Based
+      on my knowledge, the financial statements, and other financial information
+      included in this report, fairly present in all material respects the
+      financial condition, results of operations and cash flows of the small
+      business issuer as of, and for, the periods presented in this
+      report;
+
+
+
+ 
+      
+ 
+      
+
+
+
+4.
+
+
+The
+      small business issuer’s other certifying officer and I are responsible for
+      establishing and maintaining disclosure controls and procedures (as
+      defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the small
+      business issuer and have:
+
+
+
+
+ 
+
+
+
+ 
+      
+
+(a)
+
+
+designed
+      such disclosure controls and procedures, or caused such disclosure
+      controls and procedures to be designed under our supervision, to ensure
+      that material information relating to the small business issuer and its
+      consolidated subsidiaries, is made known to us by others within those
+      entities, particularly during the period in which this report is being
+      prepared;
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(b)
+
+
+evaluated
+      the effectiveness of the small business issuer’s disclosure controls and
+      procedures and presented in this report our conclusions about the
+      effectiveness of the disclosure controls and procedures, as of the end of
+      the period covered by this report based on such evaluation;
+      and
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(c)
+
+
+disclosed
+      in this report any change in the small business issuer’s internal control
+      over financial reporting that occurred during the small business issuer’s
+      last quarter of the current fiscal year that has materially affected, or
+      is reasonably likely to materially affect, the small business issuer’s
+      internal control over financial
+reporting.
+
+
+
+
+ 
+
+
+
+
+5.
+
+
+The
+      small business issuer’s other certifying officer and I have disclosed,
+      based on our most recent evaluation of internal control over financial
+      reporting, to the small business issuer’s auditors and the Audit Committee
+      of the small business issuer’s Board of
+  Directors:
+
+
+
+
+ 
+
+
+
+ 
+      
+
+(a)
+
+
+all
+      significant deficiencies and material weaknesses in the design or
+      operation of internal controls over financial reporting which are
+      reasonably likely to adversely affect the small business issuer’s ability
+      to record, process, summarize, and report financial information;
+      and
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(b)
+
+
+any
+      fraud, whether or not material, that involves management or other
+      employees who have a significant role in the small business issuer’s
+      internal control over financial
+reporting.
+
+
+
+
+ 
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+EXECUTED
+      this 12th day of August, 2009.
+
+ 
+      
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+By: /s/ Ray
+      Singleton    
+
+ 
+      
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Ray
+      Singleton
+
+ 
+      
+ 
+      
+
+
+
+President
+      and Chief Executive Officer
+
+ 
+      
+ 
+      
+
+
+
+
+
+
+EX-31.2
+3
+ex_31-2.htm
+CERTIFICATION - SECTION 302 - PAO
+
+ex_31-2.htm
+
+
+
+
+
+
+
+
+ 
+Exhibit
+31.2
+ 
+CERTIFICATION
+OF PRINCIPAL ACCOUNTING OFFICER
+ 
+I, Joseph
+Young, hereby certify that:
+ 
+
+
+
+
+1.
+
+
+I
+      have reviewed this report on Form 10-Q for Basic Earth Science Systems,
+      Inc.;
+
+
+
+ 
+      
+ 
+      
+
+
+
+2.
+
+
+Based
+      on my knowledge, this report does not contain any untrue statement of a
+      material fact or omit to state a material fact necessary to make the
+      statements made, in light of the circumstances under which such statements
+      were made, not misleading with respect to the period covered by this
+      report;
+
+
+
+ 
+      
+ 
+      
+
+
+
+3.
+
+
+Based
+      on my knowledge, the financial statements, and other financial information
+      included in this report, fairly present in all material respects the
+      financial condition, results of operations and cash flows of the small
+      business issuer as of, and for, the periods presented in this
+      report;
+
+
+
+ 
+      
+ 
+      
+
+
+
+4.
+
+
+The
+      small business issuer’s other certifying officer and I are responsible for
+      establishing and maintaining disclosure controls and procedures (as
+      defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the small
+      business issuer and have:
+
+
+
+
+ 
+
+
+
+ 
+      
+
+(a)
+
+
+designed
+      such disclosure controls and procedures, or caused such disclosure
+      controls and procedures to be designed under our supervision, to ensure
+      that material information relating to the small business issuer and its
+      consolidated subsidiaries, is made known to us by others within those
+      entities, particularly during the period in which this report is being
+      prepared;
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(b)
+
+
+evaluated
+      the effectiveness of the small business issuer’s disclosure controls and
+      procedures and presented in this report our conclusions about the
+      effectiveness of the disclosure controls and procedures, as of the end of
+      the period covered by this report based on such evaluation;
+      and
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(c)
+
+
+disclosed
+      in this report any change in the small business issuer’s internal control
+      over financial reporting that occurred during the small business issuer’s
+      last quarter of the current fiscal year that has materially affected, or
+      is reasonably likely to materially affect, the small business issuer’s
+      internal control over financial
+reporting.
+
+
+
+
+ 
+
+
+
+
+5.
+
+
+The
+      small business issuer’s other certifying officer and I have disclosed,
+      based on our most recent evaluation of internal control over financial
+      reporting, to the small business issuer’s auditors and the Audit Committee
+      of the small business issuer’s Board of
+  Directors:
+
+
+
+
+ 
+
+
+
+ 
+      
+
+(a)
+
+
+all
+      significant deficiencies and material weaknesses in the design or
+      operation of internal controls over financial reporting which are
+      reasonably likely to adversely affect the small business issuer’s ability
+      to record, process, summarize, and report financial information;
+      and
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(b)
+
+
+any
+      fraud, whether or not material, that involves management or other
+      employees who have a significant role in the small business issuer’s
+      internal control over financial
+reporting.
+
+
+
+
+ 
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+EXECUTED
+      this 12th day of August, 2009.
+
+ 
+      
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+By: /s/ Joseph
+      Young    
+
+ 
+      
+ 
+      
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Joseph
+      Young
+
+ 
+      
+ 
+      
+
+
+
+Principal
+      Accounting Officer
+
+ 
+      
+ 
+      
+
+
+
+
+
+
+EX-32.1
+4
+ex_32-1.htm
+CERTIFICATION - SECTION 906 - CEO
+
+ex_32-1.htm
+
+
+
+
+
+
+ 
+Exhibit 32.1
+ 
+CERTIFICATION
+PURSUANT TO
+18
+U.S.C. §1350,
+AS
+ADOPTED PURSUANT TO
+SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002
+ 
+ 
+In
+connection with the Annual Report of Basic Earth Science Systems, Inc. (the
+“Company”) on Form 10-Q for the period ended June 30, 2009 to be filed
+with the Securities and Exchange Commission on August 12, 2009 (the “Report”),
+I, Ray Singleton, as President and Chief Executive Officer of the Company,
+certify, pursuant to 18 U.S.C. §1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that:
+ 
+ 
+
+
+
+ 
+      
+
+(1)
+
+ 
+      
+
+The
+      Report fully complies with the requirements of section 13(a) of the
+      Securities Exchange Act of 1934; and
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(2)
+
+ 
+      
+
+The
+      information contained in the Report fairly presents, in all material
+      respects, the financial condition and result of operations of the
+      Company.
+
+
+
+
+ 
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+By: /s/ Ray
+      Singleton    
+
+ 
+      
+
+August
+      12, 2009
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Ray
+      Singleton, President and
+
+ 
+      
+ 
+      
+
+
+
+Chief
+      Executive Officer
+
+ 
+      
+ 
+      
+
+
+
+
+
+
+EX-32.2
+5
+ex_32-2.htm
+CERTIFICATION - SECTION 906 - PAO
+
+ex_32-2.htm
+
+
+
+
+
+
+ 
+Exhibit
+32.2
+ 
+CERTIFICATION
+PURSUANT TO
+18
+U.S.C. §1350,
+AS
+ADOPTED PURSUANT TO
+SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002
+ 
+ 
+In
+connection with the Annual Report of Basic Earth Science Systems, Inc. (the
+“Company”) on Form 10-Q for the period ended June 30, 2009 to be filed with the
+Securities and Exchange Commission on August 12, 2009 (the “Report”), I, Joseph
+Young, as Principal Accounting Officer of the Company, certify, pursuant to 18
+U.S.C. §1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, that:
+ 
+ 
+
+
+
+ 
+      
+
+(1)
+
+ 
+      
+
+The
+      Report fully complies with the requirements of section 13(a) of the
+      Securities Exchange Act of 1934; and
+
+
+
+ 
+      
+ 
+      
+ 
+      
+ 
+      
+
+
+ 
+      
+
+(2)
+
+ 
+      
+
+The
+      information contained in the Report fairly presents, in all material
+      respects, the financial condition and result of operations of the
+      Company.
+
+
+
+
+ 
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+By: /s/ Joseph
+      Young    
+
+ 
+      
+
+August
+      12, 2009
+
+
+
+ 
+      
+ 
+      
+ 
+      
+
+
+
+Joseph
+      Young,
+
+ 
+      
+ 
+      
+
+
+
+Princpal
+      Accounting Officer
+
+ 
+      
+ 
+      
+
+
+
+
+
+
+-----END PRIVACY-ENHANCED MESSAGE-----
