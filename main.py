@@ -30,7 +30,7 @@ for fileind, onefile in enumerate(filelist):
                       encoding='utf-8', mode='w')
         print('Autosaved')
     if fileind % 30 == 29:
-        tblsave.to_csv('batch%s.csv' % str(writeind), sep=',',
+        tblsave.to_csv('batch{0:0>5}.csv'.format(writeind), sep=',',
                       encoding='utf-8', mode='w')
         print('Saved 30 entries to file batch%s.csv' % writeind)
         tblsave = []

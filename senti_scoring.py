@@ -122,6 +122,7 @@ def extend_digits(num_digits):
             numlist = re.findall(r'h(\d+)\.csv', filename)
             if numlist:
                 newname = formstr.format(int(numlist[0]))
+                os.rename(filename, newname)
 
 def save_combiner():
     filelist = os.listdir()
@@ -133,13 +134,24 @@ def save_combiner():
     mastertb = pd.concat(tblist, ignore_index=True)
     return mastertb
 
-def pre_analysis(tablein):
+
+def find_invalid(tablein):
+    LMarray = tablein[LM_Selected].as_matrix()
     
+    # Criteria: Rows with 4 or fewer (out of 8) LM fields with scores >= 5
+    threshing = np.sum(LMarray >= 5, axis=1)
+    indinval = list(np.array(np.where(threshing <= 4)))
+    tableout = tablein.drop(tablein.index[indinval])
+    return tableout
 
 
-
-
-
+def diff_ingroup(tablein, sorts, groups):
+    tableout = tablein.sort_values(sorts, axis=0, inplace=False)
+    tablegrp = tableout.groupby(groups)
+    tableout[LM_Selected] = tablegrp[LM_Selected].diff()
+    tableout[Harvard_Selected] = tablegrp[Harvard_Selected].diff()
+    tableout.insert(2, 'Elapsed_Days', tablegrp['Date'].diff().dt.days)
+    return tableout
 
 
 
