@@ -96,7 +96,8 @@ def find_scores(docwords):
     Find a documents sentiment scores based on parsed words.
     return: 1-d numpy array
     '''
-    cumscore = np.zeros((ltotal,), dtype=float)
+    wcount = float(len(docwords))
+    cumscore = np.zeros((ltotal+1,), dtype=float)
     for word in docwords:
         # Basically a LUT process
         if 'NOT_' in word:
@@ -109,11 +110,12 @@ def find_scores(docwords):
             cumscore[0:lLM] += pola * \
                 LMred.query('Word=="%s"' % word).as_matrix(LM_Selected)[0]
         if word in HVdict:
-            cumscore[lLM:] += pola * HVred.query(
+            cumscore[lLM:ltotal] += pola * HVred.query(
                 'Entry=="%s"' % word).as_matrix(Harvard_Selected)[0]
-
+    cumscore[ltotal] = wcount
     cumscore = np.array([cumscore])
     return cumscore
+
 
 def extend_digits(num_digits):
     formstr = 'batch{0:0>' + str(num_digits) + '}.csv'
@@ -123,6 +125,7 @@ def extend_digits(num_digits):
             if numlist:
                 newname = formstr.format(int(numlist[0]))
                 os.rename(filename, newname)
+
 
 def save_combiner():
     filelist = os.listdir()
@@ -152,6 +155,20 @@ def diff_ingroup(tablein, sorts, groups):
     tableout[Harvard_Selected] = tablegrp[Harvard_Selected].diff()
     tableout.insert(2, 'Elapsed_Days', tablegrp['Date'].diff().dt.days)
     return tableout
+
+
+def normalize_per_grpmedian(tablein, groups):
+    tablegrp = tablein.groupby(groups)
+    SelectList = LM_Selected + Harvard_Selected
+    procdf = tablegrp[SelectList].transform(lambda x: x / x.median())
+    tableout = tablein[['Tic','Date','Type']].join(procdf)
+    tableout = tableout.replace(np.inf, np.float64(1))
+    tableout = tableout.replace(np.nan, np.float64(0))
+    return tableout
+
+
+
+
 
 
 
